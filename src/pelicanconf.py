@@ -15,10 +15,10 @@ DELETE_OUTPUT_DIRECTORY = True
 
 
 AUTHOR = u'Victor Domingos'
-SITENAME = u'The <strong>No&nbsp;Title<small><sup>&reg;</sup></small></strong> Tech&nbsp;Blog'
+SITENAME = u'Victor Domingos'
 SITEURL = u'https://no-title.victordomingos.com'
-BIO = u'Tales of an exploration on antigravity and other potentialy unrelated matters'
-DESCRIPTION = u'A personal blog about learning programming technologies, including programming Python, Pelican, tkinter, HTML, CSS, SQL, Flask, and other stuff.'
+BIO = u'Página oficial do autor'
+DESCRIPTION = u'Página oficial de Victor Domingos - escritor e poeta português, autor de livros de narrativa e poesia, em edição impressa e e-book.'
 
 PATH = 'content'
 STATIC_PATHS = ['images']
@@ -28,8 +28,8 @@ DEFAULT_PAGINATION = 6
 DEFAULT_ORPHANS = 2
 
 TIMEZONE = 'Europe/Lisbon'
-DEFAULT_LANG = 'en'
-LOCALE = "en_GB"
+DEFAULT_LANG = 'pt'
+LOCALE = "pt_PT"
 
 HIDE_AUTHORS = True
 TYPOGRIFY = True
@@ -37,8 +37,8 @@ SUMMARY_MAX_LENGTH = 150
 PAGE_ORDER_BY = 'reversed-basename'
 WITH_FUTURE_DATES = False
 
-AUTHORS_SAVE_AS = 'authors/index.html'
-CATEGORIES_SAVE_AS = 'categories/index.html'
+AUTHORS_SAVE_AS = 'autores/index.html'
+CATEGORIES_SAVE_AS = 'categorias/index.html'
 TAGS_SAVE_AS = 'tags/index.html'
 
 ARTICLE_URL = 'articles/{date:%Y}/{slug}'
@@ -48,11 +48,11 @@ ARTICLE_SAVE_AS = 'articles/{date:%Y}/{slug}/index.html'
 PAGE_URL = '{category}/{slug}'
 PAGE_SAVE_AS = '{category}/{slug}/index.html'
 
-AUTHOR_URL = 'author/{slug}/'
-AUTHOR_SAVE_AS = 'author/{slug}/index.html'
+AUTHOR_URL = 'autor/{slug}/'
+AUTHOR_SAVE_AS = 'autor/{slug}/index.html'
 
-YEAR_ARCHIVE_SAVE_AS = 'articles/{date:%Y}/index.html'
-MONTH_ARCHIVE_SAVE_AS = 'articles/{date:%Y}/{date:%m}/index.html'
+YEAR_ARCHIVE_SAVE_AS = 'artigos/{date:%Y}/index.html'
+MONTH_ARCHIVE_SAVE_AS = 'artigos/{date:%Y}/{date:%m}/index.html'
 
 TAG_URL = 'tag/{slug}'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
