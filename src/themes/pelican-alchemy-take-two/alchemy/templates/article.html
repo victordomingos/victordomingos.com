@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+
+{% block head %}
+  {{ super() }}
+  <meta name="description" content="{{ article.summary|striptags }}">
+{% endblock %}
+
+{% block title %}
+  {{ article.title|striptags }} {{ super() }}
+{% endblock %}
+
+{% block page_header %}
+  {{ article.title }}
+{% endblock %}
+
+{% block content %}
+  <article class="article">
+    <header>
+      <ul class="list-inline">
+        <li class="list-inline-item text-muted" title="{{ article.date.isoformat() }}">
+          <img class="icon" src="{{ SITEURL }}/images/socialicons/clock-o.svg">{{ article.locale_date }}
+        </li>
+        <li class="list-inline-item">
+            <img class="icon" src="{{ SITEURL }}/images/socialicons/user-o.svg">
+            {% for author in article.authors %}<a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>{% if not loop.last %}, {% endif %} 
+            {% endfor %}
+        </li>
+        <li class="list-inline-item">
+          <img class="icon" src="{{ SITEURL }}/images/socialicons/folder-open-o.svg">
+          <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+        </li>
+
+
+        
+        
+      </ul>
+    </header>
+    {% if article.cover %}
+      <picture>
+        <source id="cover" media="(min-width: 650px)" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("1300x_") }}" alt="{{ article.title }}">
+        <source id="cover" media="(min-width: 465px)" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("650x_") }}" alt="{{ article.title }}">
+        <img id="cover" src="{{ SITEURL }}/{{ article.cover }}" alt="{{ article.title }}">
+      </picture>
+    {% endif %}
+    <div id="article-summary">
+	    <p>{{ article.summary }}</p>
+    </div>
+    <div class="content">
+      {{ article.content }}
+
+    <p></p>
+    <!--
+    <div class="article_footer">
+	<ul class="list-inline">
+        {% if article.tags %}
+          <li class="list-inline-item">
+            <img class="icon" src="{{ SITEURL }}/images/socialicons/files-o.svg">
+            {% for tag in article.tags %}
+              <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}
+            {% endfor %}
+            </li>
+        {% endif %}
+    </ul>
+    </div>
+    -->
+
+
+
+    {% if article.related_posts %}
+    <div class="related_articles">
+    <h5 class="related_articles_header">You may also be interested:</h5>
+    <table>
+          {% for related_post in article.related_posts %}
+             <tr>
+                <td>
+                    <a href="{{ SITEURL }}/{{ related_post.url }}">
+                        <img height="40px" src="{{ SITEURL }}/{{related_post.cover | thumbnail("_x80") }}" alt="{{ related_post.title }}">
+                    </a>
+                </td>
+                <td>
+                    <a href="{{ SITEURL }}/{{ related_post.url }}">
+                        {{ related_post.title }}
+                    </a>
+                </td>
+            </tr>
+          {% endfor %}
+     </table>
+    </div>
+    {% endif %}
+
+
+
+
+{% if article.prev_article or article.next_article %}
+    <hr>
+    <div class="article_footer">
+    <table width=100%><tr>
+        <td align="left">
+          {% if article.prev_article %}
+            <a href="{{ SITEURL }}/{{ article.prev_article.url}}">❮ {{ article.prev_article.title }}</a>
+          {% endif %}
+        </td>
+ 
+        <td>
+           <!-- Just a spacer in the middle -->
+        </td>
+        
+        <td align="right">
+          {% if article.next_article %}
+            <a href="{{ SITEURL }}/{{ article.next_article.url}}">{{ article.next_article.title }} ❯</a>
+          {% endif %}
+        </td>
+    </tr></table>
+    </div>
+    <hr>
+{% endif %}
+
+
+
+    </article>
+  {% include 'include/comments.html' %}
+{% endblock %}
