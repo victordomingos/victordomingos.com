@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 echo " "
 echo "Obtaining current source from Git repository..."
-git clone https://github.com/victordomingos/The-No-Title-Tech-Blog.git
-cd The-No-Title-Tech-Blog
+git clone https://github.com/victordomingos/victordomingos.com.git
+cd victordomingos.com
 cd src
 pelican content
 ls -lhosa

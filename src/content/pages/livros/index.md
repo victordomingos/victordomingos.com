@@ -1,7 +1,7 @@
-Title: Projects
-Slug: projects
-Cover: /images/projects/repservice.jpg
-Lang: en
+Title: Livros
+Slug: livros
+Cover: 
+Lang: pt
 
 <article>
 <p>Here you can find a few of my programming projects. Most of them started as a learning experience and then evolved into a daily basis tool. I like to learn through real world examples, so I always try to solve some kind of problem while learning how to use a new Python feature or some API. So, I would probably write each of these applications in a very different way if I was starting it as a new project.</p>
