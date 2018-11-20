@@ -41,18 +41,18 @@ AUTHORS_SAVE_AS = 'autores/index.html'
 CATEGORIES_SAVE_AS = 'categorias/index.html'
 TAGS_SAVE_AS = 'tags/index.html'
 
-ARTICLE_URL = 'articles/{date:%Y}/{slug}'
-ARTICLE_SAVE_AS = 'articles/{date:%Y}/{slug}/index.html'
+ARTICLE_URL = 'index_files/{slug}.php'
+ARTICLE_SAVE_AS = 'index_files/{slug}.php'
 
 
-PAGE_URL = '{category}/{slug}'
-PAGE_SAVE_AS = '{category}/{slug}/index.html'
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = '{slug}/index.html'
 
 AUTHOR_URL = 'autor/{slug}/'
 AUTHOR_SAVE_AS = 'autor/{slug}/index.html'
 
-YEAR_ARCHIVE_SAVE_AS = 'artigos/{date:%Y}/index.html'
-MONTH_ARCHIVE_SAVE_AS = 'artigos/{date:%Y}/{date:%m}/index.html'
+YEAR_ARCHIVE_SAVE_AS = 'index_files/archive-{date:%Y}.php'
+MONTH_ARCHIVE_SAVE_AS = 'index_files/archive-{date:%Y}.php'
 
 TAG_URL = 'tag/{slug}'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
@@ -62,9 +62,9 @@ DRAFT_SAVE_AS = 'drafts/{slug}/index.html'
 
 DEFAULT_DATE_FORMAT = '%d %B %Y'
 
-FEED_ALL_RSS = 'feeds/all_rss.xml'
-CATEGORY_FEED_RSS = 'feeds/{slug}_rss.xml'
-TAG_FEED_RSS = 'feeds/{slug}_rss.xml'
+FEED_ALL_RSS = 'index_files/feed.xml'
+CATEGORY_FEED_RSS = 'index_files/{slug}_rss.xml'
+TAG_FEED_RSS = 'index_files/{slug}_rss.xml'
 
 # global metadata to all the contents
 DEFAULT_METADATA = {'author': 'Victor Domingos'}
