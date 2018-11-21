@@ -1,6 +1,8 @@
 Title: Pesqusia 
 Slug: pesquisa
 Lang: pt
+Status: hidden
+
 
 The No Title<sup>®</sup> Tech Blog is a place for experimentation. I started it as a small personal challenge, just to see if I could implement a Python-based workflow for easy web publishing, without the need for any special local or remote hardware requirements.
 

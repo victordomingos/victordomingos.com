@@ -1,6 +1,7 @@
 Title: As Confissões de Dulce
 Slug: as_confissoes_de_dulce
 Category: Livros
+Status: hidden
 
 ISBN: 9781466050068
 [Apple Books (iPhone/iPad)](http://itunes.apple.com/pt/book/id476477238)

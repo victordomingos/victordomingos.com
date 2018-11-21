@@ -1,5 +1,6 @@
 Title: Mapa do site
 Slug: sitemap
+Status: hidden
 
 Blog
 Biografia

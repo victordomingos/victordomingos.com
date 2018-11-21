@@ -1,6 +1,7 @@
 Title: Participação em revistas e antologias
 Slug: revistas_e_antologias
 Category: Livros
+Status: hidden
 
 
 ## Participação em revistas e antologias:

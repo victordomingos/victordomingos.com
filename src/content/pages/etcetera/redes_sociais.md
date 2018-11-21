@@ -1,6 +1,7 @@
 Title: Redes Sociais 
 Slug: redes_sociais
 Lang: pt
+Status: hidden
 
 [Facebook](http://facebook.com/escritorvictordomingos)
 

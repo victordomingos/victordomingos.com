@@ -1,6 +1,8 @@
 Title: Outras edições
 Slug: outras_edicoes
 Category: Livros
+Status: hidden
+
 
 ## Como editor/organizador:
 

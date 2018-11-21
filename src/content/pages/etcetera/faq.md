@@ -1,5 +1,6 @@
 Title: Perguntas frequentes
 Slug: faq
+Status: hidden
 
 
 ## Contactos, entrevistas, eventos, colaborações, etc.

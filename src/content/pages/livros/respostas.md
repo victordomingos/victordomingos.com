@@ -1,6 +1,8 @@
 Title: As respostas dos leitores-autores ao livro de poesia É Preciso Calar o Monólogo
 Slug: respostas
 Category: Livros
+Status: hidden
+
 
 ## Yvette R. (Brasil)
 
