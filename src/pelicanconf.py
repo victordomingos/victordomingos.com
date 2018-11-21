@@ -51,7 +51,7 @@ AUTHOR_URL = 'autor/{slug}/'
 AUTHOR_SAVE_AS = 'autor/{slug}/index.html'
 
 YEAR_ARCHIVE_SAVE_AS = 'index_files/archive-{date:%Y}.php'
-MONTH_ARCHIVE_SAVE_AS = 'index_files/archive-{date:%Y}.php'
+MONTH_ARCHIVE_SAVE_AS = 'index_files/archive-{date:%M}.php'
 
 TAG_URL = 'tag/{slug}'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
@@ -76,7 +76,7 @@ DISPLAY_PAGES_ON_MENU = True
 RELATIVE_URLS = True
 
 THEME = "themes/pelican-alchemy-take-two/alchemy"
-SITESUBTITLE = 'Tales of an exploration on antigravity and other potentialy unrelated matters'
+SITESUBTITLE = 'Aprendiz de poeta e tantas coisas mais'
 
 DISPLAY_DATE_ON_ARTICLE_LIST = False
 SITEIMAGE_FOLDER = 'images/avatars/x150'  # Images to be used randomly in the header
