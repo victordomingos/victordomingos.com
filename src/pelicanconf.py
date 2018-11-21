@@ -77,7 +77,7 @@ DISPLAY_PAGES_ON_MENU = True
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-THEME = "themes/pelican-alchemy-take-two/alchemy"
+THEME = "themes/hyde"
 SITESUBTITLE = 'Aprendiz de poeta e tantas coisas mais'
 
 DISPLAY_DATE_ON_ARTICLE_LIST = False
