@@ -37,7 +37,9 @@ PAGE_ORDER_BY = 'reversed-basename'
 WITH_FUTURE_DATES = False
 
 AUTHORS_SAVE_AS = ''
-CATEGORIES_SAVE_AS = 'categorias/index.html'
+CATEGORIES_SAVE_AS = 'category/index.html'
+CATEGORY_URL = 'index_files/{category}.php'
+CATEGORY_SAVE_AS = 'index_files/{category}.php'
 TAGS_SAVE_AS = ''
 
 ARTICLE_URL = 'index_files/{slug}.php'
