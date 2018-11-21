@@ -1,6 +1,6 @@
 Title: Livros
-Slug: livros
-
+Slug: index
+Category: Livros
 
 ## Poesia
 

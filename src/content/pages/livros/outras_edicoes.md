@@ -1,6 +1,6 @@
 Title: Outras edições
 Slug: outras_edicoes
-
+Category: Livros
 
 ## Como editor/organizador:
 

@@ -1,5 +1,6 @@
 Title: Manual de Trigonometria Aplicada
 Slug: manual_de_trigonometria_aplicada
+Category: Livros
 
 
 Vencedor do 1º prémio do Concurso Literário “Ecos da Memória” 

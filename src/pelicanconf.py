@@ -36,25 +36,25 @@ SUMMARY_MAX_LENGTH = 150
 PAGE_ORDER_BY = 'reversed-basename'
 WITH_FUTURE_DATES = False
 
-AUTHORS_SAVE_AS = 'autores/index.html'
+AUTHORS_SAVE_AS = ''
 CATEGORIES_SAVE_AS = 'categorias/index.html'
-TAGS_SAVE_AS = 'tags/index.html'
+TAGS_SAVE_AS = ''
 
 ARTICLE_URL = 'index_files/{slug}.php'
 ARTICLE_SAVE_AS = 'index_files/{slug}.php'
 
 
-PAGE_URL = '{slug}'
-PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_URL = '{category}/{slug}'
+PAGE_SAVE_AS = '{category}/{slug}/index.html'
 
-AUTHOR_URL = 'autor/{slug}/'
-AUTHOR_SAVE_AS = 'autor/{slug}/index.html'
+AUTHOR_URL = ''
+AUTHOR_SAVE_AS = ''
 
 YEAR_ARCHIVE_SAVE_AS = 'index_files/archive-{date:%Y}.php'
-MONTH_ARCHIVE_SAVE_AS = 'index_files/archive-{date:%M}.php'
+MONTH_ARCHIVE_SAVE_AS = ''
 
-TAG_URL = 'tag/{slug}'
-TAG_SAVE_AS = 'tag/{slug}/index.html'
+TAG_URL = ''
+TAG_SAVE_AS = ''
 
 DRAFT_URL = 'drafts/{slug}'
 DRAFT_SAVE_AS = 'drafts/{slug}/index.html'
@@ -99,7 +99,7 @@ ICONS = (('facebook', 'https://www.facebook.com/escritorvictordomingos/'),
 
 PLUGIN_PATHS = ['plugins/']
 PLUGINS = [
-	   'autostatic',
+           'autostatic',
            'advthumbnailer',
            'related_posts',
            'neighbors',
