@@ -50,13 +50,17 @@
         The MIT License (MIT) 
         Original script: https://github.com/mitch-b/web/blob/master/content/assets/auto-target.js
       */
+      function hasSomeParentTheClass(element,classname) {
+          if (element.className.split(' ').indexOf(classname)>=0) return true;
+          return element.parentNode && hasSomeParentTheClass(element.parentNode, classname);
+      }
       (function() {
         var hostname = window.location.host;
         hostname = hostname.split('.').slice(-2).join('.');
         var new_tab = true;
         var set_icon = true;
         for (var links = document.links, i = 0, a; a = links[i]; i++) {
-            if (a.hostname !== hostname && a.classList.contains("post")) {
+            if (a.hostname !== hostname && hasSomeParentTheClass(a,"post")) {
                 if (new_tab)
                     a.target = '_blank';
                 if (set_icon)
