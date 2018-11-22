@@ -46,6 +46,14 @@ html {
 }
 
 
+.external-link-margin {
+    margin-left:3px;
+    vertical-align: super;
+    font-size:.7em;
+}
+
+
+
 /*
  * Sidebar
  *
