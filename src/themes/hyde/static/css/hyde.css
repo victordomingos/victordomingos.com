@@ -147,6 +147,9 @@ a.sidebar-nav-item.active:focus {
  * Align the contents of the site above the proper threshold with some margin-fu
  * with a 25%-wide `.sidebar`.
  */
+.content .h1 {
+  font-size: 1.3rem;
+}
 
 .content {
   padding-top:    4rem;
