@@ -90,7 +90,7 @@ SITEIMAGES = [ Path(*Path(img).parts[1:])
 SITEIMAGE_SIZE = 'width=100% height=100%'
 SITEIMAGE = '/images/avatars/x150/avatar1.png' # Default Image that appears in the header
 
-PROFILE_IMAGE = '/images/autor/autor_victor-domingos_O_280.jpg'
+PROFILE_IMAGE = 'autor/autor_victor-domingos_O_280.jpg'
 
 # Social widget
 ICONS = (('facebook', 'https://www.facebook.com/escritorvictordomingos/'),
