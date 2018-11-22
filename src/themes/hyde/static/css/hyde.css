@@ -82,7 +82,7 @@ html {
   margin-top: 0;
   /* font-family: "Abril Fatface", serif;*/
   font-family: "PT Sans",Helvetica,Arial,sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
 }
 
 .sidebar-about .lead {
@@ -158,7 +158,7 @@ a.sidebar-nav-item.active:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 40rem;
+    max-width: 35rem;
     margin-left: 15rem;
     margin-right: 2rem;
   }
