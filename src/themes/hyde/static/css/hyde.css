@@ -46,14 +46,6 @@ html {
 }
 
 
-.external-link-margin {
-    margin-left:3px;
-    vertical-align: super;
-    font-size:.7em;
-}
-
-
-
 /*
  * Sidebar
  *
@@ -162,6 +154,18 @@ a.sidebar-nav-item.active:focus {
 .content {
   padding-top:    3.9rem;
   padding-bottom: 3.9rem;
+}
+
+
+
+.post .external-link-margin {
+    margin-left:3px;
+    vertical-align: super;
+    font-size:.7em;
+}
+
+.post .fa {
+    font-size:0.5em;
 }
 
 @media (min-width: 48em) {
