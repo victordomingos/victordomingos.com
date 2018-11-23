@@ -3,9 +3,9 @@ Date: 2018-04-25 00:30
 Category: Opinião
 Tags: opinião, liberdade, democracia, 25 de abril, poder, Noam Chomsky
 Slug: liberdade_e_democracia
+Cover: images/2018/victor_domingos_livros.jpg
 
-<img src="https://www.victordomingos.com/resources/autor/victor_domingos_livros_2x.jpg" alt="Victor Domingos">
-<br>Todos os anos, no dia 25 de abril, Portugal comemora de forma bastante entusiástica o Dia da Liberdade, mantendo assim viva a memória daquele dia de 1974 em que o nosso país se libertou de um regime ditatorial, autoritário e opressivo. É um dos nossos feriados mais importantes e mesmo nós, os que nascemos pouco depois do fim da ditadura, continuamos hoje a dar o devido valor a essa importante conquista dos nossos pais.
+Todos os anos, no dia 25 de abril, Portugal comemora de forma bastante entusiástica o Dia da Liberdade, mantendo assim viva a memória daquele dia de 1974 em que o nosso país se libertou de um regime ditatorial, autoritário e opressivo. É um dos nossos feriados mais importantes e mesmo nós, os que nascemos pouco depois do fim da ditadura, continuamos hoje a dar o devido valor a essa importante conquista dos nossos pais.
 
 Numa [entrevista dada em 2012](https://chomsky.info/20121230/), dizia Noam Chomsky que “não aprendemos sobre a natureza dos sistemas de poder escutando a sua retórica”. Esta afirmação, feita a propósito de outros contextos, é carregada de uma reflexão profunda, que não é difícil de transpor para a nossa realidade mais próxima, no que se refere ao significado atual das palavras “Democracia” e “Liberdade”. É que, na verdade, basta usar muitas vezes palavras como estas para criar a ilusão de que vivemos num mundo em que todos somos tratados como iguais, a ilusão de que todos somos livres. Mas seremos mesmo?
 
