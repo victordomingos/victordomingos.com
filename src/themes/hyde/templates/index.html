@@ -8,6 +8,9 @@
 					<a href="{{ SITEURL }}/{{ article.url }}#{{ article.slug }}">{{ article.title }}</a>
 				</h1>
 				<a href="{{ SITEURL }}/{{ CATEGORY_URL}}">{{ article.category }}</a>, <span class="post-date">{{ article.locale_date }}</span>
+		  <a href="{{ SITEURL }}/{{ article.url }}">
+          <img class="article_list_img" src="{{ SITEURL }}/{{ article.cover }}" width="100%"/>
+      </a>
 				<p>
 					{{ article.summary }}
 				</p>
