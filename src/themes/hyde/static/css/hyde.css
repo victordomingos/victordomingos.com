@@ -219,6 +219,7 @@ a.sidebar-nav-item.active:focus {
 
 .related_articles table {
     border-collapse: collapse;
+    border: 0px;
 }
 
 .related_articles td {
@@ -227,10 +228,12 @@ a.sidebar-nav-item.active:focus {
 
 .article_footer table {
     border-collapse: collapse;
-    border: 0px;
+    border: 1px;
 }
 
-
+.article_footer td {
+    border: 0px;
+}
 
 /*
  * Reverse layout
