@@ -61,7 +61,7 @@ TAG_SAVE_AS = 'tag/{slug}/index.html'
 DRAFT_URL = 'drafts/{slug}'
 DRAFT_SAVE_AS = 'drafts/{slug}/index.html'
 
-DEFAULT_DATE_FORMAT = '%-d %-m %Y'
+DEFAULT_DATE_FORMAT = '%-d/%-m/%Y'
 
 FEED_ALL_RSS = 'index_files/feed.xml'
 CATEGORY_FEED_RSS = 'index_files/{slug}_rss.xml'
