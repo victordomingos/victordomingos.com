@@ -1,6 +1,7 @@
 Title: Alguns apontamentos sobre a leitura de “Um Longo Acordar”
 Date: 2017-10-17 21:57
 Categories: Recensões
+Tags: recensões, livros, Artur Alonso Novelhe, galego, Galiza, narrativa, filosofia, reintegracionismo, enigma,
 Slug: um-novo-acordar_leitura
 
 <img src="https://www.victordomingos.com/resources/blog/2017/autor_artur-alonso-novelhe_2x.jpg" alt="Escritor Artur Alonso Novelhe">
@@ -13,6 +14,7 @@ A imagem da capa, também ela bastante enigmática, um quadro de Francisco Fern�
 <img style="margin:0px auto;display:block" width=300 src="https://www.victordomingos.com/resources/blog/2017/um_longo_acordar_capa_2x.jpg" alt="Capa do livro Um Longo Acordar">
 
 Mas os enigmas deste livro não se ficam pela capa. A abrir o texto, deparamo-nos com um poema que parece preparar-nos para o longo acordar que nos espera. Nele, o sujeito poético declara ter “fome de pão”, mas sublinha que anseia por algo mais, como um profeta ou sacerdote:
+
 <div style="margin-left:2cm;display:block"><br><i>Tenho fome de pão, sim!
 <br>mas também não terei fome de compartilhar
 <br>o pão sagrado que é alimento?
@@ -20,6 +22,7 @@ Mas os enigmas deste livro não se ficam pela capa. A abrir o texto, deparamo-no
 <br>um oco bem mais aberto)</i></div>
 E o poema prossegue, até terminar com uma voz enigmática: 
 <div style="margin-left:2cm;display:block"><br><i> – “Silêncio, fala apenas com o silêncio”</i></div>
+
 Como se para haver uma possibilidade de diálogo fosse necessário parar, silenciar tempestades e ódios antigos, e escutar a voz mais profunda da nossa essência.
 
 A partir deste ponto inicial, temos então um romance ou novela, um relato relativamente curto (pouco mais de uma centena de páginas), mas extremamente denso em referências implícitas e em conteúdo filosófico.

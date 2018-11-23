@@ -1,6 +1,7 @@
 Title: Um poema traduzido para italiano (inclui áudio)
 Date: 2017-10-05 15:39
 Categories: Poesia, Áudio
+Tags: poesia, áudio, traduções, italiano, Silvia Panceri, poema 
 Slug: poema-traduzido-italiano
 
 

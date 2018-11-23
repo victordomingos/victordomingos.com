@@ -1,6 +1,7 @@
 Title: Refletindo sobre Liberdade e Democracia
 Date: 2018-04-25 00:30
 Categories: Opinião
+Tags: opinião, liberdade, democracia, 25 de abril, poder, Noam Chomsky
 Slug: liberdade_e_democracia
 
 <img src="https://www.victordomingos.com/resources/autor/victor_domingos_livros_2x.jpg" alt="Victor Domingos">
