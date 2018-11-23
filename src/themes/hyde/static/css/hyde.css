@@ -186,7 +186,7 @@ a.sidebar-nav-item.active:focus {
 
 
 /*
- * Footer
+ * Footer stuff
  *
  */
 .related_articles {
@@ -217,9 +217,13 @@ a.sidebar-nav-item.active:focus {
     width: auto
 }
 
+.related_articles table {
+    border-collapse: collapse;
+}
 
-
-
+.article_footer table {
+    border-collapse: collapse;
+}
 
 
 /*
