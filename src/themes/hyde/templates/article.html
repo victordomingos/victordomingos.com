@@ -2,13 +2,15 @@
 
 {% block content %}
 <div class="post">
-	<h1 class="post-title">{{ article.title }}</h1>
-	<a href="{{ SITEURL }}/{{ CATEGORY_URL }}">{{ article.category }}</a>, <span class="post-date">{{ article.locale_date }}</span>
+	<h1 class="post-title">
+		{{ article.title }}
+	</h1>
+	<a href="{{  SITEURL  }}/{{ category.url }}">{{ article.category }}</a>, <span class="post-date">{{ article.locale_date }}</span>
+
     <img class="article_list_img" src="{{ SITEURL }}/{{ article.cover }}" width="100%"/>
       
 	
 	{{ article.content }}
-	{% include 'fragments/disqus.html' %}
 </div>
 
 

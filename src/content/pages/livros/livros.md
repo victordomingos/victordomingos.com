@@ -1,5 +1,5 @@
 Title: Livros
-Slug: index
+Slug: livros
 Category: Livros
 
 ## Poesia

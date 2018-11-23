@@ -3,7 +3,7 @@
 		<div class="sidebar-about">
 
 			<h1>
-				<a href="/">
+				<a href="{{ SITEURL }}">
 					<img class="profile-picture" src="{{ SITEURL }}/images/{{ PROFILE_IMAGE }}">
 					{{ SITENAME }}
 				</a>
@@ -13,14 +13,27 @@
 			<p></p>
 		</div>
 		<nav class="sidebar-nav">
-		    	<a class="sidebar-nav-item" href="{{ SITEURL }}/contactos">
-				<i class="fa fa-envelope"></i>
+			<a class="sidebar-nav-item" href="{{ SITEURL }}">
+				<i class="fa fa-file-o"></i>
 			</a>
+			<a class="sidebar-nav-item" href="{{ SITEURL }}/pages/biografia">
+				<i class="fa fa-user"></i>
+			</a>
+			<a class="sidebar-nav-item" href="{{ SITEURL }}/pages/livros/livros">
+				<i class="fa fa-book"></i>
+			</a>
+		    <a class="sidebar-nav-item" href="{{ SITEURL }}/pages/contactos">
+				<i class="fa fa-comments-o"></i>
+			</a>
+
+			
 			{% for name, link in SOCIAL %}
-			<a class="sidebar-nav-item" href="{{ link }}">
-				<i class="fa fa-{{ name }}"></i>
-			</a>
+				<a class="sidebar-nav-item" href="{{ link }}">
+					<i class="fa fa-{{ name }}"></i>
+				</a>
 			{% endfor %}
+
+
 			<a class="sidebar-nav-item" href="{{ FEED_ALL_RSS }}">
 				<i class="fa fa-feed"></i>
 			</a>

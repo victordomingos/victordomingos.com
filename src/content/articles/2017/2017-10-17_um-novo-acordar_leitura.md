@@ -15,13 +15,15 @@ A imagem da capa, também ela bastante enigmática, um quadro de Francisco Fern�
 
 Mas os enigmas deste livro não se ficam pela capa. A abrir o texto, deparamo-nos com um poema que parece preparar-nos para o longo acordar que nos espera. Nele, o sujeito poético declara ter “fome de pão”, mas sublinha que anseia por algo mais, como um profeta ou sacerdote:
 
-<div style="margin-left:2cm;display:block"><br><i>Tenho fome de pão, sim!
-<br>mas também não terei fome de compartilhar
-<br>o pão sagrado que é alimento?
-<br>(se reparas existe no estômago interior
-<br>um oco bem mais aberto)</i></div>
+>Tenho fome de pão, sim!  
+>mas também não terei fome de compartilhar  
+>o pão sagrado que é alimento?  
+>(se reparas existe no estômago interior  
+>um oco bem mais aberto)
+
 E o poema prossegue, até terminar com uma voz enigmática: 
-<div style="margin-left:2cm;display:block"><br><i> – “Silêncio, fala apenas com o silêncio”</i></div>
+
+> – “Silêncio, fala apenas com o silêncio”
 
 Como se para haver uma possibilidade de diálogo fosse necessário parar, silenciar tempestades e ódios antigos, e escutar a voz mais profunda da nossa essência.
 
@@ -33,5 +35,5 @@ Um Longo Acordar é um livro constantemente entremeado por citações e alusões
 
 Finalmente, no contexto atual, uma apresentação deste livro ao público lusófono em geral não poderia deixar de fazer referência à língua e ortografia escolhidas pelo autor. Na Galiza, considerada por muitos como o berço da Língua Portuguesa, fala-se e escreve-se não só em Castelhano (ou Espanhol, se assim o preferirem), mas também na sua língua própria, habitualmente designada como Galego. Que é, na verdade, uma variante daquilo que internacionalmente reconhecemos e designamos como Português. Ao longo das últimas décadas, tem havido uma permanente discussão sobre o progressivo afastamento do Galego do âmbito da Lusofonia, mas há uma longa tradição e um movimento vivo de linguistas, escritores e cidadãos comuns que o consideram como o Português da Galiza, defendem a sua reintegração no âmbito lusófono e que, em conformidade com essa postura, escolhem adotar nos seus escritos a ortografia internacional. Artur Alonso Novelhe opta assim, conscientemente, por utilizar a ortografia a que na Galiza se designa por vezes como o “Galego Internacional” – ou seja, a do Português. E ainda bem, pois é uma opção que, sem prescindir da autenticidade e sem deturpar a sua língua nativa, lhe permite chegar mais facilmente também aos leitores portugueses, brasileiros, e não só.
 
-Um Longo Acordar é uma edição conjunta do [MIL: Movimento Internacional Lusófono](http://www.movimentolusofono.org/) e das DG Edições. O livro pode ser encontrado, na Galiza, nas Galerias Sargadelos ([Ourense](http://www.sargadelos.com/p/galeria-de-ourense/) e [Lugo](http://www.sargadelos.com/p/galeria-de-lugo/)), [Livraria Milfolhas](https://www.facebook.com/libreria.milfollas/) (Ponteareas), [Livraria Andel](https://www.facebook.com/andel.libraria/) (Vigo) e [Livraria Ciranda](http://ciranda.pt/contato-2/) (Santiago de Compostela). Em Portugal, também já pode ser adquirido em Braga, na [Livraria Centésima Página](http://www.centesima.com/content.asp?startAt=3&categoryID=4), e em Guimarães, na [Livraria NBook](https://www.facebook.com/NbookGuimaraes/). Adicionalmente, pode ainda ser encomendado diretamente junto da própria editora, através do email [info@movimentolusofono.org](mailto:info@movimentolusofono.org), que poderá providenciar se necessário o envio pelo correio.
+*Um Longo Acordar* é uma edição conjunta do [MIL: Movimento Internacional Lusófono](http://www.movimentolusofono.org/) e das DG Edições. O livro pode ser encontrado, na Galiza, nas Galerias Sargadelos ([Ourense](http://www.sargadelos.com/p/galeria-de-ourense/) e [Lugo](http://www.sargadelos.com/p/galeria-de-lugo/)), [Livraria Milfolhas](https://www.facebook.com/libreria.milfollas/) (Ponteareas), [Livraria Andel](https://www.facebook.com/andel.libraria/) (Vigo) e [Livraria Ciranda](http://ciranda.pt/contato-2/) (Santiago de Compostela). Em Portugal, também já pode ser adquirido em Braga, na [Livraria Centésima Página](http://www.centesima.com/content.asp?startAt=3&categoryID=4), e em Guimarães, na [Livraria NBook](https://www.facebook.com/NbookGuimaraes/). Adicionalmente, pode ainda ser encomendado diretamente junto da própria editora, através do email [info@movimentolusofono.org](mailto:info@movimentolusofono.org), que poderá providenciar se necessário o envio pelo correio.
 
