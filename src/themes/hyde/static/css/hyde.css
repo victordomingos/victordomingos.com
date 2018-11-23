@@ -148,7 +148,7 @@ a.sidebar-nav-item.active:focus {
  * with a 25%-wide `.sidebar`.
  */
 .post h1 {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
 }
 
 .content {
@@ -156,7 +156,10 @@ a.sidebar-nav-item.active:focus {
   padding-bottom: 3.9rem;
 }
 
-
+.post .post-title {
+  color: #515151;
+  font-size: 1.5rem;
+}
 
 .post .external-link-margin {
     margin-left:3px;
@@ -269,7 +272,7 @@ a.sidebar-nav-item.active:focus {
         }
         
 #backtop:hover {
-  background-color:#27CFC3;
+  background-color:#6a9fb5;
 }
 
 #backtop.mcOut {
