@@ -207,6 +207,11 @@ a.sidebar-nav-item.active:focus {
     margin-bottom: 1.1rem
 }
 
+/*
+.related_articles #related_articles_box {
+    background-color: none;
+}*/
+
 .related_articles td {
     padding-top: 10px;
     padding-left: 5px
@@ -219,6 +224,7 @@ a.sidebar-nav-item.active:focus {
 
 .related_articles table {
     border-collapse: collapse;
+    border: 0px;
 }
 
 .related_articles td {
@@ -230,6 +236,9 @@ a.sidebar-nav-item.active:focus {
     border: 0px;
 }
 
+.article_footer td {
+    border: 0px;
+}
 
 
 /*
