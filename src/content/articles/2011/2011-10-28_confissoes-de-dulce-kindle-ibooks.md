@@ -3,7 +3,7 @@ Date: 2011-10-28 23:01
 Tags: As Confissões de Dulce, kindle, iBooks, ebook 
 Slug: confissoes-de-dulce-kindle-ibooks
 Category: Notícias
-Cover: as_confissoes_de_dulce_ipad_iphone_kindle__.jpg
+Cover: images/2011/as_confissoes_de_dulce_ipad_iphone_kindle__.jpg
 
 ￼
 O livro *As Confissões de Dulce* já se encontra disponível à venda internacionalmente na [Apple iBookstore](http://itunes.apple.com/pt/book/id476477238?mt=11) (para iPad, iPhone e iPod touch) e também nas diversas livrarias online da Amazon (para os dispositivos Kindle): [Amazon Kindle Store](http://www.amazon.com/dp/B0060CY896), [Amazon.co.uk](http://www.amazon.co.uk/dp/B0060CY896), [Amazon.de](http://www.amazon.de/dp/B0060CY896) e [Amazon.fr](http://www.amazon.fr/dp/B0060CY896). 

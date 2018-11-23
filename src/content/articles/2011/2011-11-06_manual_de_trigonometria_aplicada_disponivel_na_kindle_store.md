@@ -1,9 +1,9 @@
-Title: Novo livro "Manual de Trigonometria Aplicada" já disponível na Smashwords
+Title: Novo livro "Manual de Trigonometria Aplicada" já disponível na Kindle Store
 Date: 2011-11-06 21:20
 Tags: Manual de Trigonometria Aplicada, kindle, narrativa, ebook
 Slug:  manual_de_trigonometria_aplicada_disponivel_na_kindle_store
 Category: Notícias
-Cover: 
+Cover: images/2011/capa_manual_trig-3.jpg
 
 
 O livro *Manual de Trigonometria Aplicada* já se encontra disponível à venda internacionalmente nas livrarias online da Amazon: [Amazon Kindle Store](http://www.amazon.com/dp/B0063ULBKO), [Amazon.co.uk](http://www.amazon.co.uk/dp/B0063ULBKO), [Amazon.de](http://www.amazon.de/dp/B0063ULBKO) e [Amazon.fr](http://www.amazon.fr/dp/B0063ULBKO). 

@@ -3,7 +3,7 @@ Date: 2011-12-14 22:21
 Slug: a-primeira-vez
 Tags: crónicas, infância, poesia, escrita, rádio, prostituição
 Category: Crónicas
-Cover: 201003011407260021pompeii-wall_painting.jpg
+Cover: images/2011/201003011407260021pompeii-wall_painting.jpg
 
 Se me perguntarem quando foi que escrevi o meu primeiro poema, há uma recordação antiga que de imediato me ocorre. Não sei se terá sido mesmo a minha primeira experiência, mas foi uma que nunca mais esquecerei.  E, para alguém que uns anos mais tarde viria a encarar a escrita de forma bem mais séria, creio que se tratou de um começo, no mínimo, atribulado…
 

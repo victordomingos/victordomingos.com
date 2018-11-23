@@ -1,11 +1,11 @@
 Title: Alguns apontamentos sobre a leitura de “Um Longo Acordar”
 Date: 2017-10-17 21:57
-Categories: Recensões
+Category: Recensões
 Tags: recensões, livros, Artur Alonso Novelhe, galego, Galiza, narrativa, filosofia, reintegracionismo, enigma,
 Slug: um-novo-acordar_leitura
+Cover: images/2017/autor_artur-alonso-novelhe.jpg
 
-<img src="https://www.victordomingos.com/resources/blog/2017/autor_artur-alonso-novelhe_2x.jpg" alt="Escritor Artur Alonso Novelhe">
-<br>Há dias, estive em Braga com o escritor galego Artur Alonso Novelhe a apresentar o seu mais recente romance, intitulado Um Longo Acordar. Foi uma conversa tão agradável quanto reveladora de algumas das circunstâncias e inquietações que serviram de palco e matéria para a escrita desta obra. Para quem não pôde estar presente, sobretudo os que ainda não tenham tido a oportunidade de ler o livro, aqui partilho algumas das minhas impressões iniciais sobre esta obra.
+Há dias, estive em Braga com o escritor galego Artur Alonso Novelhe a apresentar o seu mais recente romance, intitulado Um Longo Acordar. Foi uma conversa tão agradável quanto reveladora de algumas das circunstâncias e inquietações que serviram de palco e matéria para a escrita desta obra. Para quem não pôde estar presente, sobretudo os que ainda não tenham tido a oportunidade de ler o livro, aqui partilho algumas das minhas impressões iniciais sobre esta obra.
 
 O título “Um Longo Acordar” é, desde logo, ele próprio um prenúncio daquilo que o leitor encontrará – uma viagem longa, carregada de reflexão e que, eventualmente, o conduzirá a uma espécie de epifania, durante ou após a leitura da obra. Não se trata, pois, de uma alusão a um sono prolongado como no célebre conto infantil da bela princesa adormecida, mas sim a um processo de crescimento pessoal e social que requer, necessariamente, o suporte basilar do próprio tempo.
 

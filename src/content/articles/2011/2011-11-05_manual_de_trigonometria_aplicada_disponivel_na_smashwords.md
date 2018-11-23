@@ -3,7 +3,7 @@ Date: 2011-11-05 12:39
 Tags: Manual de Trigonometria Aplicada, kindle, iBooks, ebook 
 Slug: manual_de_trigonometria_aplicada_disponivel_na_smashwords
 Category: Notícias
-Cover: capa_manual_trig-3.jpg
+Cover: images/2011/capa_manual_trig-3.jpg
 
 ￼Acaba de ser lançado em formato digital o livro *Manual de Trigonometria Aplicada*, uma narrativa que conquistou em 2002 o 1º prémio no Concurso Literário “Ecos da Memória”. A obra já está disponível na Smashwords em edição multiformato, podendo ser lida no computador e na generalidade dos leitores portáteis de ebooks, incluindo por exemplo o Kindle, o iPad e o iPhone.
 ￼

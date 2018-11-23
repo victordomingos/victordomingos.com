@@ -1,8 +1,8 @@
 Title: Como usar um iPad para ler (vídeo)
 Date: 2011-12-12 21:37
 Slug: como-usar-ipad-para-ler
-Tags: Dicas, leitura, ebooks, iPad, iPhone, kindle, Kobo 
-Category: Dicas, Vídeos
+Tags: Dicas, leitura, vídeos, ebooks, iPad, iPhone, kindle, Kobo 
+Category: Dicas
 Cover: 
 
 Para ler livros em formato digital (*ebooks*) há várias opções disponíveis atualmente. Há quem ainda leia esses livros diretamente no computador, mas esse é talvez o método que menos aproveita as vantagens dos livros em formato digital. Felizmente, há cada vez mais e melhores opções.

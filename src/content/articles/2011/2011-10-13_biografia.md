@@ -1,6 +1,6 @@
 Title: Biografia de Victor Domingos
 Date: 2011-10-13 02:14
-Categories: Notícias
+Category: Notícias
 Tags: biografia
 Slug: biografia
 

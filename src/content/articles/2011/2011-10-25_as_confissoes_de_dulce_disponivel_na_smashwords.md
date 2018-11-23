@@ -3,7 +3,7 @@ Date: 2011-10-25 05:28
 Tags: As Confissões de Dulce, ebook, narrativa 
 Slug: as_confissoes_de_dulce_disponivel_na_smashwords
 Category: Notícias
-Cover: as_confissoes_de_dulce_ipad_iphone_kindle.jpg
+Cover: images/2011/as_confissoes_de_dulce_ipad_iphone_kindle.jpg
 
 ￼Acaba de ser lançado em formato digital o livro *As Confissões de Dulce*, uma narrativa que conquistou em 2005 o 2º prémio no Concurso Literário “D. Sancho I”. A obra já está disponível na Smashwords em edição multiformato, podendo ser lida no computador e na generalidade dos leitores portáteis de ebooks, incluindo por exemplo o Kindle, o iPad e o iPhone.
 ￼

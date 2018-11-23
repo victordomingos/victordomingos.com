@@ -171,6 +171,11 @@ a.sidebar-nav-item.active:focus {
     font-size:0.5em;
 }
 
+.post-date {
+  display:inline;
+}
+
+
 @media (min-width: 48em) {
   .content {
     max-width: 35rem;
