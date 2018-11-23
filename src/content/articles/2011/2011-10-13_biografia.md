@@ -1,6 +1,7 @@
 Title: Biografia de Victor Domingos
 Date: 2011-10-13 02:14
 Categories: Notícias
+Tags: biografia
 Slug: biografia
 
 Victor Domingos (Portugal, 1981) é licenciado em Psicologia e um eterno autodidata de tudo e mais alguma coisa.

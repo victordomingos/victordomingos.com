@@ -65,7 +65,7 @@ DEFAULT_DATE_FORMAT = '%d %B %Y'
 
 FEED_ALL_RSS = 'index_files/feed.xml'
 CATEGORY_FEED_RSS = 'index_files/{slug}_rss.xml'
-TAG_FEED_RSS = 'index_files/t_{slug}_rss.xml'
+TAG_FEED_RSS = ''
 
 # global metadata to all the contents
 DEFAULT_METADATA = {'author': 'Victor Domingos'}

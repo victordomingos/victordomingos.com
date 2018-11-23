@@ -1,5 +1,6 @@
 Title: Livro "Manual de Trigonometria Aplicada" já disponível na Kindle Store e na iBookstore
 Date: 2011-11-18 01:38
+Tags: Manual de Trigonometria Aplicada, kindle, iBooks, ebook, narrativa 
 Slug: manual_trigonometria_aplicada_kindle_e_ibookstore
 Category: Notícias
 Cover: manual_ipad_iphone_kindle.jpg

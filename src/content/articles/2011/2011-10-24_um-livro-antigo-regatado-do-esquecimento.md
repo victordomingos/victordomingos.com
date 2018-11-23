@@ -2,6 +2,7 @@ Title: Um livro antigo resgatado do esquecimento
 Date: 2011-10-24 00:50
 Slug: um-livro-antigo-regatado-do-esquecimento
 Category: Notícias
+Tags: Teixeira de Queirós, O Salústio Nogueira, reedição, ebook, ArcosOnline, PDF, narrativa, David Mourão-Ferreira
 Cover: o-salustio-nogueira_capa_.jpg
 
 ￼

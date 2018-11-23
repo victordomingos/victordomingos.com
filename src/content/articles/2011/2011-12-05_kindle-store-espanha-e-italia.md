@@ -1,5 +1,6 @@
 Title: Kindle Store é lançada em Espanha e Itália (e com promoções!)
 Date: 2011-12-05 23:33
+Tags: Amazon, kindle, Espanha, Itália
 Slug: kindle-store-espanha-e-italia
 Category: Notícias
 

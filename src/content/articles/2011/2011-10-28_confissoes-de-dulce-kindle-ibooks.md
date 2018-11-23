@@ -1,5 +1,6 @@
 Title: Livro "As Confissões de Dulce" já disponível na Kindle Store e na iBookstore
 Date: 2011-10-28 23:01
+Tags: As Confissões de Dulce, kindle, iBooks, ebook 
 Slug: confissoes-de-dulce-kindle-ibooks
 Category: Notícias
 Cover: as_confissoes_de_dulce_ipad_iphone_kindle__.jpg

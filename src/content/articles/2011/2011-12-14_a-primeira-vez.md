@@ -1,6 +1,7 @@
 Title: A minha primeira experiência como poeta – a escrita como prostituição
 Date: 2011-12-14 22:21
 Slug: a-primeira-vez
+Tags: crónicas, infância, poesia, escrita, rádio, prostituição
 Category: Crónicas
 Cover: 201003011407260021pompeii-wall_painting.jpg
 

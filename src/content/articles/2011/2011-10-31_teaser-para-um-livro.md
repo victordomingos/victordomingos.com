@@ -1,5 +1,6 @@
 Title: Um vídeo que até podia dar um bom teaser para um livro...
 Date: 2011-10-31 00:41
+Tags: videos, internet
 Slug: teaser-para-um-livro
 Category: Vídeos
 Cover:

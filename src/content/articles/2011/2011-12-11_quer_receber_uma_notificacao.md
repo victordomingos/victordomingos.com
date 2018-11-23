@@ -1,5 +1,6 @@
 Title: Quer receber uma notificação quando for lançado o meu próximo livro?
 Date: 2011-12-11 00:08
+Tags: newsletter, dicas, contactos 
 Slug: quer_receber_uma_notificacao
 Category: Dicas
 Cover: pigeon-flying-delivering-message-email.jpg

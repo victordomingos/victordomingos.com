@@ -1,5 +1,6 @@
 Title: A caminho da Amazon Kindle Store e Apple iBookstore
 Date: 2011-10-28 01:35
+Tags: As Confissões de Dulce, kindle, iBooks, ebook 
 Slug: a_caminho_da_kindle_store_e_apple_ibookstore
 Category: Notícias
 

@@ -1,5 +1,6 @@
 Title: Novo livro "Manual de Trigonometria Aplicada" já disponível na Smashwords
 Date: 2011-11-06 21:20
+Tags: Manual de Trigonometria Aplicada, kindle, narrativa, ebook
 Slug:  manual_de_trigonometria_aplicada_disponivel_na_kindle_store
 Category: Notícias
 Cover: 

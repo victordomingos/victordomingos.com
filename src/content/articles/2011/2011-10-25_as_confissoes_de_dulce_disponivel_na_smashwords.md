@@ -1,5 +1,6 @@
 Title: Novo livro "As Confissões de Dulce" já disponível na Smashwords
 Date: 2011-10-25 05:28
+Tags: As Confissões de Dulce, ebook, narrativa 
 Slug: as_confissoes_de_dulce_disponivel_na_smashwords
 Category: Notícias
 Cover: as_confissoes_de_dulce_ipad_iphone_kindle.jpg

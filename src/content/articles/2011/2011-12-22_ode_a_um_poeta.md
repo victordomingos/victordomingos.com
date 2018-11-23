@@ -1,5 +1,6 @@
 Title: Um presente para todos os leitores
 Date: 2011-12-22 01:13
+Tags: promoções, 
 Slug: ode_a_um_poeta
 Category: Notícias
 Cover: presente.jpg
