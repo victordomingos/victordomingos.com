@@ -40,7 +40,7 @@ AUTHORS_SAVE_AS = ''
 CATEGORIES_SAVE_AS = 'categories.html'
 CATEGORY_URL = 'index_files/{slug}.php'
 CATEGORY_SAVE_AS = 'index_files/{slug}.php'
-TAGS_SAVE_AS = ''
+TAGS_SAVE_AS = 'tags/index.html'
 
 ARTICLE_URL = 'index_files/{slug}.php'
 ARTICLE_SAVE_AS = 'index_files/{slug}.php'
@@ -55,8 +55,8 @@ AUTHOR_SAVE_AS = ''
 YEAR_ARCHIVE_SAVE_AS = 'index_files/archive-{date:%Y}.php'
 MONTH_ARCHIVE_SAVE_AS = ''
 
-TAG_URL = ''
-TAG_SAVE_AS = ''
+TAG_URL = 'tag/{slug}'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
 
 DRAFT_URL = 'drafts/{slug}'
 DRAFT_SAVE_AS = 'drafts/{slug}/index.html'
@@ -65,7 +65,7 @@ DEFAULT_DATE_FORMAT = '%d %B %Y'
 
 FEED_ALL_RSS = 'index_files/feed.xml'
 CATEGORY_FEED_RSS = 'index_files/{slug}_rss.xml'
-TAG_FEED_RSS = 'index_files/{slug}_rss.xml'
+TAG_FEED_RSS = 'index_files/t_{slug}_rss.xml'
 
 # global metadata to all the contents
 DEFAULT_METADATA = {'author': 'Victor Domingos'}
@@ -81,14 +81,16 @@ THEME = "themes/hyde"
 SITESUBTITLE = 'Aprendiz de poeta e tantas coisas mais'
 
 DISPLAY_DATE_ON_ARTICLE_LIST = False
-SITEIMAGE_FOLDER = 'images/avatars/x150'  # Images to be used randomly in the header
+#SITEIMAGE_FOLDER = 'images/avatars/x150'  # Images to be used randomly in the header
 
 
+'''
 SITEIMAGES = [ Path(*Path(img).parts[1:])
                for img in glob('{}/{}/*.png'.format(PATH,SITEIMAGE_FOLDER))]
 
 SITEIMAGE_SIZE = 'width=100% height=100%'
 SITEIMAGE = '/images/avatars/x150/avatar1.png' # Default Image that appears in the header
+'''
 
 PROFILE_IMAGE = 'autor/autor_victor-domingos_O_280.jpg'
 
