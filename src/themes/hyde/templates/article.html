@@ -14,14 +14,16 @@
 
     {% if article.related_posts %}
     <div class="related_articles">
-    <h5 class="related_articles_header">You may also be interested:</h5>
+    <h5 class="related_articles_header">Artigos relacionados:</h5>
     <table>
           {% for related_post in article.related_posts %}
              <tr>
                 <td>
+                    {% if related_post.cover %}
                     <a href="{{ SITEURL }}/{{ related_post.url }}">
                         <img height="40px" src="{{ SITEURL }}/{{related_post.cover | thumbnail("_x80") }}" alt="{{ related_post.title }}">
                     </a>
+                    {% endif %}
                 </td>
                 <td>
                     <a href="{{ SITEURL }}/{{ related_post.url }}">
