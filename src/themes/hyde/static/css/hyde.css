@@ -273,6 +273,7 @@ a.sidebar-nav-item.active:focus {
         
 #backtop:hover {
   background-color:#6a9fb5;
+  opacity:1;
 }
 
 #backtop.mcOut {
