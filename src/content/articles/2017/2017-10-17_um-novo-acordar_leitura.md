@@ -1,7 +1,7 @@
 Title: Alguns apontamentos sobre a leitura de “Um Longo Acordar”
 Date: 2017-10-17 21:57
 Category: Recensões
-Tags: recensões, livros, Artur Alonso Novelhe, galego, Galiza, narrativa, filosofia, reintegracionismo, enigma,
+Tags: recensões, livros, Artur Alonso Novelhe, galego, Galiza, narrativa, filosofia, reintegracionismo, enigma
 Slug: um-novo-acordar_leitura
 Cover: images/2017/autor_artur-alonso-novelhe.jpg
 
