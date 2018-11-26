@@ -2,10 +2,10 @@
 
 {% block content %}
 <div class="post">
+	<a class="post-category" href="{{  SITEURL  }}/{{ category.url }}">{{ article.category | upper }}</a>, <span class="post-date">{{ article.locale_date }}</span>
 	<h1 class="post-title">
 		{{ article.title }}
 	</h1>
-	<a href="{{  SITEURL  }}/{{ category.url }}">{{ article.category }}</a>, <span class="post-date">{{ article.locale_date }}</span>
 
     <img class="article_list_img" src="{{ SITEURL }}/{{ article.cover }}" width="100%"/>
       
@@ -66,5 +66,7 @@
     </div>
     <hr>
 {% endif %}
+
+{% include 'fragments/footer.html' %}
 
 {% endblock %}

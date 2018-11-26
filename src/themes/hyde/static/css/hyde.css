@@ -251,6 +251,25 @@ a.sidebar-nav-item.active:focus {
 
 
 
+.pagination .page-link {
+  color: #333;
+}
+
+.footer {
+  padding: 1.5rem 0 .5rem;
+  border-top: 1px solid rgba(0,0,0,.1);
+}
+
+.page-footer {
+  font-size: 12px;
+}
+
+
+
+
+
+
+
 /*
  * Back to top
  */

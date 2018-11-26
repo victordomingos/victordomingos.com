@@ -20,9 +20,9 @@ BIO = u'Página oficial do autor'
 DESCRIPTION = u'Página oficial de Victor Domingos - escritor e poeta português, autor de livros de narrativa e poesia, em edição impressa e e-book.'
 
 PATH = 'content'
-STATIC_PATHS = ['images']
-PAGE_PATHS = ['pages']
-ARTICLE_PATHS = ['articles']
+STATIC_PATHS = ['images', 'biblioteca']
+PAGE_PATHS = ['paginas']
+ARTICLE_PATHS = ['artigos']
 DEFAULT_PAGINATION = 6
 DEFAULT_ORPHANS = 2
 
@@ -36,35 +36,35 @@ SUMMARY_MAX_LENGTH = 150
 PAGE_ORDER_BY = 'reversed-basename'
 WITH_FUTURE_DATES = False
 
+CATEGORIES_SAVE_AS = 'blog/categorias.html'
+CATEGORY_URL = 'blog/categoria/{slug}.html'
+CATEGORY_SAVE_AS = 'blog/categoria/{slug}.html'
+
+TAGS_SAVE_AS = 'blog/tags.html'
+TAG_URL = 'blog/tag/{slug}.html'
+TAG_SAVE_AS = 'blog/tag/{slug}.html'
+
+ARTICLE_URL = 'blog/{date:%Y}/{slug}.html'
+ARTICLE_SAVE_AS = 'blog/{date:%Y}/{slug}.html'
+
+PAGE_URL = '{category}/{slug}.html'
+PAGE_SAVE_AS = '{category}/{slug}.html'
+
 AUTHORS_SAVE_AS = ''
-CATEGORIES_SAVE_AS = 'categories.html'
-CATEGORY_URL = 'index_files/{slug}.php'
-CATEGORY_SAVE_AS = 'index_files/{slug}.php'
-TAGS_SAVE_AS = 'tags/index.html'
-
-ARTICLE_URL = 'index_files/{slug}.php'
-ARTICLE_SAVE_AS = 'index_files/{slug}.php'
-
-
-PAGE_URL = '{category}/{slug}'
-PAGE_SAVE_AS = '{category}/{slug}/index.html'
-
 AUTHOR_URL = ''
 AUTHOR_SAVE_AS = ''
 
-YEAR_ARCHIVE_SAVE_AS = 'index_files/archive-{date:%Y}.php'
+ARCHIVES_SAVE_AS = 'blog/arquivo.html'
+YEAR_ARCHIVE_SAVE_AS = 'blog/arquivo/{date:%Y}.html'
 MONTH_ARCHIVE_SAVE_AS = ''
 
-TAG_URL = 'tag/{slug}'
-TAG_SAVE_AS = 'tag/{slug}/index.html'
+DRAFT_URL = 'drafts/{slug}.html'
+DRAFT_SAVE_AS = 'drafts/{slug}.html'
 
-DRAFT_URL = 'drafts/{slug}'
-DRAFT_SAVE_AS = 'drafts/{slug}/index.html'
-
-DEFAULT_DATE_FORMAT = '%-d/%-m/%Y'
+DEFAULT_DATE_FORMAT = '%-d-%-m-%Y'
 
 FEED_ALL_RSS = 'index_files/feed.xml'
-CATEGORY_FEED_RSS = 'index_files/{slug}_rss.xml'
+CATEGORY_FEED_RSS = 'feeds/{slug}_rss.xml'
 TAG_FEED_RSS = ''
 
 # global metadata to all the contents
@@ -78,9 +78,17 @@ DISPLAY_PAGES_ON_MENU = True
 RELATIVE_URLS = True
 
 THEME = "themes/hyde"
-SITESUBTITLE = 'Aprendiz de poeta e tantas coisas mais'
+SITESUBTITLE = ''
 
-DISPLAY_DATE_ON_ARTICLE_LIST = False
+SIDEBAR_LINKS = (
+				 ('Bio', 'info/biografia.html'),
+				 ('Livros', 'info/livros.html'),
+				 ('Contacto', 'info/contactos.html'),
+                )
+
+
+
+#DISPLAY_DATE_ON_ARTICLE_LIST = False
 #SITEIMAGE_FOLDER = 'images/avatars/x150'  # Images to be used randomly in the header
 
 
@@ -93,13 +101,6 @@ SITEIMAGE = '/images/avatars/x150/avatar1.png' # Default Image that appears in t
 '''
 
 PROFILE_IMAGE = 'autor/autor_victor-domingos_O_280.jpg'
-
-# Social widget
-ICONS = (('facebook', 'https://www.facebook.com/escritorvictordomingos/'),
-         ('twitter', 'https://twitter.com/victordomingos'),
-         ('linkedin', 'https://linkedin.com/in/victordomingos'),
-         ('github', 'https://github.com/victordomingos'),
-         ('stack-overflow', 'https://stackoverflow.com/users/6167478/victor-domingos'),)
 
 
 PLUGIN_PATHS = ['plugins/']

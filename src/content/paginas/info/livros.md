@@ -1,6 +1,6 @@
 Title: Livros
 Slug: livros
-Category: Livros
+Category: Info
 
 ## Poesia
 

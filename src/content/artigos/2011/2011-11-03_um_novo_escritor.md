@@ -1,4 +1,4 @@
-Title: "Um novo escritor português", no jornal brasileiro "A União"
+Title: \"Um novo escritor português\", no jornal brasileiro "A União"
 Date: 2011-11-03 23:26
 Slug: um_novo_escritor
 Category: Recensões

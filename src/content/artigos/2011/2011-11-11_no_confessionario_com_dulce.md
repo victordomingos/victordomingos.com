@@ -1,4 +1,4 @@
-Title: "No confessionário com Dulce", recensão da escritora Maurem Kayna no Kindle Blog Brasil
+Title: \"No confessionário com Dulce\", recensão da escritora Maurem Kayna no Kindle Blog Brasil
 Date: 2011-11-11 22:51
 Slug: no_confessionario_com_dulce
 Category: Recensões

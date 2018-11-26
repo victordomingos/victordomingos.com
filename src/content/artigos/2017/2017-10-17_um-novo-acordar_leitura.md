@@ -11,7 +11,7 @@ O título “Um Longo Acordar” é, desde logo, ele próprio um prenúncio daqu
 
 A imagem da capa, também ela bastante enigmática, um quadro de Francisco Fernández, parece remeter-nos, num primeiro olhar, para o universo das tribos indígenas e a sua relação com a natureza. Num segundo olhar, contudo, de forma simbólica, parece ilustrar o modo como nós, humanos, temos na nossa essência algumas das características que usualmente atribuímos a outros animais, e diferentes níveis de consciência.
 
-<img style="margin:0px auto;display:block" width=300 src="https://www.victordomingos.com/resources/blog/2017/um_longo_acordar_capa_2x.jpg" alt="Capa do livro Um Longo Acordar">
+![Capa do livro Um Longo Acordar]({static}/images/2017/um_longo_acordar_capa.jpg)
 
 Mas os enigmas deste livro não se ficam pela capa. A abrir o texto, deparamo-nos com um poema que parece preparar-nos para o longo acordar que nos espera. Nele, o sujeito poético declara ter “fome de pão”, mas sublinha que anseia por algo mais, como um profeta ou sacerdote:
 

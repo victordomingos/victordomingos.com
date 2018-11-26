@@ -1,5 +1,6 @@
 Title: Biografia
-Slug: 
+Slug: biografia
+Category: info
 
 Victor Domingos (Portugal, 1981) é licenciado em Psicologia e um eterno autodidata de tudo e mais alguma coisa.
 

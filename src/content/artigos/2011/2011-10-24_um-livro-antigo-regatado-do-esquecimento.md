@@ -3,7 +3,7 @@ Date: 2011-10-24 00:50
 Slug: um-livro-antigo-regatado-do-esquecimento
 Category: Notícias
 Tags: Teixeira de Queirós, O Salústio Nogueira, reedição, ebook, ArcosOnline, PDF, narrativa, David Mourão-Ferreira
-Cover: Images/2011/o-salustio-nogueira_capa_.jpg
+Cover: images/2011/o-salustio-nogueira_capa_.jpg
 
 ￼
 Há uns anos atrás, as Edições ArcosOnline ressuscitaram um importante romance do escritor português [Teixeira de Queirós](http://pt.wikipedia.org/wiki/Teixeira_de_Queirós) (1948-1919). O livro *O Salústio Nogueira*, considerado como a obra-prima daquele romancista nascido no Alto Minho, era então reeditado em formato digital, com o objetivo de permitir o seu acesso ao público. 
