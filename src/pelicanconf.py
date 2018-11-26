@@ -81,9 +81,12 @@ THEME = "themes/hyde"
 SITESUBTITLE = ''
 
 SIDEBAR_LINKS = (
-				 ('Bio', 'info/biografia.html'),
-				 ('Livros', 'info/livros.html'),
-				 ('Contacto', 'info/contactos.html'),
+				 #('Bio', 'info/biografia.html'),
+				 #('Livros', 'info/livros.html'),
+				 #('Contacto', 'info/contactos.html'),
+				 ('user', 'info/biografia.html'),
+				 ('book', 'info/livros.html'),
+				 ('comments-o', 'info/contactos.html'),
                 )
 
 
