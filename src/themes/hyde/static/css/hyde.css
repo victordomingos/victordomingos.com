@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 15rem;
+    width: 18rem;
     text-align: center;
   }
 }
@@ -178,16 +178,16 @@ a.sidebar-nav-item.active:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 35rem;
-    margin-left: 15rem;
+    max-width: 38rem;
+    margin-left: 20rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 18rem;
-    margin-right: 4rem;
+    margin-left: 20rem;
+    margin-right: 2rem;
   }
 }
 
@@ -226,8 +226,12 @@ a.sidebar-nav-item.active:focus {
 }
 
 .related_articles img {
-    height: 40px;
-    width: auto
+    height: auto;
+    width: 4rem;
+    object-fit: cover;
+    max-width:70px;
+    display:block;
+    margin: 0 0 0 0;
 }
 
 .related_articles table {
