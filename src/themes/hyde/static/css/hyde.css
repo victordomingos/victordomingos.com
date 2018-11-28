@@ -176,6 +176,12 @@ a.sidebar-nav-item.active:focus {
 }
 
 
+.read-more {
+    background-color:#EEF4F6;
+    border-radius:.25rem;
+}
+
+
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
