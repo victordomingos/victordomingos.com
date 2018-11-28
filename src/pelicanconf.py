@@ -32,7 +32,7 @@ LOCALE = "pt_PT"
 
 HIDE_AUTHORS = True
 TYPOGRIFY = True
-SUMMARY_MAX_LENGTH = 150
+SUMMARY_MAX_LENGTH = 0  # Do not generate summary automatically (to allow optional "read more" link" on index page)
 PAGE_ORDER_BY = 'reversed-basename'
 WITH_FUTURE_DATES = False
 
