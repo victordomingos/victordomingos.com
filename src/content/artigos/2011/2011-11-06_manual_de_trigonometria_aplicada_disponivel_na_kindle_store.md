@@ -4,9 +4,7 @@ Tags: Manual de Trigonometria Aplicada, kindle, narrativa, ebook
 Slug:  manual_de_trigonometria_aplicada_disponivel_na_kindle_store
 Category: Notícias
 Cover: images/2011/capa_manual_trig-3.jpg
-
-
-O livro *Manual de Trigonometria Aplicada* já se encontra disponível à venda internacionalmente nas livrarias online da Amazon: [Amazon Kindle Store](http://www.amazon.com/dp/B0063ULBKO), [Amazon.co.uk](http://www.amazon.co.uk/dp/B0063ULBKO), [Amazon.de](http://www.amazon.de/dp/B0063ULBKO) e [Amazon.fr](http://www.amazon.fr/dp/B0063ULBKO). 
+Summary: O livro *Manual de Trigonometria Aplicada* já se encontra disponível à venda internacionalmente nas livrarias online da Amazon: [Amazon Kindle Store](http://www.amazon.com/dp/B0063ULBKO), [Amazon.co.uk](http://www.amazon.co.uk/dp/B0063ULBKO), [Amazon.de](http://www.amazon.de/dp/B0063ULBKO) e [Amazon.fr](http://www.amazon.fr/dp/B0063ULBKO). 
 
 Com esta expansão, a obra passa a estar disponível num dos principais canais de distribuição de *ebooks* a nível internacional. Uma das principais vantagens é que o acesso a este livro está agora bem mais facilitado para os utilizadores de um dos dispositivos de leitura mais populares (Kindle), mas também nos utilizadores da aplicação Kindle noutras plataformas (p.ex., iPad, iPhone e iPod touch). Esses utilizadores podem assim obter o livro através de uma livraria digital com cuja interface já estarão mais familiarizados.
 

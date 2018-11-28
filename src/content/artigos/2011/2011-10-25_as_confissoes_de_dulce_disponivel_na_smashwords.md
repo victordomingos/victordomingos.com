@@ -4,8 +4,7 @@ Tags: As Confissões de Dulce, ebook, narrativa
 Slug: as_confissoes_de_dulce_disponivel_na_smashwords
 Category: Notícias
 Cover: images/2011/as_confissoes_de_dulce_ipad_iphone_kindle.jpg
-
-￼Acaba de ser lançado em formato digital o livro *As Confissões de Dulce*, uma narrativa que conquistou em 2005 o 2º prémio no Concurso Literário “D. Sancho I”. A obra já está disponível na Smashwords em edição multiformato, podendo ser lida no computador e na generalidade dos leitores portáteis de ebooks, incluindo por exemplo o Kindle, o iPad e o iPhone.
+Summary: Acaba de ser lançado em formato digital o livro *As Confissões de Dulce*, uma narrativa que conquistou em 2005 o 2º prémio no Concurso Literário “D. Sancho I”. A obra já está disponível na Smashwords em edição multiformato, podendo ser lida no computador e na generalidade dos leitores portáteis de ebooks, incluindo por exemplo o Kindle, o iPad e o iPhone.
 ￼
 A História costuma relatar os feitos de reis e guerreiros, mas raramente se debruça sobre as dinâmicas das relações entre os intervenientes. Além disso, a importância da presença feminina é persistentemente negligenciada nos relatos históricos sobre a época que se seguiu à fundação de Portugal. [*As Confissões de Dulce*](http://www.smashwords.com/books/view/96652?ref=victordomingos) contrariam essa tendência, abordando em ficção o lado humano da rainha D. Dulce, a esposa de D. Sancho I, filho de Afonso Henriques e o segundo rei de Portugal. 
 

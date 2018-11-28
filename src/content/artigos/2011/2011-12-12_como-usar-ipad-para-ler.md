@@ -4,8 +4,7 @@ Slug: como-usar-ipad-para-ler
 Tags: Dicas, leitura, vídeos, ebooks, iPad, iPhone, kindle, Kobo 
 Category: Dicas
 Cover: 
-
-Para ler livros em formato digital (*ebooks*) há várias opções disponíveis atualmente. Há quem ainda leia esses livros diretamente no computador, mas esse é talvez o método que menos aproveita as vantagens dos livros em formato digital. Felizmente, há cada vez mais e melhores opções.
+Summary: Para ler livros em formato digital (*ebooks*) há várias opções disponíveis atualmente. Há quem ainda leia esses livros diretamente no computador, mas esse é talvez o método que menos aproveita as vantagens dos livros em formato digital. Felizmente, há cada vez mais e melhores opções.
 
 Há, por exemplo, **dispositivos de leitura especializados** (conhecidos como *e-readers* ou como livros eletrónicos), como é o caso do [Kindle](https://kindle.amazon.com/) e do [Kobo](http://www.kobobooks.com), entre outros. Esse tipo de dispositivos são geralmente leves e relativamente pequenos, e incluem ecrãs não iluminados e sem reflexos, muito parecidos com o papel, pelo que dão uma experiência de leitura bastante agradável.
 

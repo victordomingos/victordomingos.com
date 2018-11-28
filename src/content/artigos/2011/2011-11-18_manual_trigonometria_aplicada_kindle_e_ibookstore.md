@@ -4,9 +4,7 @@ Tags: Manual de Trigonometria Aplicada, kindle, iBooks, ebook, narrativa
 Slug: manual_trigonometria_aplicada_kindle_e_ibookstore
 Category: Notícias
 Cover: images/2011/manual_ipad_iphone_kindle.jpg
-
-￼
-Acaba de ser lançado em formato digital o livro *Manual de Trigonometria Aplicada*, uma narrativa que conquistou em 2002 o 1º prémio no Concurso Literário “Ecos da Memória”. A obra está disponível em diversos formatos nas principais lojas internacionais, podendo ser lida no computador e na generalidade dos leitores portáteis de *ebooks*, incluindo por exemplo o Kindle, o iPad e o iPhone.
+Summary: Acaba de ser lançado em formato digital o livro *Manual de Trigonometria Aplicada*, uma narrativa que conquistou em 2002 o 1º prémio no Concurso Literário “Ecos da Memória”. A obra está disponível em diversos formatos nas principais lojas internacionais, podendo ser lida no computador e na generalidade dos leitores portáteis de *ebooks*, incluindo por exemplo o Kindle, o iPad e o iPhone.
 
 A novela começa com uma misteriosa carta e apresenta-nos a história de um engenheiro que parece ter encontrado na trigonometria e na matemática em geral uma forma muito pessoal de se exprimir e de refletir sobre a sua própria vida. A narração traça o seu percurso afetivo, o qual se revela afinal muito mais humano e mais sensível do que o título da obra poderia indiciar... Afinal, sempre ouvimos dizer que a matemática é uma linguagem universal, e afinal pode servir até para falar de emoções e sentimentos.
 

@@ -4,8 +4,7 @@ Category: Crónicas
 Tags: opinião, arrogância, ignorância, conhecimento, irritação
 Slug: opinando-sobre-a-opiniao
 Cover: images/2016/maquina_de_escrever.jpg
-
-Irritam-me sobremaneira as pessoas que acham que sabem tudo, mas sobretudo essas que opinam como se detivessem conhecimento absoluto sobre um determinado assunto, quando na verdade só sabem que gostam de mostrar que sabem. Ou talvez nem isso. Ter razão é mais importante do que resolver problemas. Mesmo que a única razão seja a da vaidade de se mostrar ignorante sem que os outros se apercebam. 
+Summary: Irritam-me sobremaneira as pessoas que acham que sabem tudo, mas sobretudo essas que opinam como se detivessem conhecimento absoluto sobre um determinado assunto, quando na verdade só sabem que gostam de mostrar que sabem. Ou talvez nem isso. Ter razão é mais importante do que resolver problemas. Mesmo que a única razão seja a da vaidade de se mostrar ignorante sem que os outros se apercebam. 
 
 É por isso que não gosto de opinar. Nunca gostei. Sempre senti esse ato como uma forma de cangar as mentes alheias, como se fossem bois. Só que eu nunca gostei de cangas. Gosto de bois, mas não de os ver cangados. Do mesmo modo, gosto de mentes que pensam e que com isso se tornam realmente úteis, mas tenho uma certa aversão a intelectos cangados, e mais ainda a quem os canga.
 
