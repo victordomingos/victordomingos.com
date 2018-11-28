@@ -9,19 +9,20 @@
 					<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
 				</h1>
 		  
-		    {% if article.cover %}
-		        <a href="{{ article.url }}">
-                    <img class="article_list_img" src="{{  SITEURL  }}/{{ article.cover }}" width="100%"/>
-                </a>
-            {% endif %}
-				<p>{{ article.summary }}</p>
+			{% if article.cover %}
+			        <a href="{{ article.url }}">
+				<img class="article_list_img" src="{{  SITEURL  }}/{{ article.cover }}" width="100%"/>
+				</a>
+      		      	{% endif %}
+			<p>{{ article.summary }}</p>
+			{% if article.summary %}
 				<a class="read-more" href="{{ SITEURL }}/{{ article.url }}">Ler mais…</a>
+			{% endif %}
 			</div>
 		{% endfor %}
 	</div>
 	
 	{% include 'fragments/pagination.html' %}
-
 
 	{% include 'fragments/footer.html' %}
 {% endblock %}

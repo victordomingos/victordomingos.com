@@ -6,12 +6,14 @@
 	<h1 class="post-title">
 		{{ article.title }}
 	</h1>
-    {% if article.cover %}
-    <img class="article_list_img" src="{{ SITEURL }}/{{ article.cover }}" width="100%"/>
-    {% endif %}
+	{% if article.cover %}
+		<img class="article_list_img" src="{{ SITEURL }}/{{ article.cover }}" width="100%"/>
+	{% endif %}
+	{% if article.summary %}
+		<p>{{article.summary}}
+	{% endif %}
       
-	
-	{{ article.content }}
+	<p>{{ article.content }}
 </div>
 
 
