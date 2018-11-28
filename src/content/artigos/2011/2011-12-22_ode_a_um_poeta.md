@@ -3,7 +3,7 @@ Date: 2011-12-22 01:13
 Tags: promoções, 
 Slug: ode_a_um_poeta
 Category: Notícias
-Cover: images/2011/presente.jpg
+Cover: images/2011/presente.png
 
 Para comemorar o recente lançamento dos meus livros de ficção literária *As Confissões de Dulce* e *Manual de Trigonometria Aplicada*, e também para celebrar convosco a época festiva, neste Natal decidi oferecer de presente a todos vocês um livro muito especial. 
 
