@@ -13,10 +13,12 @@
 			        <a href="{{ article.url }}">
 				<img class="article_list_img" src="{{  SITEURL  }}/{{ article.cover }}" width="100%"/>
 				</a>
-      		      	{% endif %}
-			<p>{{ article.summary }}</p>
+			{% endif %}
 			{% if article.summary %}
+				<p>{{ article.summary }}</p>
 				<a class="read-more" href="{{ SITEURL }}/{{ article.url }}">Ler mais…</a>
+			{% else %}
+				<p>{{ article.content }}</p>
 			{% endif %}
 			</div>
 		{% endfor %}
