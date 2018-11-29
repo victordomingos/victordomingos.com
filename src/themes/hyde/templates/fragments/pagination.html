@@ -1,5 +1,33 @@
 {% if articles_paginator.num_pages > 1 %}
-  <hr>
+	<hr>
+	<div class="pagination">
+		<span class="pagination-item older">
+    		{% if articles_page.has_next() %}
+			<a href="{{ SITEURL }}/{{ articles_next_page.url }}">❮ Antigos</a>
+		{% else %}
+			&nbsp;
+		{% endif %}
+		</span>
+    	
+
+
+	
+		<span class="pagination-item disabled">
+      			<span>{{ articles_paginator.num_pages+1-articles_page.number }} de {{ articles_paginator.num_pages }}</span>
+	 	</span>	
+
+
+		<span class="pagination-item newer">
+		{% if articles_page.has_previous() %}
+			<a href="{{ SITEURL }}/{{ articles_previous_page.url }}">Recentes ❯</a>
+		{% else %}
+			&nbsp;
+		{% endif %}
+		</span>
+	</div>
+	<hr>
+
+<!--  <hr>
   <ul class="pagination">
     {% if articles_page.has_previous() %}
       <li class="page-item">
@@ -22,4 +50,5 @@
       </li>
     {% endif %}
   </ul>
+-->
 {% endif %}

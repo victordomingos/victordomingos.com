@@ -130,7 +130,7 @@ dd {
 /* Misc */
 hr {
   position: relative;
-  margin: 1.5rem 0;
+  /* margin: 1.5rem 0;*/
   border: 0;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #fff;
@@ -406,8 +406,8 @@ tbody tr:nth-child(odd) th {
 /* Pagination items can be `span`s or `a`s */
 .pagination-item {
   display: block;
-  padding: 1rem;
-  border: 1px solid #eee;
+  /* padding: 1rem; */
+  /* border: 1px solid #eee; */
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -420,11 +420,11 @@ a.pagination-item:hover {
 
 @media (min-width: 30em) {
   .pagination {
-    margin: 3rem 0;
+    /* margin: 3rem 0;*/
   }
   .pagination-item {
     float: left;
-    width: 50%;
+    width: 33%;
   }
   .pagination-item:first-child {
     margin-bottom: 0;
