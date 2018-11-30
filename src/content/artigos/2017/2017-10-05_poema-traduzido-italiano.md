@@ -3,15 +3,8 @@ Date: 2017-10-05 15:39
 Category: Poesia
 Tags: poesia, áudio, traduções, italiano, Silvia Panceri, poema 
 Slug: poema-traduzido-italiano
+Summary:<br><i>il sogno di un’empatia impossibile<br>discorso illeggibile come la tua volontà<br>lo sproloquio usurato del poeta vecchio e tonto<br><br>sai come comunicare il mio dolore<br>come se fosse tuo di diritto e<br>intanto<br>la vita termina qui<br>dove cominci a pronunciarti
 
-
-
-<br><i>il sogno di un’empatia impossibile
-<br>discorso illeggibile come la tua volontà <br>lo sproloquio usurato del poeta vecchio e tonto
-<br> <br>sai come comunicare il mio dolore <br>come se fosse tuo di diritto e <br>intanto
-<br>la vita termina qui
-<br>dove cominci a pronunciarti
-<br>
 <br>in quel momento io in carne ed ossa sono appena
 <br>un irresistibile errore di calcolo
 <br>nella geometria corretta e complessa dell’universo
