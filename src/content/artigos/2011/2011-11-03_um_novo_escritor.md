@@ -4,13 +4,8 @@ Slug: um_novo_escritor
 Category: Recensões
 Tags: recensões, narrativa, Manual de Trigonometria Aplicada, Antônio Mariano, crítica, Brasil
 Cover: images/2011/a-uniao.jpg
-
-
-*Jornal A União, 26/6/2003*  
-*por Antônio Mariano Lima*
-￼
-
-Victor Domingos é um escritor português de vinte e pouquíssimos anos e muito talento. Nasceu em Arcos de Valdevez, estuda Psicologia na Universidade do Minho e toca trombone na Banda Filarmônica da Sociedade Musical Arcuense. Quando soube dele há cinco anos pelo intercâmbio do portal Sapo.pt, aquele adolescente já me surpreendia pela desenvoltura da expressão, a forma articulada da escrita, um admirável repertório cultural. O que me fez intuir um escritor de potencial que poderia ser revelado a qualquer momento.
+Summary:<p align=right><br>*Jornal A União, 26/6/2003*  
+<br>*por Antônio Mariano Lima*<br></p>Victor Domingos é um escritor português de vinte e pouquíssimos anos e muito talento. Nasceu em Arcos de Valdevez, estuda Psicologia na Universidade do Minho e toca trombone na Banda Filarmônica da Sociedade Musical Arcuense. Quando soube dele há cinco anos pelo intercâmbio do portal Sapo.pt, aquele adolescente já me surpreendia pela desenvoltura da expressão, a forma articulada da escrita, um admirável repertório cultural. O que me fez intuir um escritor de potencial que poderia ser revelado a qualquer momento.
 
 Ele negava. Era somente um leitor que gostava de comentar o que lia. Mas eu não me enganara.
 
