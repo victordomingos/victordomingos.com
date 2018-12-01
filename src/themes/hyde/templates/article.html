@@ -7,7 +7,7 @@
 		{{ article.title }}
 	</h1>
 	{% if article.cover %}
-		<img class="article_list_img" src="{{ SITEURL }}/{{ article.cover }}" width="100%"/>
+		<img class="article_list_img" src="{{ SITEURL }}/{{ article.cover }}" alt="{{ article.title }}" width="100%"/>
 	{% endif %}
 	{% if article.summary %}
 		<p>{{article.summary}}
@@ -28,7 +28,7 @@
                 <td>
                     {% if related_post.cover %}
                     <a href="{{ SITEURL }}/{{ related_post.url }}">
-                        <img height="40px" src="{{ SITEURL }}/{{related_post.cover | thumbnail("_x80") }}" alt="{{ related_post.title }}">
+                        <img src="{{ SITEURL }}/{{related_post.cover | thumbnail("160x_") }}" alt="{{ related_post.title }}">
                     </a>
                     {% endif %}
                 </td>
@@ -50,7 +50,7 @@
     <hr>
     <div class="article_footer">
     <table width=100%><tr>
-        <td align="left">
+        <td class="navigation_link" align="left">
           {% if article.prev_article %}
             <a href="{{ SITEURL }}/{{ article.prev_article.url}}">❮ {{ article.prev_article.title }}</a>
           {% endif %}
@@ -60,7 +60,7 @@
            <!-- Just a spacer in the middle -->
         </td>
         
-        <td align="right">
+        <td  class="navigation_link" align="right">
           {% if article.next_article %}
             <a href="{{ SITEURL }}/{{ article.next_article.url}}">{{ article.next_article.title }} ❯</a>
           {% endif %}

@@ -2,7 +2,28 @@ Title: Biografia
 Slug: biografia
 Category: info
 
-Victor Domingos (Portugal, 1981) é licenciado em Psicologia e um eterno autodidata de tudo e mais alguma coisa.
+Nasci em 1981 em Arcos de Valdevez atualmente vivo em Braga. Completei uma licenciatura em Psicologia na Universidade do Minho em 2005 e, ao longo da minha vida, sempre estive interessado em aprender algo mais. Sou casado, e particularmente apaixonado pela minha filha.
+
+
+### Trabalho
+
+<img src="../../images/life/work.jpg" 
+     srcset="../../images/life/work.jpg 770w, ../../images/life/work_2x.jpg 1540w, ../../images/life/work_2x_1280.jpg 1280w, ../../images/life/work_2x_690.jpg 690w" 
+     alt="Laptop computer"
+     width="100%">
+
+No fim da universidade, consegui o eu primeiro emprego num ramo diferente, tendo trabalhado cerca de 2 anos como formador de informática numa escola da [Futurekids](https://en.wikipedia.org/wiki/Futurekids), com alunos de idades entre os 3 e os 83 anos. Ensinava coisas básicas, como usar um rato e um teclado, bem como alguns tópicos mais avançados, como processamento de texto, folhas de cálculo, edição de imagem e criação de *websites*. Foi uma experiência muito enriquecedora explorar alguns dos currículos bem organizados que lá se usavam, bem como ter a oportunidade de elaborar novas unidades de aprendizagem. No último ano em lá trabalhei, concebi um conjunto de cursos, para adolescentes e para adultos, sobre o uso de *software* de código aberto (open source), como [Audacity](https://www.audacityteam.org) (editor de áudio), [GIMP](https://www.gimp.org) (editor de imagem), [Inkscape](https://inkscape.org/en/) (desenho vetorial) and [OpenOffice.org](https://www.libreoffice.org)(um antepassado do LibreOffice).
+
+Posteriormente, fui contratado por uma *start-up* na altura ainda muito jovem, [Lojamac.com](https://web.archive.org/web/20081025213502/http://www.lojamac.com/), mais tarde designada como [Promais.com](http://www.promais.com/store/), um Revendedor Autorizado Apple em expansão, que estava a investir tanto em comércio físico como em comércio online (naquela altura, o comércio digital ainda não era muito comum). Abracei totalmente aquela nova experiência, aprendendo muito durante o processo e esforçando-me por ajudar a empresa a aumentar a sua presença no mercado e a alcançar a maior satisfação dos clientes possível. Foi o início de uma longa caminhada que ainda está em curso.
+
+### Literatura
+<img src="../../images/life/watch_fountain_pen_writing.jpg" 
+     srcset="../../images/life/watch_fountain_pen_writing.jpg 770w, ../../images/life/watch_fountain_pen_writing_2x.jpg 1540w, ../../images/life/watch_fountain_pen_writing_2x_690.jpg 690w, ../../images/life/watch_fountain_pen_writing_2x_1280.jpg 1280w" 
+     alt="Writing - watch and fountain pen"
+     width="100%">
+
+Escrevi um conjunto de narrativas breves, todas elas em estilo experimental, e também alguma poesia. Os meus livros podem ser encontrados em formato digital nos locais habituais ([iBooks store](https://itunes.apple.com/pt/author/victor-domingos/id476477239) para dispositivos Apple, [Amazon](https://www.amazon.com/Victor-Domingos/e/B0060HT9VI) para dispositivos Kindle, [Kobo](https://www.kobo.com/pt/pt/search?Query=%22victor+domingos%22&id=180861c2-21ea-4793-952b-ecd39613adfe), [Scribd](https://pt.scribd.com/author/251191058/Victor-Domingos) ou mesmo na [Smashwords.com](https://www.smashwords.com/profile/view/victordomingos), que cuja distribuição é independente do tipo de dispositivo.
+
 
 A sua obra de narrativa Ode a Um Poeta Naturalista recebeu em 1999 o Prémio Literário Teixeira de Queirós. Em 2002, uma outra narrativa sua, intitulada Manual de Trigonometria Aplicada seria o trabalho vencedor do Concurso Literário “Ecos da Memória”. Três anos mais tarde, viria a ser atribuído o 2º prémio, no Concurso Nacional de Contos “D. Sancho I”, à sua narrativa As Confissões de Dulce. 
 
