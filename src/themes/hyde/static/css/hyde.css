@@ -275,6 +275,53 @@ a.sidebar-nav-item.active:focus {
   color: #333;
 }
 
+@media(max-width:30em) {
+	.pagination-item {
+	    display: inline-block;
+	}
+
+
+	.pagination-item.disabled {
+	    /* width: 40%; */
+	    float: center;
+	    margin-left: .5rem;
+	    margin-right: .5rem;
+	}
+
+	.pagination-item.older {
+	    float: left;
+	    width: 30%;
+	}
+
+	.pagination-item.newer {
+	    width: 30%;
+	    float: right;
+	}
+}
+
+@media(min-width:30em) {
+	.pagination-item {
+	    display: inline-block;
+	}
+
+
+	.pagination-item.disabled {
+	    width: 40%;
+	    float: center;
+	}
+
+	.pagination-item.older {
+	    float: left;
+	    width: 30%;
+	}
+
+	.pagination-item.newer {
+	    width: 30%;
+	    float: right;
+	}
+}
+
+
 .footer {
   padding: 1.5rem 0 .5rem;
   border-top: 1px solid rgba(0,0,0,.1);
