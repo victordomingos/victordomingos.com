@@ -88,7 +88,7 @@ SIDEBAR_LINKS = (
 				 ('user', 'info/biografia.html'),
 				 ('book', 'info/livros.html'),
 				 ('comments-o', 'info/contactos.html'),
-				 ('user', 'info/biografia.html'),
+				 ('safari', 'etcetera/sitemap.html'),
                 )
 
 
