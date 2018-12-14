@@ -1,4 +1,4 @@
-Title: Poema inédito publicado no site Ser Poeta
+Title: Semana do Livro Digital - descontos e ofertas em ebooks
 Date: 2014-03-05 01:39
 Category: Notícias
 Tags: Read an E-Book Week, Notícias, Promoções, Grátis, Livros, Semana do Livro Digital
