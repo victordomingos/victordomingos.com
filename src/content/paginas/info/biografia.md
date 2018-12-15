@@ -7,7 +7,7 @@ Nasci em 1981 em Arcos de Valdevez e atualmente vivo em Braga. Completei uma lic
 
 <img src="../images/life/work.jpg" 
      srcset="../images/life/work.jpg 770w, ../images/life/work_2x.jpg 1540w, ../images/life/work_2x_1280.jpg 1280w, ../images/life/work_2x_690.jpg 690w" 
-     alt=“Computador portátil”
+     alt="Computador portátil"
      width="100%">
 
 No fim da universidade, consegui o meu primeiro emprego, num ramo diferente: trabalhei cerca de 2 anos como formador de informática numa escola da [Futurekids](https://en.wikipedia.org/wiki/Futurekids), com alunos de idades entre os 3 e os 83 anos. Ensinava coisas básicas, como usar um rato e um teclado, bem como alguns tópicos mais avançados, como processamento de texto, folhas de cálculo, edição de imagem e criação de *websites*. Foi uma experiência muito enriquecedora, explorar alguns dos excelentes currículos lá usados e ter a oportunidade de elaborar eu mesmo novas unidades de aprendizagem. No último ano em lá trabalhei, concebi um conjunto variado de cursos, para adolescentes e para adultos, sobre o uso de *software* de código aberto (*open source*), como por exemplo [Audacity](https://www.audacityteam.org) (editor de áudio), [GIMP](https://www.gimp.org) (editor de imagem), [Inkscape](https://inkscape.org/en/) (desenho vetorial) e [OpenOffice.org](https://www.libreoffice.org) (um antepassado do atual LibreOffice).
