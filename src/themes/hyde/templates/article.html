@@ -7,7 +7,7 @@
 		{{ article.title | striptags }}
 	</h1>
 	{% if article.cover %}
-		<img class="article_list_img" src="{{ SITEURL }}/{{ article.cover }}" alt="{{ article.title }}" width="100%"/>
+		<img class="article_list_img" src="{{ SITEURL }}/{{ article.cover }}" alt="{{ article.title |striptags }}" width="100%"/>
 	{% endif %}
 	{% if article.summary %}
 		<p>{{article.summary}}
@@ -28,7 +28,7 @@
                 <td>
                     {% if related_post.cover %}
                     <a href="{{ SITEURL }}/{{ related_post.url }}">
-                        <img src="{{ SITEURL }}/{{related_post.cover | thumbnail("160x_") }}" alt="{{ related_post.title }}">
+                        <img src="{{ SITEURL }}/{{related_post.cover | thumbnail("160x_") }}" alt="{{ related_post.title | striptags }}">
                     </a>
                     {% endif %}
                 </td>
