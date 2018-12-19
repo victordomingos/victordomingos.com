@@ -8,7 +8,7 @@ Summary: ￼Conforme aqui comuniquei anteontem, este ano decidi participar no ev
 
 No âmbito deste evento, decidi oferecer também durante esta semana, com o apoio logístico da Smashwords, o acesso gratuito ao meu livro de poesia *[É Preciso Calar o Monólogo](http://www.smashwords.com/books/view/114023#longdescr?ref=victordomingos)* (usar o cupão de desconto **RE100**). Sim, é mesmo uma nova edição, numa espécie de pré-lançamento.
 
-￼![Promoções do evento Read an E-Book Week 2012]({filename}/images/2012/promo-rebw2012.jpg)
+￼![Promoções do evento Read an E-Book Week 2012]({static}/images/2012/promo-rebw2012.jpg)
 
 
 Mas não é só!… Para além do acesso a esse novo ebook, também dois títulos de ficção lançados em 2011 estarão temporariamente disponíveis a metade do preço normal. Trata-se das novelas *[Manual de Trigonometria Aplicada](http://www.smashwords.com/books/view/102148#longdescr?ref=victordomingos)* (usar o cupão de desconto **REW50**) e *[As Confissões de Dulce](http://www.smashwords.com/books/view/102148#longdescr?ref=victordomingos)* (usar o cupão de desconto **REW50**). 
