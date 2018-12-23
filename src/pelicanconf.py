@@ -23,7 +23,7 @@ PATH = 'content'
 STATIC_PATHS = ['images', 'biblioteca']
 PAGE_PATHS = ['paginas']
 ARTICLE_PATHS = ['artigos']
-DEFAULT_PAGINATION = 6
+DEFAULT_PAGINATION = 9
 DEFAULT_ORPHANS = 2
 
 TIMEZONE = 'Europe/Lisbon'
