@@ -5,19 +5,18 @@ Status: hidden
 Template: book_page
 Cover: images/capas/capa-manual.jpg
 
-Vencedor do 1º prémio do Concurso Literário “Ecos da Memória” 
+<small><b><i>Vencedor do 1º prémio do Concurso Literário “Ecos da Memória”</i></b></small>
 
-ISBN: 9781465886880
 
 O livro começa com uma misteriosa carta e apresenta-nos a história de um engenheiro que parece ter encontrado na trigonometria e na matemática em geral uma forma muito pessoal de se exprimir e de refletir sobre a sua própria vida. A narração traça o seu percurso afetivo, o qual se revela afinal muito mais humano e mais sensível do que o título da obra poderia indiciar...
 
 Difícil de definir e de enquadrar nos géneros literários mais convencionais, o livro surpreende entre outros aspetos pela densidade psicológica da personagem principal. Esta inquietante narrativa junta de forma singular o género epistolar com um certo tipo de 'suspense' que normalmente se associa sobretudo à literatura policial.
  
-> "Misto de gênero epistolar, (...) expõe, pelo vigor da prosa inquieta, um criador para cuja trajetória vale ficar atento."
+ 
+> *"Misto de gênero epistolar, (...) expõe, pelo vigor da prosa inquieta, um criador para cuja trajetória vale ficar atento."*  
+> --- (Antônio Mariano) 
 
- ---  (Antônio Mariano) 
-
-- [Leia aqui o comentário do escritor brasileiro Antônio Mariano de Lima]({filename}/artigos/2011/2011-11-03_um_novo_escritor.md)
+[Leia aqui o comentário do escritor brasileiro Antônio Mariano de Lima]({filename}/artigos/2011/2011-11-03_um_novo_escritor.md)
 
 
 
@@ -32,8 +31,9 @@ Difícil de definir e de enquadrar nos géneros literários mais convencionais, 
 
 ### Outros livros:
 
-<div>
-<a href="as_confissoes_de_dulce.html"><img style:"display:block;height:244px ! important;" src="../images/capas/capa-dulce-360.jpg" alt="As Confissões de Dulce (narrativa)"></a>
-<a href="ode_a_um_poeta_naturalista.html"><img style:"display:block;height:244px;width:auto;" src="../images/capas/capa-ode-360.jpg" alt="Ode a Um Poeta Naturalista (narrativa)"></a>
-<a href="e_preciso_calar_o_monologo.html"><img style:"display:block;height:244px;width:auto;" src="../images/capas/capa-calar-o-monologo-360.jpg" alt="É Preciso Calar o Monólogo (poesia)"></a>
+<div class="more_books">
+
+<a href="ode_a_um_poeta_naturalista.html"><img class="other_book" src="../images/capas/capa-ode-360.jpg" alt="Ode a Um Poeta Naturalista (narrativa)"></a>
+<a href="as_confissoes_de_dulce.html"><img class="other_book" src="../images/capas/capa-dulce-360.jpg" alt="As Confissões de Dulce (narrativa)"></a>
+<a href="e_preciso_calar_o_monologo.html"><img class="other_book" src="../images/capas/capa-calar-o-monologo-360.jpg" alt="É Preciso Calar o Monólogo (poesia)"></a>
 </div>

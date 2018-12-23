@@ -175,6 +175,18 @@ a.sidebar-nav-item.active:focus {
   display:inline;
 }
 
+.more_books {
+  max-width:480px;
+}
+
+.other_book {
+  display:inline;
+  max-width:32%;
+  width:auto;
+  height:auto;
+  border-radius:0;
+  border: 1px solid #BBBBBB;
+}
 
 .read-more {
     background-color:#EEF4F6;
