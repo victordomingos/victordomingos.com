@@ -37,3 +37,22 @@ Difícil de definir e de enquadrar nos géneros literários mais convencionais, 
 <a href="as_confissoes_de_dulce.html"><img class="other_book" src="../images/capas/capa-dulce-360.jpg" alt="As Confissões de Dulce (narrativa)"></a>
 <a href="e_preciso_calar_o_monologo.html"><img class="other_book" src="../images/capas/capa-calar-o-monologo-360.jpg" alt="É Preciso Calar o Monólogo (poesia)"></a>
 </div>
+
+
+<div class="related_articles">
+<h5 class="related_articles_header">You may also be interested:</h5>
+<table>
+  <tr>
+    <td>
+      <a href="ode_a_um_poeta_naturalista.html"><img class="other_book" src="../images/capas/capa-ode-360.jpg" alt="Ode a Um Poeta Naturalista (narrativa)"></a>
+</td>
+<td>
+<a href="as_confissoes_de_dulce.html"><img class="other_book" src="../images/capas/capa-dulce-360.jpg" alt="As Confissões de Dulce (narrativa)"></a>
+</td>
+<td>
+<a href="e_preciso_calar_o_monologo.html"><img class="other_book" src="../images/capas/capa-calar-o-monologo-360.jpg" alt="É Preciso Calar o Monólogo (poesia)"></a>
+    </td>
+  </tr>
+        
+</table>
+</div>
