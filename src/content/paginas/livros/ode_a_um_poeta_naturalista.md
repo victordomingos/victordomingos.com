@@ -2,9 +2,7 @@ Title: Ode a Um Poeta Naturalista
 Slug: ode_a_um_poeta_naturalista
 Category: Livros
 Status: hidden
-
-
-<small><b><i>Vencedor do 1º prémio no Concurso Literário Teixeira de Queiroz</i></b></small>
+Subtitle: Vencedor do 1º prémio no Concurso Literário Teixeira de Queiroz
 
  
 *Ode a Um Poeta Naturalista* é uma pequena novela que conseguiu o 1º lugar no Concurso Literário Teixeira de Queiroz, em 1999.
@@ -25,10 +23,20 @@ Esta história breve e densa foi a primeira obra de Victor Domingos enquanto esc
 - [Smashwords (todos os dispositivos)](http://www.smashwords.com/books/view/102148#longdescr?ref=victordomingos)
 
 
-### Outros livros:
-
-<div class="more_books">
-<a href="manual_de_trigonometria_aplicada.html"><img class="other_book" src="../images/capas/capa-manual-360.jpg" alt="Manual de trigonometria Aplicada (narrativa)"></a>
-<a href="as_confissoes_de_dulce.html"><img class="other_book" src="../images/capas/capa-dulce-360.jpg" alt="As Confissões de Dulce (narrativa)"></a>
-<a href="e_preciso_calar_o_monologo.html"><img class="other_book" src="../images/capas/capa-calar-o-monologo-360.jpg" alt="É Preciso Calar o Monólogo (poesia)"></a>
+<div class="related_books">
+<h5 class="related_articles_header">Outros livros:</h5>
+<table>
+  <tr>
+    <td>
+      <a href="manual_de_trigonometria_aplicada.html"><img class="other_book book_cover" src="../images/capas/capa-manual-360.jpg" alt="Manual de trigonometria Aplicada (narrativa)"></a>
+    </td>
+    <td>
+      <a href="as_confissoes_de_dulce.html"><img class="other_book book_cover" src="../images/capas/capa-dulce-360.jpg" alt="As Confissões de Dulce (narrativa)"></a>
+    </td>
+    <td>
+      <a href="e_preciso_calar_o_monologo.html"><img class="other_book book_cover" src="../images/capas/capa-calar-o-monologo-360.jpg" alt="É Preciso Calar o Monólogo (poesia)"></a>
+    </td>
+  </tr>
+        
+</table>
 </div>

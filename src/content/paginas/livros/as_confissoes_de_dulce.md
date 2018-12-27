@@ -2,7 +2,7 @@ Title: As Confissões de Dulce
 Slug: as_confissoes_de_dulce
 Category: Livros
 Status: hidden
-Subtitle: 
+Subtitle: Vencedor do 2º prémio do Concurso Literário "D. Sancho I"
 
 
 A História costuma relatar os feitos dos grandes reis e guerreiros, mas raramente se debruça sobre as dinâmicas das relações entre os intervenientes. Além disso, a importância da presença feminina é persistentemente negligenciada nos relatos históricos sobre a época que se seguiu à fundação de Portugal. 
@@ -27,10 +27,22 @@ A História costuma relatar os feitos dos grandes reis e guerreiros, mas raramen
 - [Smashwords (todos os dispositivos)](http://www.smashwords.com/books/view/96652?ref=victordomingos)
 
 
-### Outros livros:
 
-<div class="more_books">
-<a href="manual_de_trigonometria_aplicada.html"><img class="other_book" src="../images/capas/capa-manual-360.jpg" alt="Manual de trigonometria Aplicada (narrativa)"></a>
-<a href="ode_a_um_poeta_naturalista.html"><img class="other_book" src="../images/capas/capa-ode-360.jpg" alt="Ode a Um Poeta Naturalista (narrativa)"></a>
-<a href="e_preciso_calar_o_monologo.html"><img class="other_book" src="../images/capas/capa-calar-o-monologo-360.jpg" alt="É Preciso Calar o Monólogo (poesia)"></a>
+<div class="related_books">
+<h5 class="related_articles_header">Outros livros:</h5>
+<table>
+  <tr>
+    <td>
+      <a href="manual_de_trigonometria_aplicada.html"><img class="other_book book_cover" src="../images/capas/capa-manual-360.jpg" alt="Manual de trigonometria Aplicada (narrativa)"></a>
+    </td>
+  
+    <td>
+      <a href="ode_a_um_poeta_naturalista.html"><img class="other_book book_cover" src="../images/capas/capa-ode-360.jpg" alt="Ode a Um Poeta Naturalista (narrativa)"></a>
+    </td>
+    <td>
+      <a href="e_preciso_calar_o_monologo.html"><img class="other_book book_cover" src="../images/capas/capa-calar-o-monologo-360.jpg" alt="É Preciso Calar o Monólogo (poesia)"></a>
+    </td>
+  </tr>
+        
+</table>
 </div>

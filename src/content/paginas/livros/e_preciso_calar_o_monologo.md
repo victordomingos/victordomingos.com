@@ -23,10 +23,21 @@ Para o autor deste livro, existem demasiadas situações em que a comunicação 
 - [Scribd](http://pt.scribd.com/book/193769201/E-Preciso-Calar-o-Monologo)
 - [Smashwords (todos os dispositivos)](http://www.smashwords.com/books/view/136180#longdescr?ref=victordomingos)
 
-### Outros livros:
 
-<div class="more_books">
-<a href="manual_de_trigonometria_aplicada.html"><img class="other_book" src="../images/capas/capa-manual-360.jpg" alt="Manual de trigonometria Aplicada (narrativa)"></a>
-<a href="as_confissoes_de_dulce.html"><img class="other_book" src="../images/capas/capa-dulce-360.jpg" alt="As Confissões de Dulce (narrativa)"></a>
-<a href="ode_a_um_poeta_naturalista.html"><img class="other_book" src="../images/capas/capa-ode-360.jpg" alt="Ode a Um Poeta Naturalista (narrativa)"></a>
+<div class="related_books">
+<h5 class="related_articles_header">Outros livros:</h5>
+<table>
+  <tr>
+    <td>
+      <a href="ode_a_um_poeta_naturalista.html"><img class="other_book book_cover" src="../images/capas/capa-ode-360.jpg" alt="Ode a Um Poeta Naturalista (narrativa)"></a>
+    </td>
+    <td>
+        <a href="as_confissoes_de_dulce.html"><img class="other_book book_cover" src="../images/capas/capa-dulce-360.jpg" alt="As Confissões de Dulce (narrativa)"></a>
+    </td>
+    <td>
+        <a href="manual_de_trigonometria_aplicada.html"><img class="other_book book_cover" src="../images/capas/capa-manual-360.jpg" alt="Manual de trigonometria Aplicada (narrativa)"></a>
+    </td>
+  </tr>
+        
+</table>
 </div>
