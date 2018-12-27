@@ -44,7 +44,7 @@ Difícil de definir e de enquadrar nos géneros literários mais convencionais, 
 <table>
   <tr>
     <td>
-      <a href="ode_a_um_poeta_naturalista.html"><img class="other_book" src="../images/capas/capa-ode-360.jpg" alt="Ode a Um Poeta Naturalista (narrativa)"></a>
+      <a href="ode_a_um_poeta_naturalista.html"><img class="other_book book_cover" src="../images/capas/capa-ode-360.jpg" alt="Ode a Um Poeta Naturalista (narrativa)"></a>
 </td>
 <td>
 <a href="as_confissoes_de_dulce.html"><img class="other_book book_cover" src="../images/capas/capa-dulce-360.jpg" alt="As Confissões de Dulce (narrativa)"></a>
