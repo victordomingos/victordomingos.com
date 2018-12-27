@@ -181,18 +181,8 @@ a.sidebar-nav-item.active:focus {
   box-shadow: 0px 10px 25px -15px rgba(0,0,0,0.9);
 }
 
-.more_books {
-  max-width:480px;
-}
 
-.other_book {
-  display:inline;
-  max-width:32%;
-  width:auto;
-  height:auto;
-  border-radius:0;
-  border: 1px solid #BBBBBB;
-}
+
 
 .read-more {
     background-color:#EEF4F6;
@@ -239,7 +229,6 @@ a.sidebar-nav-item.active:focus {
 }
 
 
-
 /*
 .related_articles #related_articles_box {
     background-color: none;
@@ -259,6 +248,33 @@ a.sidebar-nav-item.active:focus {
     margin: 0 0 0 0;
 }
 
+
+.book_page_cover {
+  max-height: 350px;
+  height: auto;
+  width: auto;
+  float: left;
+  margin-right: 25px;
+}
+
+
+.more_books {
+  max-width:480px;
+}
+
+
+.related_books img {
+    height: auto;
+    width: 90%;
+    object-fit: cover;
+    max-width:100%;
+    border-radius:
+    display:block;
+    margin: 0 auto 0 auto;
+    border: solid 1px #CCCCCC;
+    border-radius: 0 3px 3px 0;
+}
+
 .related_articles table {
     border-collapse: collapse;
     border: 0px;
@@ -270,6 +286,28 @@ a.sidebar-nav-item.active:focus {
 }
 
 
+.related_books {
+    font-size: .9rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    border: solid 1px #d9d9d9;
+    border-radius: 5px;
+    background: #f5f5f5;
+    width: 85%;
+}
+
+.related_books table {
+    border-collapse: collapse;
+    border: 0px;
+    margin-bottom: 0;
+}
+
+.related_books td {
+    border: 0px;
+}
 
 .article_footer {
     font-size: 0.9rem;

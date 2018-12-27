@@ -5,7 +5,7 @@ Status: hidden
 Template: book_page
 Cover: images/capas/capa-manual.jpg
 
-<small><b><i>Vencedor do 1º prémio do Concurso Literário “Ecos da Memória”</i></b></small>
+<small><b><i>Vencedor do 1º prémio do Concurso Literário "Ecos da Memória"</i></b></small>
 
 
 O livro começa com uma misteriosa carta e apresenta-nos a história de um engenheiro que parece ter encontrado na trigonometria e na matemática em geral uma forma muito pessoal de se exprimir e de refletir sobre a sua própria vida. A narração traça o seu percurso afetivo, o qual se revela afinal muito mais humano e mais sensível do que o título da obra poderia indiciar...
@@ -29,18 +29,9 @@ Difícil de definir e de enquadrar nos géneros literários mais convencionais, 
 - [Scribd](http://pt.scribd.com/book/193642524/Manual-de-Trigonometria-Aplicada)
 - [Smashwords (todos os dispositivos)](http://www.smashwords.com/books/view/102148#longdescr?ref=victordomingos)
 
-### Outros livros:
 
-<div class="more_books">
-
-<a href="ode_a_um_poeta_naturalista.html"><img class="other_book" src="../images/capas/capa-ode-360.jpg" alt="Ode a Um Poeta Naturalista (narrativa)"></a>
-<a href="as_confissoes_de_dulce.html"><img class="other_book" src="../images/capas/capa-dulce-360.jpg" alt="As Confissões de Dulce (narrativa)"></a>
-<a href="e_preciso_calar_o_monologo.html"><img class="other_book" src="../images/capas/capa-calar-o-monologo-360.jpg" alt="É Preciso Calar o Monólogo (poesia)"></a>
-</div>
-
-
-<div class="related_articles">
-<h5 class="related_articles_header">You may also be interested:</h5>
+<div class="related_books">
+<h5 class="related_articles_header">Outros livros:</h5>
 <table>
   <tr>
     <td>
