@@ -2,6 +2,7 @@ Title: As Confissões de Dulce
 Slug: as_confissoes_de_dulce
 Category: Livros
 Status: hidden
+Subtitle: 
 
 
 A História costuma relatar os feitos dos grandes reis e guerreiros, mas raramente se debruça sobre as dinâmicas das relações entre os intervenientes. Além disso, a importância da presença feminina é persistentemente negligenciada nos relatos históricos sobre a época que se seguiu à fundação de Portugal. 

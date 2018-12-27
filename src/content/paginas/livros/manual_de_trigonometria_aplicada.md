@@ -4,8 +4,7 @@ Category: Livros
 Status: hidden
 Template: book_page
 Cover: images/capas/capa-manual.jpg
-
-<small><b><i>Vencedor do 1º prémio do Concurso Literário "Ecos da Memória"</i></b></small>
+Subtitle: Vencedor do 1º prémio do Concurso Literário "Ecos da Memória"
 
 
 O livro começa com uma misteriosa carta e apresenta-nos a história de um engenheiro que parece ter encontrado na trigonometria e na matemática em geral uma forma muito pessoal de se exprimir e de refletir sobre a sua própria vida. A narração traça o seu percurso afetivo, o qual se revela afinal muito mais humano e mais sensível do que o título da obra poderia indiciar...

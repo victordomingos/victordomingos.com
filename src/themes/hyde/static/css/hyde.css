@@ -248,9 +248,14 @@ a.sidebar-nav-item.active:focus {
     margin: 0 0 0 0;
 }
 
+.page_subtitle {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
 
 .book_page_cover {
-  max-height: 350px;
+  max-height: 300px;
   height: auto;
   width: auto;
   float: left;
@@ -260,29 +265,6 @@ a.sidebar-nav-item.active:focus {
 
 .more_books {
   max-width:480px;
-}
-
-
-.related_books img {
-    height: auto;
-    width: 90%;
-    object-fit: cover;
-    max-width:100%;
-    border-radius:
-    display:block;
-    margin: 0 auto 0 auto;
-    border: solid 1px #CCCCCC;
-    border-radius: 0 3px 3px 0;
-}
-
-.related_articles table {
-    border-collapse: collapse;
-    border: 0px;
-    margin-bottom: 0;
-}
-
-.related_articles td {
-    border: 0px;
 }
 
 
@@ -299,6 +281,19 @@ a.sidebar-nav-item.active:focus {
     width: 85%;
 }
 
+
+.related_books img {
+    height: auto;
+    width: 90%;
+    object-fit: cover;
+    max-width:100%;
+    border-radius:
+    display:block;
+    margin: 0 auto 0 auto;
+    border: solid 1px #CCCCCC;
+    border-radius: 0 3px 3px 0;
+}
+
 .related_books table {
     border-collapse: collapse;
     border: 0px;
@@ -308,6 +303,19 @@ a.sidebar-nav-item.active:focus {
 .related_books td {
     border: 0px;
 }
+
+
+.related_books table {
+    border-collapse: collapse;
+    border: 0px;
+    margin-bottom: 0;
+}
+
+.related_books td {
+    border: 0px;
+}
+
+
 
 .article_footer {
     font-size: 0.9rem;
