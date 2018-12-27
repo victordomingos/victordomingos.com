@@ -161,6 +161,16 @@ a.sidebar-nav-item.active:focus {
   font-size: 1.5rem;
 }
 
+
+.post .post-subtitle {
+  color: #515151;
+  font-size: .75rem;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 30px;
+}
+
+
 .post .external-link-margin {
     margin-left:3px;
     vertical-align: super;
@@ -179,6 +189,7 @@ a.sidebar-nav-item.active:focus {
   -webkit-box-shadow: 0px 10px 25px -15px rgba(0,0,0,0.9);
   -moz-box-shadow: 0px 10px 25px -15px rgba(0,0,0,0.9);
   box-shadow: 0px 10px 25px -15px rgba(0,0,0,0.9);
+  
 }
 
 
@@ -254,14 +265,6 @@ a.sidebar-nav-item.active:focus {
 }
 
 
-.book_page_cover {
-  max-height: 300px;
-  height: auto;
-  width: auto;
-  float: left;
-  margin-right: 25px;
-}
-
 
 .more_books {
   max-width:480px;
@@ -291,7 +294,7 @@ a.sidebar-nav-item.active:focus {
     display:block;
     margin: 0 auto 0 auto;
     border: solid 1px #CCCCCC;
-    border-radius: 0 3px 3px 0;
+    border-radius: 0;
 }
 
 .related_books table {
@@ -361,6 +364,20 @@ a.sidebar-nav-item.active:focus {
 	    width: 30%;
 	    float: right;
 	}
+	
+	
+    .book_page_cover {
+      max-height: 150px;
+      height: auto;
+      width: 30%;
+      float: left;
+      margin-right: 20px;
+      margin-top: 10px;
+      border: solid 1px #CCCCCC;
+      border-radius: 2px;
+      
+    }
+
 }
 
 @media(min-width:30em) {
@@ -382,6 +399,18 @@ a.sidebar-nav-item.active:focus {
 	.pagination-item.newer {
 	    width: 30%;
 	    float: right;
+	}
+	
+	.book_page_cover {
+	  max-height: 300px;
+	  height: auto;
+	  width: 30%;
+	  float: left;
+	  margin-right: 30px;
+	  margin-top: 10px;
+      border: solid 1px #CCCCCC;
+      border-radius: 2px;
+      
 	}
 }
 
