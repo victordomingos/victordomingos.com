@@ -175,6 +175,12 @@ a.sidebar-nav-item.active:focus {
   display:inline;
 }
 
+.book_cover {
+  -webkit-box-shadow: 0px 10px 25px -15px rgba(0,0,0,0.9);
+  -moz-box-shadow: 0px 10px 25px -15px rgba(0,0,0,0.9);
+  box-shadow: 0px 10px 25px -15px rgba(0,0,0,0.9);
+}
+
 .more_books {
   max-width:480px;
 }
