@@ -245,9 +245,17 @@ a.sidebar-nav-item.active:focus {
     background-color: none;
 }*/
 
+.related_articles table {
+    border-collapse: collapse;
+    border: 0px;
+    margin-bottom: 0;
+}
+
+
 .related_articles td {
     padding-top: 10px;
     padding-left: 5px;
+    border: 0px;
 }
 
 .related_articles img {
@@ -296,17 +304,6 @@ a.sidebar-nav-item.active:focus {
     border: solid 1px #CCCCCC;
     border-radius: 0;
 }
-
-.related_books table {
-    border-collapse: collapse;
-    border: 0px;
-    margin-bottom: 0;
-}
-
-.related_books td {
-    border: 0px;
-}
-
 
 .related_books table {
     border-collapse: collapse;
