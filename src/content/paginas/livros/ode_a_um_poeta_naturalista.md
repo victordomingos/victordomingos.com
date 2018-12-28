@@ -3,7 +3,9 @@ Slug: ode_a_um_poeta_naturalista
 Category: Livros
 Status: hidden
 Subtitle: Vencedor do 1º prémio no Concurso Literário Teixeira de Queiroz
-
+Template: book_page
+Cover: images/capas/capa-ode.jpg
+ 
  
 *Ode a Um Poeta Naturalista* é uma pequena novela que conseguiu o 1º lugar no Concurso Literário Teixeira de Queiroz, em 1999.
 
