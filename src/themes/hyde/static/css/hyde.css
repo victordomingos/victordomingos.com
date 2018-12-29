@@ -220,7 +220,8 @@ a.sidebar-nav-item.active:focus {
    text-decoration: none;
    vertical-align: middle;
    display: inline-block;
-   margin-bottom: 3px;
+   margin-bottom: 4px;
+   margin-right:5px;
    }
 .content .get_book .store_button:hover {
    border-top-color: #265a6e;
