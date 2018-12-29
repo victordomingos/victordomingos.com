@@ -219,7 +219,8 @@ a.sidebar-nav-item.active:focus {
    font-family: Helvetica, Arial, Sans-Serif;
    text-decoration: none;
    vertical-align: middle;
-   display: flex;
+   display: inline-block;
+   margin-bottom: 3px;
    }
 .content .get_book .store_button:hover {
    border-top-color: #265a6e;
