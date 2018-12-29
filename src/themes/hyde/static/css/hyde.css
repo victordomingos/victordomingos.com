@@ -193,6 +193,44 @@ a.sidebar-nav-item.active:focus {
 }
 
 
+.get_book div {
+  max-width: 100%;
+}
+
+.content .get_book .store_button {
+   border-top: 1px solid #96d1f8;
+   background: #6999ab;
+   background: -webkit-gradient(linear, left top, left bottom, from(#417285), to(#6999ab));
+   background: -webkit-linear-gradient(top, #417285, #6999ab);
+   background: -moz-linear-gradient(top, #417285, #6999ab);
+   background: -ms-linear-gradient(top, #417285, #6999ab);
+   background: -o-linear-gradient(top, #417285, #6999ab);
+   padding: 5.5px 11px;
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 16px;
+   line-height: 2.5; 
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   display: flex;
+   }
+.content .get_book .store_button:hover {
+   border-top-color: #265a6e;
+   background: #265a6e;
+   color: #ccc;
+   }
+.content .get_book .store_button:active {
+   border-top-color: #183c4a;
+   background: #183c4a;
+   }
+
 
 
 .read-more {
