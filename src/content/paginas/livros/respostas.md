@@ -1,7 +1,12 @@
-Title: As respostas dos leitores-autores ao livro de poesia É Preciso Calar o Monólogo
+Title: As respostas dos leitores-autores
 Slug: respostas
 Category: Livros
 Status: hidden
+
+
+**Leia o livro e participe!** 
+
+Este espaço reune algumas das respostas enviadas pelos leitores, a propósito da obra de poesia [É preciso calar o monólogo]({filename}/paginas/livros/e_preciso_calar_o_monologo.md).
 
 
 ## Yvette R. (Brasil)

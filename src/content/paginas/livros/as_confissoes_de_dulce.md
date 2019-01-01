@@ -20,14 +20,17 @@ A História costuma relatar os feitos dos grandes reis e guerreiros, mas raramen
 
 ### Obter este livro:
 
-- [Apple Books (iPhone/iPad)](http://itunes.apple.com/pt/book/id476477238)
-- [Google Play (Android)](https://play.google.com/store/books/details/Victor_Domingos_As_Confissões_de_Dulce?id=a4R0BgAAQBAJ)
-- [Amazon (Kindle)](http://www.amazon.com/dp/B0060CY896/ref=as_li_tf_til?tag=victodomin-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=B0060CY896&adid=0MC4Q0Z0VNX3203V47M7&&ref-refURL=http%3A%2F%2Fwww.victordomingos.com%2F)
-- [Kobo](http://www.kobobooks.com/ebook/As-Confissões-de-Dulce/book-B_k4pTLphk-GMJVhh1NsCQ/page1.html)
-- [Barnes & Noble (Nook)](http://www.barnesandnoble.com/w/as-confissoes-de-dulce-victor-domingos/1107044149?ean=2940032815952&itm=2&usri=victor+domingos)
-- [Scribd](http://pt.scribd.com/book/193633339/As-Confissoes-de-Dulce)
-- [Smashwords (todos os dispositivos)](http://www.smashwords.com/books/view/96652?ref=victordomingos)
 
+### Obter este livro:
+
+<div class="get_book">
+  <a href="https://itunes.apple.com/pt/book/id476477238" class="store_button">Apple Books (iPhone/iPad)</a> 
+  <a href="https://play.google.com/store/books/details/Victor_Domingos_As_Confissões_de_Dulce?id=a4R0BgAAQBAJ" class="store_button">Google Play (Android)</a> 
+  <a href="https://www.amazon.com/dp/B0060CY896/ref=as_li_tf_til?tag=victodomin-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=B0060CY896&adid=0MC4Q0Z0VNX3203V47M7&&ref-refURL=http%3A%2F%2Fwww.victordomingos.com%2F" class="store_button">Kindle</a> 
+  <a href="https://www.kobobooks.com/ebook/As-Confissões-de-Dulce/book-B_k4pTLphk-GMJVhh1NsCQ/page1.html" class="store_button">Kobo</a> 
+  <a href="https://www.barnesandnoble.com/w/as-confissoes-de-dulce-victor-domingos/1107044149?ean=2940032815952&itm=2&usri=victor+domingos" class="store_button">Nook</a> 
+  <a href="https://pt.scribd.com/book/193633339/As-Confissoes-de-Dulce" class="store_button">Scribd</a> 
+  <a href="https://www.smashwords.com/books/view/96652?ref=victordomingos" class="store_button">Smashwords (todos os dispositivos)</a>
 
 
 <div class="related_books">

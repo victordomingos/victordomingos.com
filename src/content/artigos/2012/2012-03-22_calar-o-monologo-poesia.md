@@ -9,7 +9,7 @@ Summary: Acaba de ser lançado em formato digital o livro de poemas *É Preciso 
 
 ### Um livro de poesia que não acaba no fim
 
-*￼É Preciso Calar o Monólogo* é um pequeno livro de poemas em que o autor, Victor Domingos, desafia o leitor a quebrar uma das últimas barreiras da leitura, isto é, a romper com a passividade. O poeta desafia o leitor a (re)criar a sua obra e a comunicar com ele, interrompendo assim o monólogo tradicional da literatura. A ideia consiste em estender o ato criativo à mão do próprio leitor, de modo a que este participe também na construção da obra de arte, de um intertexto dinâmico e partilhado. 
+*[É Preciso Calar o Monólogo]({filename}/paginas/livros/e_preciso_calar_o_monologo.md)* é um pequeno livro de poemas em que o autor, Victor Domingos, desafia o leitor a quebrar uma das últimas barreiras da leitura, isto é, a romper com a passividade. O poeta desafia o leitor a (re)criar a sua obra e a comunicar com ele, interrompendo assim o monólogo tradicional da literatura. A ideia consiste em estender o ato criativo à mão do próprio leitor, de modo a que este participe também na construção da obra de arte, de um intertexto dinâmico e partilhado. 
 
 Para o autor deste livro, existem demasiadas situações em que a comunicação humana se reduz a um interminável monólogo. Desde as relações pessoais de caráter mais íntimo ou familiar às grandes questões políticas da atualidade, Victor Domingos mostra-se convencido de que «tudo seria bem mais simples se a comunicação não fosse tendencialmente unidirecional». De acordo com o autor, «em vez de um falar e outro se limitar a ouvir de uma forma muito pouco criativa», é necessário dar voz a ambas as partes, promovendo uma comunicação mais efetiva. 
 

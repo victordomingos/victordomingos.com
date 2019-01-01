@@ -16,13 +16,14 @@ Para o autor deste livro, existem demasiadas situações em que a comunicação 
 
 ### Obter este livro:
 
-- [Apple Books (iPhone/iPad)](http://itunes.apple.com/pt/book/id512480180)
-- [Google Play (Android)](https://play.google.com/store/books/author?id=Victor%20Domingos)
-- [Amazon (Kindle)](http://www.amazon.com/dp/B007MUXYLI)
-- [Kobo](http://www.kobobooks.com/ebook/%C3%89-Preciso-Calar-o-Mon%C3%B3logo/book-pgpY2K3_-0CJVNyG4__9Qw/page1.html?s=8p6dLHok8kGzFMvJnBfeoQ&r=2)
-- [Barnes & Noble (Nook)](http://www.barnesandnoble.com/w/preciso-calar-o-mon-logo-victor-domingos/1109677050?ean=2940033077991&itm=1&usri=victor+domingos)
-- [Scribd](http://pt.scribd.com/book/193769201/E-Preciso-Calar-o-Monologo)
-- [Smashwords (todos os dispositivos)](http://www.smashwords.com/books/view/136180#longdescr?ref=victordomingos)
+<div class="get_book">
+  <a href="https://itunes.apple.com/pt/book/id512480180" class="store_button">Apple Books (iPhone/iPad)</a> 
+  <a href="https://play.google.com/store/books/author?id=Victor%20Domingos" class="store_button">Google Play (Android)</a> 
+  <a href="https://www.amazon.com/dp/B007MUXYLI" class="store_button">Kindle</a> 
+  <a href="https://www.kobobooks.com/ebook/%C3%89-Preciso-Calar-o-Mon%C3%B3logo/book-pgpY2K3_-0CJVNyG4__9Qw/page1.html?s=8p6dLHok8kGzFMvJnBfeoQ&r=2" class="store_button">Kobo</a> 
+  <a href="https://www.barnesandnoble.com/w/preciso-calar-o-mon-logo-victor-domingos/1109677050?ean=2940033077991&itm=1&usri=victor+domingos" class="store_button">Nook</a> 
+  <a href="https://pt.scribd.com/book/193769201/E-Preciso-Calar-o-Monologo" class="store_button">Scribd</a> 
+  <a href="https://www.smashwords.com/books/view/136180#longdescr?ref=victordomingos" class="store_button">Smashwords (todos os dispositivos)</a>
 
 
 <div class="related_books">

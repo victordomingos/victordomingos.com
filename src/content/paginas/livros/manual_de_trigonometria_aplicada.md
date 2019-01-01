@@ -20,13 +20,16 @@ Difícil de definir e de enquadrar nos géneros literários mais convencionais, 
 
 
 ### Obter este livro:
-- [Apple Books (iPhone/iPad)](http://itunes.apple.com/pt/book/id481665294)  
-- [Amazon (Kindle)](http://www.amazon.com/Manual-Trigonometria-Aplicada-Portuguese-ebook/dp/B0063ULBKO/ref=ntt_at_ep_dpt_2)
-- [Google Play (Android)](https://play.google.com/store/books/details/Victor_Domingos_Manual_de_Trigonometria_Aplicada?id=jhuTBgAAQBAJ)
-- [Kobo](http://www.kobobooks.com/ebook/Manual-de-Trigonometria-Aplicada/book-XMj2-QCs2UeY2G0sE2N_wg/page1.html)
-- [Barnes & Noble (Nook)](http://www.barnesandnoble.com/w/manual-de-trigonometria-aplicada-victor-domingos/1107485333?ean=2940032847335&itm=3&usri=victor+domingos)
-- [Scribd](http://pt.scribd.com/book/193642524/Manual-de-Trigonometria-Aplicada)
-- [Smashwords (todos os dispositivos)](http://www.smashwords.com/books/view/102148#longdescr?ref=victordomingos)
+
+
+<div class="get_book">
+  <a href="https://itunes.apple.com/pt/book/id481665294" class="store_button">Apple Books (iPhone/iPad)</a> 
+  <a href="https://www.amazon.com/Manual-Trigonometria-Aplicada-Portuguese-ebook/dp/B0063ULBKO/ref=ntt_at_ep_dpt_2" class="store_button">Google Play (Android)</a> 
+  <a href="https://play.google.com/store/books/details/Victor_Domingos_Manual_de_Trigonometria_Aplicada?id=jhuTBgAAQBAJ" class="store_button">Kindle</a> 
+  <a href="https://www.kobobooks.com/ebook/Manual-de-Trigonometria-Aplicada/book-XMj2-QCs2UeY2G0sE2N_wg/page1.html" class="store_button">Kobo</a> 
+  <a href="https://www.barnesandnoble.com/w/manual-de-trigonometria-aplicada-victor-domingos/1107485333?ean=2940032847335&itm=3&usri=victor+domingos" class="store_button">Nook</a> 
+  <a href="https://pt.scribd.com/book/193642524/Manual-de-Trigonometria-Aplicada" class="store_button">Scribd</a> 
+  <a href="https://www.smashwords.com/books/view/102148#longdescr?ref=victordomingos" class="store_button">Smashwords (todos os dispositivos)</a>
 
 
 <div class="related_books">
