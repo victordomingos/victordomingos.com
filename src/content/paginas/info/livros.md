@@ -25,7 +25,7 @@ Category: Info
 <img class="book_thumbnail book_cover" src="../images/capas/outros/o-salustio-nogueira_capa.jpg" alt="O Salústio Nogueira (romance de Teixeira de Queirós)">
 <p class="book_title"><b>O Salústio Nogueira</b> (ArcosOnline, 2006)</p>
 <p class="book_description">Romance do escritor português Teixeira de Queirós (1848-1919), com introdução de Victor Domingos e posfácio de David Mourão-Ferreira.
-Ainda disponível gratuitamente para download em formato PDF a partir [desta página](https://pt.scribd.com/doc/7088072/Teixeira-de-Queiros-O-Salustio-Nogueira).</p>
+Ainda disponível gratuitamente para download em formato PDF a partir <a href="https://pt.scribd.com/doc/7088072/Teixeira-de-Queiros-O-Salustio-Nogueira">desta página</a>.</p>
 </div>
 
 
@@ -60,7 +60,7 @@ Participação na antologia com um poema.
 
 <div class="small_book_list">
 <img class="book_thumbnail book_cover" src="../images/capas/outros/terra_de_val_de_vez__gepa.jpg" alt="Terra de Val de Vez - Revista cultural do G.E.PA. (Grupo de Estudos do Património Arcuense)">
-<p class="book_title"><b>Terra de Val de Vez - Revista cultural do G.E.PA. (Grupo de Estudos do Património Arcuense)</p>
+<p class="book_title"><b>Terra de Val de Vez - Revista cultural do G.E.PA. (Grupo de Estudos do Património Arcuense)</b></p>
 <p class= "book_description">
 Participação com alguns poemas da obra “é preciso calar o monólogo” no nº 18 da revista (2007). Essa edição da revista inclui também uma análise do professor Filipe Machado sobre esse mesmo livro de poesia.
 </p>
@@ -83,6 +83,6 @@ Participação na antologia com a narrativa intitulada *As Confissões de Dulce*
 <img class="book_thumbnail book_cover" src="../images/capas/outros/a-nossa-lingua-2.png" alt="A Língua Portuguesa no Alto Minho<">
 <p class="book_title"><b>A Língua Portuguesa no Alto Minho</b> (ArcosOnline, 2004)</p>
 <p class= "book_description">
-Ainda disponível para download grátis, em formato PDF, [aqui](http://www.victordomingos.com/resources/livros/arcosonline/a-nossa-lingua.pdf).
+Ainda disponível para download grátis, em formato PDF, <a href="http://www.victordomingos.com/resources/livros/arcosonline/a-nossa-lingua.pdf">aqui</a>.
 </p>
 </div> 
