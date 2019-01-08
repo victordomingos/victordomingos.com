@@ -7,33 +7,25 @@ Category: Info
 ### Narrativa:
 
 <div class="book_list">
-<a href="../livros/manual_de_trigonometria_aplicada.html"><img class="book_cover" src="../images/capas/capa-manual-360.jpg" alt="Manual de trigonometria Aplicada (narrativa)"></a>
-<a href="../livros/as_confissoes_de_dulce.html"><img class="book_list book_cover" src="../images/capas/capa-dulce-360.jpg" alt="As Confissões de Dulce (narrativa)"></a><a href="../livros/ode_a_um_poeta_naturalista.html"><img class="other_book book_cover" src="../images/capas/capa-ode-360.jpg" alt="Ode a Um Poeta Naturalista (narrativa)"></a>
+  <a href="../livros/manual_de_trigonometria_aplicada.html"><img class="book_cover" src="../images/capas/capa-manual-360.jpg" alt="Manual de trigonometria Aplicada (narrativa)"></a>
+  <a href="../livros/as_confissoes_de_dulce.html"><img class="book_list book_cover" src="../images/capas/capa-dulce-360.jpg" alt="As Confissões de Dulce (narrativa)"></a>
+  <a href="../livros/ode_a_um_poeta_naturalista.html"><img class="other_book book_cover" src="../images/capas/capa-ode-360.jpg" alt="Ode a Um Poeta Naturalista (narrativa)"></a>
 </div>
+
 
 ### Poesia:
 
 <div class="book_list">
-<a href="../livros/e_preciso_calar_o_monologo.html"><img class="book_list book_cover" src="../images/capas/capa-calar-o-monologo-360.jpg" alt="É Preciso Calar o Monólogo (poesia)"></a>
+  <a href="../livros/e_preciso_calar_o_monologo.html"><img class="book_list book_cover" src="../images/capas/capa-calar-o-monologo-360.jpg" alt="É Preciso Calar o Monólogo (poesia)"></a>
 </div>
 
 
 
 ### Como editor/organizador:
 
-<div class="small_book_list">
-<img class="book_thumbnail book_cover" src="../images/capas/outros/o-salustio-nogueira_capa.jpg" alt="O Salústio Nogueira (romance de Teixeira de Queirós)">
-<p class="book_title"><b>O Salústio Nogueira</b> (ArcosOnline, 2006)</p>
-<p class="book_description">Romance do escritor português Teixeira de Queirós (1848-1919), com introdução de Victor Domingos e posfácio de David Mourão-Ferreira.
-Ainda disponível gratuitamente para download em formato PDF a partir <a href="https://pt.scribd.com/doc/7088072/Teixeira-de-Queiros-O-Salustio-Nogueira">desta página</a>.</p>
-</div>
-
-
-<div class="small_book_list">
-<img class="book_thumbnail book_cover" src="../images/capas/outros/ewpsychology.png" alt="European Writings on Psychology - Vol. 1 IV">
-<p class="book_title"><b>European Writings on Psychology - Volume 1, September 2004</b> (ArcosOnline, 2004)</p>
-<p class= "book_description">
-</p>
+<div class="book_list">
+  <a href="../livros/o_salustio_nogueira_teixeira_de_queiros.html"><img class="book_cover" src="../images/capas/outros/o-salustio-nogueira_capa.jpg" alt="O Salústio Nogueira (romance de Teixeira de Queirós, com introdução de Victor Domingos e posfácio de David Mourão-Ferreira)"></a>
+  <a href="../livros/european_writings_on_psychology.html"><img class="book_list book_cover" src="../images/capas/outros/ewpsychology.png" alt="European Writings on Psychology - Volume 1, September 2004"></a>
 </div>
 
 
@@ -86,3 +78,8 @@ Participação na antologia com a narrativa intitulada *As Confissões de Dulce*
 Ainda disponível para download grátis, em formato PDF, <a href="http://www.victordomingos.com/resources/livros/arcosonline/a-nossa-lingua.pdf">aqui</a>.
 </p>
 </div> 
+
+
+
+<hr>
+
