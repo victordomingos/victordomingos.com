@@ -201,6 +201,40 @@ a.sidebar-nav-item.active:focus {
     border-radius: 0;
 }
 
+.book_thumbnail {
+    height: auto;
+    width: 66px;
+    object-fit: cover;
+    max-width:25%;
+    display:inline-block;
+    margin: 2px;
+    border: solid 1px #CCCCCC;
+    border-radius: 0;
+}
+
+.post .small_book_list {
+  border: none;
+  width: 100%;
+}
+
+.post .small_book_list p{
+  font-size: .9rem;
+}
+
+.post .small_book_list td {
+  border: none;
+}
+
+.post .small_book_list img {
+  width: 66px;
+  height: auto;
+  object-fit: cover;
+  max-width: 100%;
+  margin: 2px;
+  border: solid 1px #CCCCCC;
+  border-radius: 0;
+}
+
 
 
 .book_cover {

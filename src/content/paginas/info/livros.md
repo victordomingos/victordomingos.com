@@ -31,8 +31,72 @@ Category: Info
 
 ### Participação em revistas e antologias:
 
-<div class="small_book_list">
-<img class="book_thumbnail book_cover" src="../images/capas/outros/nanozine5.jpg" alt="Nanozine - Uma webzine literária portuguesa">
+<table class="small_book_list">
+  <tr>
+    <td>
+      <a href="http://nanoezine.wordpress.com/revista">
+        <img class="book_thumbnail book_cover" src="../images/capas/outros/nanozine5.jpg" alt="Nanozine - Uma webzine literária portuguesa">
+      </a>
+    </td>
+    <td>
+      <p class="book_title"><b>Nanozine - Uma webzine literária portuguesa</b></p>
+      <p class= "book_description">
+        Participação com um poema inédito no nº 5 da revista (março de 2012).
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img class="book_thumbnail book_cover" src="../images/capas/outros/entre_o_sono_e_o_sonho__.jpg" alt="Entre o Sono e o Sonho - Antologia de Poesia Contemporânea, Vol. IV">
+    </td>
+    <td>
+      <p class="book_title"><b>Entre o Sono e o Sonho - Antologia de Poesia Contemporânea, Vol. IV</b> (Chiado Editora, 2013)</b></p>
+      <p class= "book_description">
+        Participação na antologia com um poema.
+      </p>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>
+      <a href="http://nanoezine.wordpress.com/revista">
+        <img class="book_thumbnail book_cover" src="../images/capas/outros/nanozine5.jpg" alt="Nanozine - Uma webzine literária portuguesa">
+      </a>
+    </td>
+    <td>
+      <p class="book_title"><b>Nanozine - Uma webzine literária portuguesa</b></p>
+      <p class= "book_description">
+        Participação com um poema inédito no nº 5 da revista (março de 2012).
+      </p>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>
+      <a href="http://nanoezine.wordpress.com/revista">
+        <img class="book_thumbnail book_cover" src="../images/capas/outros/nanozine5.jpg" alt="Nanozine - Uma webzine literária portuguesa">
+      </a>
+    </td>
+    <td>
+      <p class="book_title"><b>Nanozine - Uma webzine literária portuguesa</b></p>
+      <p class= "book_description">
+        Participação com um poema inédito no nº 5 da revista (março de 2012).
+      </p>
+    </td>
+  </tr>
+
+  
+</table>
+    
+    
+    
+    
+    
+    
+<img class="book_thumbnail" src="../images/capas/outros/nanozine5.jpg" alt="Nanozine - Uma webzine literária portuguesa">
 <p class="book_title"><b>Nanozine - Uma webzine literária portuguesa</b></p>
 <p class= "book_description">
 http://nanoezine.wordpress.com/revista
@@ -42,7 +106,7 @@ Participação com um poema inédito no nº 5 da revista (março de 2012).
 
 
 <div class="small_book_list">
-<img class="book_thumbnail book_cover" src="../images/capas/outros/entre_o_sono_e_o_sonho__.jpg" alt="Entre o Sono e o Sonho - Antologia de Poesia Contemporânea, Vol. IV">
+<img class="book_thumbnail" src="../images/capas/outros/entre_o_sono_e_o_sonho__.jpg" alt="Entre o Sono e o Sonho - Antologia de Poesia Contemporânea, Vol. IV">
 <p class="book_title"><b>Entre o Sono e o Sonho - Antologia de Poesia Contemporânea, Vol. IV</b> (Chiado Editora, 2013)</p>
 <p class= "book_description">
 Participação na antologia com um poema.
