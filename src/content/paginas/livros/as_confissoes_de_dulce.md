@@ -18,10 +18,7 @@ A História costuma relatar os feitos dos grandes reis e guerreiros, mas raramen
 [Leia aqui o comentário da escritora brasileira Maurem Kayna]({filename}/artigos/2011/2011-11-11_no_confessionario_com_dulce.md)
 
 
-### Obter este livro:
-
-
-### Obter este livro:
+#### Obter este livro:
 
 <div class="get_book">
   <a href="https://itunes.apple.com/pt/book/id476477238" class="store_button">Apple Books (iPhone/iPad)</a> 

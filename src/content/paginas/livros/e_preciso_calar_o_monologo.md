@@ -14,7 +14,7 @@ Para o autor deste livro, existem demasiadas situações em que a comunicação 
 [As respostas dos leitores-autores]({filename}/paginas/livros/respostas.md)
 
 
-### Obter este livro:
+#### Obter este livro:
 
 <div class="get_book">
   <a href="https://itunes.apple.com/pt/book/id512480180" class="store_button">Apple Books (iPhone/iPad)</a> 

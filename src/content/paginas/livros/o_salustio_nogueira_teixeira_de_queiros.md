@@ -14,7 +14,7 @@ O significado do amor, das relações, da vida e da própria morte são alguns d
 Esta história breve e densa foi a primeira obra de Victor Domingos enquanto escritor. No entanto, a novela *[Manual de Trigonometria Aplicada]({filename}/paginas/livros/manual_de_trigonometria_aplicada.md)* (Autores de Braga, 2002) acabaria por vir a lume uns meses mais cedo, numa edição em papel, constituindo-se assim na altura como a verdadeira estreia pública do autor. 
 
 
-### Obter este livro:
+#### Obter este livro:
 
 <div class="get_book">
   <a href="https://itunes.apple.com/pt/book/id491320651" class="store_button">Apple Books (iPhone/iPad)</a> 

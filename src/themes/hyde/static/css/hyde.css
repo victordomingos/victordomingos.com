@@ -147,7 +147,7 @@ a.sidebar-nav-item.active:focus {
  * Align the contents of the site above the proper threshold with some margin-fu
  * with a 25%-wide `.sidebar`.
  */
-.post h1 {
+.post h2 {
   font-size: 1.5rem;
 }
 
@@ -166,6 +166,22 @@ a.sidebar-nav-item.active:focus {
 .post .post-title {
   color: #515151;
   font-size: 1.5rem;
+}
+
+
+.post .page-title {
+  color: #515151;
+  font-size: 1.5rem;
+  display: inline-block;
+  margin: 10px 1px;
+  min-width: 150px;
+  padding: 5px 15px;
+  font-weight: 600;
+  text-align: justify;
+  -moz-box-shadow: -4px 0 0 0 #6a9fb5;
+  -webkit-box-shadow: -4px 0 0 0 #6a9fb5;
+  box-shadow: -4px 0 0 0 #6a9fb5;
+  background-color: #EEF4F6;
 }
 
 

@@ -6,24 +6,42 @@ Subtitle: Volume 1, September 2004 (revista digital publicada por ArcosOnline)
 Template: book_page
 Cover: images/capas/outros/ewpsychology.png
  
- 
-*Ode a Um Poeta Naturalista* é uma pequena novela que conseguiu o 1º lugar no Concurso Literário Teixeira de Queiroz, em 1999.
 
-O significado do amor, das relações, da vida e da própria morte são alguns dos temas privilegiados da literatura universal que são abordados neste livro. O enredo da narrativa, que assenta numa história de amor vivida de dentro e narrada, ora na 1ª, ora na 2ª pessoa, é-nos transmitido sob a forma de um conjunto de cenas ou quadros relativos à vida de um poeta "naturalista". 
+#### Ficha técnica
 
-Esta história breve e densa foi a primeira obra de Victor Domingos enquanto escritor. No entanto, a novela *[Manual de Trigonometria Aplicada]({filename}/paginas/livros/manual_de_trigonometria_aplicada.md)* (Autores de Braga, 2002) acabaria por vir a lume uns meses mais cedo, numa edição em papel, constituindo-se assim na altura como a verdadeira estreia pública do autor. 
+**Título:** European Writings on Psychology, Vol. 1  
+**Género:** Textos científicos  
+**Autores:** A. de Acutis, Cátia Rodrigues, Cedric E. Ginestet, Cláudia Barbosa, Paula Marques e V. Skepeneit  
+**Editor:** Victor Domingos  
+**Editora:** ArcosOnline.com  
+**Data de publicação:** setembro de 2004  
+
+Esta obra traz até si um conjunto de textos sobre diversas temáticas da Psicologia, escritos por psicólogos e estudantes de psicologia de vários países da Europa. Inclui quatro artigos de investigação e quatro de revisão de literatura no sentido da sua aplicação prática. A abrir o volume, vem também um texto de Pedro Neves, antigo presidente da EFPSA, sobre "A Psicologia em Portugal e na Europa".  
 
 
-### Obter este livro:
+#### [PT] Nota do editor
+
+Há alguns anos atrás, um site chamado "Psicologia e Afins" convidou os psicólogos e estudantes de psicologia europeus a unirem esforços num projecto comum. O objectivo principal era disponibilizar uma plataforma na Internet para a comunidade psicológica portuguesa, não só com literatura técnica e científica, mas também com um calendário atualizado dos eventos que realmente interessavam às pessoas ligadas à Psicologia.
+
+Durante muito tempo, esse site foi mantido atualizado de forma regular, e os novos conteúdos eram adicionados com bastante frequência. Os promotores da iniciativa persistiram enquanto puderam, satisfeitos com o facto de que o seu trabalho estava a ser útil para o seu público-alvo. No entanto, o seu caráter não-comercial implicava um grande dispêndio de tempo não remunerado. Isto significa que acabaria por chegar uma altura em que teriam de se dedicar a outras tarefas. Essa altura chegou. O site esteve sem atualização ao longo de mais de 9 meses e parece agora que não será possível continuar a manter de pé o projecto original. Por outro lado, têm surgido novos projetos que parecem ser boas alternativas e/ou sucessores ao nosso velho "Psicologia e Afins". Estamos satisfeitos por isso, uma vez que deste modo a comunidade não se ressentirá tanto da ausência dos serviços que nós oferecíamos.
+
+Ainda assim, sentimos que não podíamos deixar desaparecer a parte mais significativa da contribuição da comunidade: os artigos. Eles continuam ainda atuais e merecem continuar ao alcance de todas as pessoas interessadas. E é por isso que decidimos publicá-los nesta edição não periódica. Esperamos que, desta forma, os textos consigam continuar a chegar àqueles que podem beneficiar da sua leitura.
+
+
+#### [EN] Editor's note
+
+Some years ago, a website named “Psicologia e Afins” has invited both European psychologists and psychology students to join their efforts together in a common project. The main goal was to make an Internet platform available for the Portuguese psychological community, not only with technical and scientific literature, but also with an updated calendar of the best events that mattered to people related to Psychology.
+
+For a long time, that website was kept updated in a regular basis, and new contents were added very frequently. The promoters of the initiative have persevered for as long as they could, enjoying the fact that their work was being useful to its target public. However, its non‑commercial character implied the need of a great amount of non‑remunerated time. This means that there would be a time when they would need to dedicate themselves to other tasks. That time has arrived. The website could not be updated for more than 9 months and it seems now that it wont be possible any more to keep the original project alive. Besides, some new projects came along and they seem to be good alternatives or sequels to our old “Psicologia e Afins”. We feel satisfied about that, as the community will not entirely miss the services we were offering.
+
+Nevertheless, we felt that we couldn't let disappear the most significant part of the community contributions: the articles. They still remain up to date, and deserve to be available to all interested people. That's why we decided to publish them in this non periodic publication. We hope that this way the texts will arrive to those who may benefit from its reading.
+
+
+#### Obter este livro:
 
 <div class="get_book">
-  <a href="https://itunes.apple.com/pt/book/id491320651" class="store_button">Apple Books (iPhone/iPad)</a> 
-  <a href="https://play.google.com/store/books/details/Victor_Domingos_Ode_a_Um_Poeta_Naturalista?id=oG5vBgAAQBAJ" class="store_button">Google Play (Android)</a> 
-  <a href="https://www.amazon.com/Ode-Poeta-Naturalista-Portuguese-ebook/dp/B006LEUKEK/ref=ntt_at_ep_dpt_3" class="store_button">Kindle</a> 
-  <a href="https://www.kobobooks.com/ebook/Ode-a-Um-Poeta-Naturalista/book-jBFrdNTOfEizCc45-jwJTw/page1.html" class="store_button">Kobo</a> 
-  <a href="https://www.barnesandnoble.com/w/ode-a-um-poeta-naturalista-victor-domingos/1108076454?ean=2940032925330&itm=1&usri=victor+domingos" class="store_button">Nook</a> 
-  <a href="https://pt.scribd.com/book/193699096/Ode-a-Um-Poeta-Naturalista" class="store_button">Scribd</a> 
-  <a href="https://www.smashwords.com/books/view/114023#longdescr?ref=victordomingos" class="store_button">Smashwords (todos os dispositivos)</a>
+  <a href="../biblioteca/pdf/ewpsychology.pdf" class="store_button">Descarregar PDF</a> 
+
 
 </div>
 

@@ -5,9 +5,9 @@
 		{% for article in articles_page.object_list %}
 			<div class="post">
                  		<a class="post-category" href="{{  SITEURL  }}/{{ article.category.url }}">{{ article.category | upper }}</a>
-				<h1 class="post-title">
+				<h2 class="post-title">
 					<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-				</h1>
+				</h2>
 		  
 			{% if article.cover %}
 			        <a href="{{ article.url }}">
