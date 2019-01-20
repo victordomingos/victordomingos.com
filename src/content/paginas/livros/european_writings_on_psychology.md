@@ -7,6 +7,18 @@ Template: book_page
 Cover: images/capas/outros/ewpsychology.png
  
 
+
+#### Obter este livro:
+
+<div class="get_book">
+  <a href="../biblioteca/pdf/ewpsychology.pdf" class="store_button">Descarregar PDF</a> 
+</div>
+<p>&nbsp;</p>
+
+Esta obra traz até si um conjunto de textos sobre diversas temáticas da Psicologia, escritos por psicólogos e estudantes de psicologia de vários países da Europa. Inclui quatro artigos de investigação e quatro de revisão de literatura no sentido da sua aplicação prática. A abrir o volume, vem também um texto de Pedro Neves, antigo presidente da EFPSA, sobre "A Psicologia em Portugal e na Europa".  
+
+<hr>
+
 #### Ficha técnica
 
 **Título:** European Writings on Psychology, Vol. 1  
@@ -16,8 +28,7 @@ Cover: images/capas/outros/ewpsychology.png
 **Editora:** ArcosOnline.com  
 **Data de publicação:** setembro de 2004  
 
-Esta obra traz até si um conjunto de textos sobre diversas temáticas da Psicologia, escritos por psicólogos e estudantes de psicologia de vários países da Europa. Inclui quatro artigos de investigação e quatro de revisão de literatura no sentido da sua aplicação prática. A abrir o volume, vem também um texto de Pedro Neves, antigo presidente da EFPSA, sobre "A Psicologia em Portugal e na Europa".  
-
+<hr>
 
 #### [PT] Nota do editor
 
@@ -37,13 +48,6 @@ For a long time, that website was kept updated in a regular basis, and new conte
 Nevertheless, we felt that we couldn't let disappear the most significant part of the community contributions: the articles. They still remain up to date, and deserve to be available to all interested people. That's why we decided to publish them in this non periodic publication. We hope that this way the texts will arrive to those who may benefit from its reading.
 
 
-#### Obter este livro:
-
-<div class="get_book">
-  <a href="../biblioteca/pdf/ewpsychology.pdf" class="store_button">Descarregar PDF</a> 
-
-
-</div>
 
 <div class="related_books">
 <h5 class="related_articles_header">Outros livros:</h5>

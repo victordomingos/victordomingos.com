@@ -174,7 +174,7 @@ a.sidebar-nav-item.active:focus {
   font-size: 1.5rem;
   display: inline-block;
   margin: 10px 1px;
-  min-width: 150px;
+  min-width: 180px;
   padding: 5px 15px;
   font-weight: 600;
   text-align: justify;
