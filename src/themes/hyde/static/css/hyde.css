@@ -151,6 +151,13 @@ a.sidebar-nav-item.active:focus {
   font-size: 1.5rem;
 }
 
+
+.post h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+
 .content {
   padding-top:    3.9rem;
   padding-bottom: 1rem;
@@ -172,7 +179,7 @@ a.sidebar-nav-item.active:focus {
 
 
 .post .external-link-margin {
-    margin-left:3px;
+    margin-left: 3px;
     vertical-align: super;
     font-size:.7em;
 }
@@ -218,7 +225,7 @@ a.sidebar-nav-item.active:focus {
 }
 
 .post .small_book_list p{
-  font-size: .9rem;
+  font-size: .8rem;
 }
 
 .post .small_book_list td {
@@ -226,28 +233,28 @@ a.sidebar-nav-item.active:focus {
   vertical-align: top;
   padding-top: 2px;
   padding-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .post .small_book_list img {
   min-width: 90px;
+  width: 90px;
   height: auto;
   object-fit: cover;
   max-width: 100%;
-  margin: 2px;
+  margin: 0 2px 0 0;
   border: solid 1px #CCCCCC;
-  border:none;
   border-radius: 0;
 }
 
 .book_title {
-  margin-bottom: 1rem;
-  margin: 2px;
+  margin: 1px 0 2px 0;
   font-weight: bold;
 }
 
 .post .small_book_list .book_publisher {
-  font-size: .8rem;
- margin-top: 2px;
+  font-size: .7rem;
+  margin-top: 2px;
 }
 
 

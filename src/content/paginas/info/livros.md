@@ -55,7 +55,7 @@ Category: Info
 
 
   <tr>
-    <td>
+    <td style="width:90px;">
       <img class="book_thumbnail book_cover" src="../images/capas/outros/terra_de_val_de_vez__gepa.jpg" alt="Terra de Val de Vez - Revista cultural do G.E.PA.  (Grupo de Estudos do Património Arcuense)">
     </td>
     <td>
@@ -69,7 +69,7 @@ Category: Info
 
 
   <tr>
-    <td>
+    <td style="width:90px;">
       <img class="book_thumbnail book_cover"  src="../images/capas/outros/contos-dsancho_-3.jpg" alt="Contos de D. Sancho I - Antologia do Concurso Literário D. Sancho I">
     </td>
     <td>
@@ -91,7 +91,7 @@ Category: Info
 
 <table class="small_book_list">
   <tr>
-    <td>
+    <td style="width:90px;">
       <img class="book_thumbnail book_cover"  src="../images/capas/outros/a-nossa-lingua-2.png" alt="A Língua Portuguesa no Alto Minho">
     </td>
     <td>
