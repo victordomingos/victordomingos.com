@@ -34,15 +34,11 @@ Category: Info
 <table class="small_book_list">
   <tr>
     <td>
-      <a href="http://nanoezine.wordpress.com/revista">
-        <img class="book_thumbnail book_cover" src="../images/capas/outros/nanozine5.jpg" alt="Nanozine - Uma webzine literária portuguesa">
-      </a>
+      <img class="book_thumbnail book_cover" src="../images/capas/outros/nanozine5.jpg" alt="Nanozine - Uma webzine literária portuguesa">
     </td>
     <td>
       <p class="book_title"><b>Nanozine - Uma webzine literária portuguesa</b></p>
-      <p class= "book_description">
-        Participação com um poema inédito no nº 5 da revista (março de 2012).
-      </p>
+      <p class= "book_description">Participação com um poema inédito no <a href="http://nanoezine.wordpress.com/revista">nº 5 da revista</a> (março de 2012).</p>
     </td>
   </tr>
 
@@ -51,9 +47,22 @@ Category: Info
       <img class="book_thumbnail book_cover" src="../images/capas/outros/entre_o_sono_e_o_sonho__.jpg" alt="Entre o Sono e o Sonho - Antologia de Poesia Contemporânea, Vol. IV">
     </td>
     <td>
-      <p class="book_title"><b>Entre o Sono e o Sonho - Antologia de Poesia Contemporânea, Vol. IV</b> (Chiado Editora, 2013)</b></p>
+      <p class="book_title">Entre o Sono e o Sonho - Antologia de Poesia Contemporânea, Vol. IV</p>
+	  <p class="book_publisher">Chiado Editora, 2013</p>
+      <p class= "book_description">Participação na antologia com um poema.</p>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>
+      <img class="book_thumbnail book_cover" src="../images/capas/outros/terra_de_val_de_vez__gepa.jpg" alt="Terra de Val de Vez - Revista cultural do G.E.PA.  (Grupo de Estudos do Património Arcuense)">
+    </td>
+    <td>
+      <p class="book_title">Terra de Val de Vez</p>
+	  <p class="book_publisher">Revista cultural do G.E.PA. (Grupo de Estudos do Património Arcuense)</p>
       <p class= "book_description">
-        Participação na antologia com um poema.
+        Participação com alguns poemas da obra <em><a href="../livros/e_preciso_calar_o_monologo.html">é preciso calar o monólogo</a></em> no nº 18 da revista (2007). Essa edição da revista inclui também uma análise do professor Filipe Machado sobre esse mesmo livro de poesia.
       </p>
     </td>
   </tr>
@@ -61,29 +70,13 @@ Category: Info
 
   <tr>
     <td>
-      <a href="http://nanoezine.wordpress.com/revista">
-        <img class="book_thumbnail book_cover" src="../images/capas/outros/nanozine5.jpg" alt="Nanozine - Uma webzine literária portuguesa">
-      </a>
+      <img class="book_thumbnail book_cover"  src="../images/capas/outros/contos-dsancho_-3.jpg" alt="Contos de D. Sancho I - Antologia do Concurso Literário D. Sancho I">
     </td>
     <td>
-      <p class="book_title"><b>Nanozine - Uma webzine literária portuguesa</b></p>
-      <p class= "book_description">
-        Participação com um poema inédito no nº 5 da revista (março de 2012).
-      </p>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td>
-      <a href="http://nanoezine.wordpress.com/revista">
-        <img class="book_thumbnail book_cover" src="../images/capas/outros/nanozine5.jpg" alt="Nanozine - Uma webzine literária portuguesa">
-      </a>
-    </td>
-    <td>
-      <p class="book_title"><b>Nanozine - Uma webzine literária portuguesa</b></p>
-      <p class= "book_description">
-        Participação com um poema inédito no nº 5 da revista (março de 2012).
+      <p class="book_title">Contos de D. Sancho I - Antologia do Concurso Literário “D. Sancho I”</p>
+      <p class="book_publisher">Quasi Edições, 2006</p>
+      <p class="book_description">
+        Participação na antologia com a narrativa intitulada <em><a href="../livros/as_confissoes_de_dulce.html">As Confissões de Dulce</a></em>, vencedora do 2º prémio do Concurso Nacional de Contos “D. Sancho I”.
       </p>
     </td>
   </tr>
@@ -92,58 +85,19 @@ Category: Info
 </table>
     
     
-    
-    
-    
-    
-<img class="book_thumbnail" src="../images/capas/outros/nanozine5.jpg" alt="Nanozine - Uma webzine literária portuguesa">
-<p class="book_title"><b>Nanozine - Uma webzine literária portuguesa</b></p>
-<p class= "book_description">
-http://nanoezine.wordpress.com/revista
-Participação com um poema inédito no nº 5 da revista (março de 2012).
-</p>
-</div>
-
-
-<div class="small_book_list">
-<img class="book_thumbnail" src="../images/capas/outros/entre_o_sono_e_o_sonho__.jpg" alt="Entre o Sono e o Sonho - Antologia de Poesia Contemporânea, Vol. IV">
-<p class="book_title"><b>Entre o Sono e o Sonho - Antologia de Poesia Contemporânea, Vol. IV</b> (Chiado Editora, 2013)</p>
-<p class= "book_description">
-Participação na antologia com um poema.
-</p>
-</div>
-
-
-<div class="small_book_list">
-<img class="book_thumbnail book_cover" src="../images/capas/outros/terra_de_val_de_vez__gepa.jpg" alt="Terra de Val de Vez - Revista cultural do G.E.PA. (Grupo de Estudos do Património Arcuense)">
-<p class="book_title"><b>Terra de Val de Vez - Revista cultural do G.E.PA. (Grupo de Estudos do Património Arcuense)</b></p>
-<p class= "book_description">
-Participação com alguns poemas da obra “é preciso calar o monólogo” no nº 18 da revista (2007). Essa edição da revista inclui também uma análise do professor Filipe Machado sobre esse mesmo livro de poesia.
-</p>
-</div>
-
-
-
-<div class="small_book_list">
-<img class="book_thumbnail book_cover" src="../images/capas/outros/contos-dsancho_-3.jpg" alt="Contos de D. Sancho I - Antologia do Concurso Literário D. Sancho I">
-<p class="book_title"><b>Contos de D. Sancho I - Antologia do Concurso Literário “D. Sancho I”</b> (Quasi Edições, 2006)</p>
-<p class= "book_description">
-Participação na antologia com a narrativa intitulada *As Confissões de Dulce*, vencedora do 2º prémio do Concurso Nacional de Contos “D. Sancho I”.
-</p>
-</div>
 
 
 ### Outras edições:
 
-<div class="small_book_list">
-<img class="book_thumbnail book_cover" src="../images/capas/outros/a-nossa-lingua-2.png" alt="A Língua Portuguesa no Alto Minho<">
-<p class="book_title"><b>A Língua Portuguesa no Alto Minho</b> (ArcosOnline, 2004)</p>
-<p class= "book_description">
-Ainda disponível para download grátis, em formato PDF, <a href="http://www.victordomingos.com/resources/livros/arcosonline/a-nossa-lingua.pdf">aqui</a>.
-</p>
-</div> 
-
-
-
-<hr>
-
+<table class="small_book_list">
+  <tr>
+    <td>
+      <img class="book_thumbnail book_cover"  src="../images/capas/outros/a-nossa-lingua-2.png" alt="A Língua Portuguesa no Alto Minho">
+    </td>
+    <td>
+      <p class="book_title">A Língua Portuguesa no Alto Minho</p>
+      <p class="book_publisher">ArcosOnline, 2004</p>
+      <p class= "book_description">Ainda disponível para download grátis, em formato PDF, <a href="http://www.victordomingos.com/resources/livros/arcosonline/a-nossa-lingua.pdf">aqui</a>.</p>
+    </td>
+  </tr>
+</table>
