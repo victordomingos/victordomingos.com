@@ -7,7 +7,7 @@ session_start();
 //////////////////////////////////////////////////////
 
 //set the return URL
-$return_url = "../info/contactos.html";
+$return_url = "../../info/contactos.html";
 
 //set the users email address
 $email = "info@victordomingos.com";

@@ -54,7 +54,7 @@ PPPPara enviar um email ao autor, por favor preencha o seguinte formulário. Em 
 
 <div class="message-text"><?php echo $_SESSION['formMessage']; unset($_SESSION['formMessage']); ?></div><br />
 
-<form class="rw-contact-form" action="./mailer.php" method="post" enctype="multipart/form-data">
+<form class="rw-contact-form" action="../biblioteca/form/mailer.php" method="post" enctype="multipart/form-data">
 	 <div>
 		<label>Nome:</label> *<br>
 		<input class="form-input-field" type="text" value="" name="form[element0]" size="40"><br>
