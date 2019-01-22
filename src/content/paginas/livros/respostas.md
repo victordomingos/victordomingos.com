@@ -1,15 +1,22 @@
 Title: As respostas dos leitores-autores
+Subtitle: a propósito do livro <b>É Preciso Calar o Monólogo</b>
 Slug: respostas
 Category: Livros
+Template: book_page
 Status: hidden
+Cover: images/capas/capa-calar-o-monologo.jpg
 
+
+<p></p>
 
 ### Leia o livro e participe!
 
-Este espaço reune algumas das respostas enviadas pelos leitores, a propósito da obra de poesia [É preciso calar o monólogo]({filename}/paginas/livros/e_preciso_calar_o_monologo.md).
+Este espaço reúne algumas das respostas enviadas pelos leitores, a propósito da obra de poesia [É preciso calar o monólogo]({filename}/paginas/livros/e_preciso_calar_o_monologo.md). Ficou com curiosidade? Esse livro pode ser obtido [aqui]({filename}/paginas/livros/e_preciso_calar_o_monologo.md). Por que espera? Leia também o livro e participe neste diálogo criativo.
+
+Ajude-nos a calar o monólogo!
   
-  
-_____
+<p></p>
+<hr width=100%>
 
 #### Yvette R. (Brasil)
 
@@ -21,7 +28,8 @@ A alma chora por 48 horas, pedindo acorde acorde, o que existe dentro de mim e u
 
 Yvette R.
 
-_____
+<p><br></p>
+<hr width=100%>
 
 
 #### Concha Rousia (Galiza)
@@ -59,7 +67,8 @@ e um dia eu mesma serei esses cristais no teu monólogo,
 [Concha Rousia](http://republicadarousia.blogspot.com)
 
 
-_____
+<p><br></p>
+<hr width=100%>
 
 
 #### Antonelli (Brasil)
@@ -75,7 +84,8 @@ mas fale-me ainda sim
 
 Antonelli
 
-_____
+<p><br></p>
+<hr width=100%>
 
 
 #### R. (Brasil)
