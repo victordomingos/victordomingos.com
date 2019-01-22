@@ -55,7 +55,7 @@ Category: Info
 
 
   <tr>
-    <td width="90px">
+    <td style="width:90px;">
       <img class="book_thumbnail book_cover" src="../images/capas/outros/terra_de_val_de_vez__gepa.jpg" alt="Terra de Val de Vez - Revista cultural do G.E.PA.  (Grupo de Estudos do Património Arcuense)">
     </td>
     <td>
