@@ -2,59 +2,13 @@ Title: Contactos
 Slug: contactos
 Category: info 
 Lang: pt
-Save_as: contactos.php
-
-<?php
-	// Start session.
-	session_start();
-	
-	// Set a key, checked in mailer, prevents against spammers trying to hijack the mailer.
-	$security_token = $_SESSION['security_token'] = uniqid(rand());
-	
-	if ( ! isset($_SESSION['formMessage'])) {
-		$_SESSION['formMessage'] = 'Para enviar um email ao autor, por favor preencha o seguinte formul&aacute;rio. Em alternativa, se preferir, envie email para <strong><em>info </em></strong><em>[ arroba ] </em><strong><em>victordomingos</em></strong><em> [ponto] </em><strong><em>com</em></strong><em>.</em>';	
-	}
-	
-	if ( ! isset($_SESSION['formFooter'])) {
-		$_SESSION['formFooter'] = '';
-	}
-	
-	if ( ! isset($_SESSION['form'])) {
-		$_SESSION['form'] = array();
-	}
-	
-	function check($field, $type = '', $value = '') {
-		$string = "";
-		if (isset($_SESSION['form'][$field])) {
-			switch($type) {
-				case 'checkbox':
-					$string = 'checked="checked"';
-					break;
-				case 'radio':
-					if($_SESSION['form'][$field] === $value) {
-						$string = 'checked="checked"';
-					}
-					break;
-				case 'select':
-					if($_SESSION['form'][$field] === $value) {
-						$string = 'selected="selected"';
-					}
-					break;
-				default:
-					$string = $_SESSION['form'][$field];
-			}
-		}
-		return $string;
-	}
-?><!DOCTYPE html>
-
-
-PPPPara enviar um email ao autor, por favor preencha o seguinte formulário. Em alternativa, se preferir, envie email para **info** [ arroba ] **victordomingos** [ponto] **com**.
+Save_as: info/contactos.php
+Message: Para enviar um email ao autor, por favor preencha o seguinte formulário. Em alternativa, se preferir, envie email para <strong>info</strong> [ arroba ] <strong>victordomingos</strong> [ponto] <strong>com</strong>.
 
 
 <div class="message-text"><?php echo $_SESSION['formMessage']; unset($_SESSION['formMessage']); ?></div><br />
 
-<form class="rw-contact-form" action="../biblioteca/form/mailer.php" method="post" enctype="multipart/form-data">
+<form class="rw-contact-form" action="biblioteca/form/mailer.php" method="post" enctype="multipart/form-data">
 	 <div>
 		<label>Nome:</label> *<br>
 		<input class="form-input-field" type="text" value="" name="form[element0]" size="40"><br>
