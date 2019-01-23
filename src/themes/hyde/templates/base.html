@@ -44,6 +44,9 @@
 			{% block content %}
 			{% endblock %}
 		</div>
+		{% if output_file=='info/contactos.php' %}
+			{% include 'mailer_page_footer.php' %}
+		{% endif %}
 	
 	
    <script>
