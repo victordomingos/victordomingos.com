@@ -41,12 +41,18 @@
 	<body class="theme-base-0d">
 		{% include 'sidebar.html' %}
 		<div class="content container">
+			{% if output_file=='info/contactos.php' %}
+				{% include 'mailer_page_formtop.php' %}
+			{% endif %}
+
 			{% block content %}
 			{% endblock %}
+			
+			{% if output_file=='info/contactos.php' %}
+				{% include 'mailer_page_formfooter.php' %}
+			{% endif %}
 		</div>
-		{% if output_file=='info/contactos.php' %}
-			{% include 'mailer_page_footer.php' %}
-		{% endif %}
+		
 	
 	
    <script>

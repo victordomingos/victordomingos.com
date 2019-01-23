@@ -6,9 +6,7 @@ Save_as: info/contactos.php
 Message: Para enviar um email ao autor, por favor preencha o seguinte formulário. Em alternativa, se preferir, envie email para <strong>info</strong> [ arroba ] <strong>victordomingos</strong> [ponto] <strong>com</strong>.
 
 
-<div class="message-text"><?php echo $_SESSION['formMessage']; unset($_SESSION['formMessage']); ?></div><br />
-
-<form class="rw-contact-form" action="biblioteca/form/mailer.php" method="post" enctype="multipart/form-data">
+<form class="rw-contact-form" action="../biblioteca/form/mailer.php" method="post" enctype="multipart/form-data">
 	 <div>
 		<label>Nome:</label> *<br>
 		<input class="form-input-field" type="text" value="" name="form[element0]" size="40"><br>
