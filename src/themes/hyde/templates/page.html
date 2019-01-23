@@ -5,8 +5,18 @@
 	<h2 class="page-title">
 		{{ page.title }}
 	</h2>
-	<p>{{ page.content }}
-</div>
+	<p>
+	{% if output_file=='info/contactos.php' %}
+		{% include 'mailer_page_formtop.php' %}
+	{% endif %}
+	
+	{{ page.content }}
+
+	{% if output_file=='info/contactos.php' %}
+		{% include 'mailer_page_formfooter.php' %}
+	{% endif %}
+
+</div><!--/post-->
 
 {% include 'fragments/footer.html' %}
 

@@ -2,9 +2,6 @@
 //start the session
 session_start();
 
-//////////////////////////////////////////////////////
-// Begin variables to be written out by RapidWeaver //
-//////////////////////////////////////////////////////
 
 //set the return URL
 $return_url = "../../info/contactos.php";
@@ -37,9 +34,9 @@ $windows_server = false;
 $message_success = 'Obrigado! Se tudo tiver corrido como previsto, a sua mensagem foi enviada.';
 $message_unset_fields = "Os campos assinalados com asterisco (*) são obrigatórios.";
 
-////////////////////////////////////////////////////
-// End variables to be written out by RapidWeaver //
-////////////////////////////////////////////////////
+
+
+
 
 // Check key variable from form against session key.
 if ( ! isset($_POST['form_token']) || $_POST['form_token'] !== $_SESSION['security_token']) {
