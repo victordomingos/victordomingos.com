@@ -87,6 +87,9 @@ html {
 
 .sidebar-about .lead {
   font-size: .8rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+
 }
 
 .sidebar-about .profile-picture {
@@ -619,8 +622,19 @@ textarea.form-input-field:focus {
       margin-top: 10px;
       border: solid 1px #CCCCCC;
       border-radius: 2px;
-      
     }
+	
+	.sidebar-about .lead {
+	  font-size: .7rem;
+	  margin-top: 0rem;
+  	  margin-bottom: .25rem;
+	}
+
+	.sidebar .container {
+	  padding-left: .1rem;
+	  padding-right: .1rem;
+	}
+
 
 }
 
@@ -656,6 +670,10 @@ textarea.form-input-field:focus {
       border-radius: 2px;
       
 	}
+	.sidebar-sticky {
+	  right:  .1rem;
+  	  left:   .1rem;
+    }
 }
 
 
