@@ -13,14 +13,8 @@
 		</div>
 		<nav class="sidebar-nav">
 			{% for txt, url in SIDEBAR_LINKS %} 
-			<a class="sidebar-nav-item" href="{{ SITEURL }}/{{ url }}">
-				<!--<i class="fa fa-{{ txt }}"></i>-->
-	    			{{ txt }}
-			</a>
-		
-			{% endfor %}		
-			
-			</a>
+				<a class="sidebar-nav-item" href="{{ SITEURL }}/{{ url }}">{{ txt }}</a>
+			{% endfor %}
 		</nav>
 	</div>
 </div>
