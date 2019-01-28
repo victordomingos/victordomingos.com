@@ -26,7 +26,7 @@
 
 	{% if page.cover %}
         <picture>
-            <source class="book_page_cover book_cover" media="(min-width: 465px)" srcset="{{ SITEURL }}/{{ page.cover | thumbnail("420x_") }}" alt="{{ page.title |striptags }}">
+            <source media="(min-width: 465px)" srcset="{{ SITEURL }}/{{ page.cover | thumbnail("420x_") }}" alt="{{ page.title |striptags }}">
             <img class="book_page_cover book_cover" src="{{ SITEURL }}/{{ page.cover | thumbnail("580x_") }}" alt="{{ page.title |striptags }}">
         </picture>
 	{% endif %}

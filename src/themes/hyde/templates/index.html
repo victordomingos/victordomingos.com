@@ -24,8 +24,8 @@
 			{% if article.cover %}
                 <a href="{{ article.url }}">
 				 <picture>
-                    <source class="article_list_img" media="(min-width: 650px)" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("1300x_") }}" alt="{{ article.title |striptags }}">
-                    <source class="article_list_img" media="(min-width: 465px)" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("650x_") }}" alt="{{ article.title |striptags }}">
+                    <source media="(min-width: 650px)" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("1300x_") }}" alt="{{ article.title |striptags }}">
+                    <source media="(min-width: 465px)" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("650x_") }}" alt="{{ article.title |striptags }}">
                     <img class="article_list_img" src="{{ SITEURL }}/{{ article.cover }}" alt="{{ article.title |striptags }}">
                  </picture>
 				</a>
