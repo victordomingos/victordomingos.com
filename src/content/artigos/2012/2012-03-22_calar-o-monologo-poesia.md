@@ -17,4 +17,3 @@ O livro *É Preciso Calar o Monólogo* já se encontra disponível à venda inte
 
 É importante referir, contudo, que os restantes leitores não ficaram esquecidos! Mesmo que não tenham um leitor Kindle ou um dispositivo Apple, poderão adquirir na livraria [Smashwords](http://www.smashwords.com/books/view/136180#longdescr?ref=victordomingos) este livro em versão multiformato (inclui PDF, EPUB, MOBI, e outros). Os vários formatos disponíveis são particularmente úteis para quem usa outros dispositivos de leitura de e-books e permitem por exemplo, a leitura deste livro num simples smartphone Android ou Symbian, ou mesmo em qualquer computador pessoal. 
 
-￼

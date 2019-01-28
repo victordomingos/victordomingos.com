@@ -1,5 +1,17 @@
 {% extends "base.html" %}
 
+{% block head %}
+  {{ super() }}
+  {% if DESCRIPTION %}
+    <meta name="description" content="{{ DESCRIPTION|striptags }}">
+  {% endif %}
+{% endblock %}
+
+{% block title %}
+  {{ SITENAME|striptags }} | {{ SITESUBTITLE|striptags }}
+{% endblock %}
+
+
 {% block content %}
 	<div class="posts">
 		{% for article in articles_page.object_list %}

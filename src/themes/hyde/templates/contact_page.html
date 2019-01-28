@@ -1,5 +1,15 @@
 {% extends "base.html" %}
 
+{% block head %}
+  {{ super() }}
+  <meta name="description" content="{{ page.summary|striptags }}">
+{% endblock %}
+
+{% block title %}
+  {{ page.title }} {{ super() }}
+{% endblock %}
+
+
 {% block content %}
 <div class="post">
 	<h2 class="page-title">

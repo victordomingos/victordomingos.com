@@ -1,5 +1,19 @@
 {% extends "base.html" %}
 
+{% block head %}
+  {{ super() }}
+  <meta name="description" content="{{ article.summary|striptags }}">
+{% endblock %}
+
+{% block title %}
+  {{ article.title|striptags }} {{ super() }}
+{% endblock %}
+
+{% block page_header %}
+  {{ article.title }}
+{% endblock %}
+
+
 {% block content %}
 <div class="post">
 	<a class="post-category" href="{{  SITEURL  }}/{{ category.url }}">{{ article.category | upper }}</a>, <span class="post-date">{{ article.locale_date }}</span>

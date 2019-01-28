@@ -1,5 +1,19 @@
 {% extends "base.html" %}
 
+{% block head %}
+  {{ super() }}
+  <meta name="description" content="{{ page.summary|striptags }}">
+{% endblock %}
+
+{% block title %}
+  Livros: {{ page.title }} {{ super() }}
+{% endblock %}
+
+{% block page_header %}
+  {{ page.title }}
+{% endblock %}
+
+
 {% block content %}
 <div class="post">
 	<h2 class="page-title"><a href="{{ SITEURL }}/info/livros.html">Livros</a></h2>

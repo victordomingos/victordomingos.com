@@ -78,7 +78,7 @@ DISPLAY_PAGES_ON_MENU = True
 RELATIVE_URLS = True
 
 THEME = "themes/hyde"
-SITESUBTITLE = ''
+SITESUBTITLE = 'Página oficial de Victor Domingos'
 
 SIDEBAR_LINKS = (
 				 ('Notícias', 'index.html'),

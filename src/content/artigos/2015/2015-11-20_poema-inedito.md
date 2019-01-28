@@ -5,7 +5,7 @@ Tags: Poesia
 Slug: poema-inedito
 Summary: <br>o sonho de uma empatia impossível<br>discurso ilegível como a tua vontade<br>o paleio roto do poeta velho e tonto<br><br>sabes como comunicar a minha dor<br>como se fosse tua por direito e<br>no entanto<br>a vida termina aqui<br>onde começas a pronunciar-te
 
-<br>nessa hora todo eu sou apenas
+nessa hora todo eu sou apenas
 <br>um irreversível erro de cálculo
 <br>na geometria correta e complexa do universo
 <br>como se o meu destino não fosse o de lhe moldar a face
