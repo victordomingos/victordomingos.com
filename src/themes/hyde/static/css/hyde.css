@@ -327,6 +327,12 @@ a.sidebar-nav-item.active:focus { color: #fff; }
 .post .fa { font-size: 0.5em; }
 .post-date { display: inline; }
 
+.article_list_img {
+    max-height: 60vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .book_list img
 {
 	height: auto;
@@ -543,6 +549,14 @@ textarea.form-input-field:focus
 {
 	background-color: #025aa5;
 	border-color: #01549b;
+}
+
+@media (max-width: 38rem){
+	.article_list_img {
+		max-height: 90vh;
+		margin-left: auto;
+		margin-right: auto;
+	}
 }
 
 @media (min-width: 48em)
