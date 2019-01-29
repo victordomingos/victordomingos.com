@@ -15,7 +15,8 @@
 
 
 {% block content %}
-<div class="post">
+<article>
+    <div class="post">
 	<a class="post-category" href="{{  SITEURL  }}/{{ category.url }}">{{ article.category | upper }}</a>, <span class="post-date">{{ article.locale_date }}</span>
 	<h2 class="post-title">
 		{{ article.title | striptags }}
@@ -33,8 +34,8 @@
 	{% endif %}
       
 	<p>{{ article.content }}
-</div>
-
+    </div>
+</article>
 
 
 

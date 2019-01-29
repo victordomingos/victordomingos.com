@@ -315,13 +315,18 @@ a.sidebar-nav-item.active:focus { color: #fff; }
 	font-weight: bold;
 	font-style: italic;
 	margin-bottom: 30px;
+	line-height: 1;
 }
 
 .post .external-link-margin
 {
 	margin-left: 3px;
 	vertical-align: super;
-	font-size: .7em;
+	font-size: .5em;
+}
+
+article .post p {
+	line-height: 1.8;
 }
 
 .post .fa { font-size: 0.5em; }

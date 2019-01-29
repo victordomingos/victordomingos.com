@@ -1,7 +1,7 @@
 Title: Livros
 Slug: livros
 Category: Info
-
+Template: books_page
 
 
 ### Narrativa

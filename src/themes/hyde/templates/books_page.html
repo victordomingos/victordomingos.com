@@ -15,24 +15,16 @@
 
 
 {% block content %}
-<article>
-    <div class="post">
-	<h2 class="page-title">
-		{{ page.title }}
-	</h2>
-	<p>
-	{% if output_file=='info/contactos.php' %}
-		{% include 'mailer_page_formtop.php' %}
-	{% endif %}
-	
-	{{ page.content }}
+<div class="post">
+<h2 class="page-title">
+    {{ page.title }}
+</h2>
+<p>
 
-	{% if output_file=='info/contactos.php' %}
-		{% include 'mailer_page_formfooter.php' %}
-	{% endif %}
+{{ page.content }}
 
-    </div><!--/post-->
-</article>
+</div><!--/post-->
+
 
 {% include 'fragments/footer.html' %}
 
