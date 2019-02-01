@@ -85,29 +85,18 @@ SIDEBAR_LINKS = (
 				 ('Biografia', 'info/biografia.html'),
 				 ('Livros', 'info/livros.html'),
 				 ('Contactar', 'info/contactos.php'),
-				 #('file-o', 'index.html'),
-				 #('user', 'info/biografia.html'),
-				 #('book', 'info/livros.html'),
-				 #('comments-o', 'info/contactos.php'),
-				 #('safari', 'etcetera/sitemap.html'),
                 )
 
 
-
-#DISPLAY_DATE_ON_ARTICLE_LIST = False
-#SITEIMAGE_FOLDER = 'images/avatars/x150'  # Images to be used randomly in the header
-
-
-'''
-SITEIMAGES = [ Path(*Path(img).parts[1:])
-               for img in glob('{}/{}/*.png'.format(PATH,SITEIMAGE_FOLDER))]
-
-SITEIMAGE_SIZE = 'width=100% height=100%'
-SITEIMAGE = '/images/avatars/x150/avatar1.png' # Default Image that appears in the header
-'''
-
-PROFILE_IMAGE = 'autor/autor_victor-domingos_O_280.jpg'
-
+PROFILE_IMAGE = 'autor/autor_victor-domingos_O_172.jpg'
+PROFILE_IMAGE76 = 'autor/autor_victor-domingos_O_76.jpg'
+PROFILE_IMAGE86 = 'autor/autor_victor-domingos_O_86.jpg'
+PROFILE_IMAGE120 = 'autor/autor_victor-domingos_O_120.jpg'
+PROFILE_IMAGE136 = 'autor/autor_victor-domingos_O_136.jpg'
+PROFILE_IMAGE138 = 'autor/autor_victor-domingos_O_138.jpg'
+PROFILE_IMAGE152 = 'autor/autor_victor-domingos_O_152.jpg'
+PROFILE_IMAGE172 = 'autor/autor_victor-domingos_O_172.jpg'
+PROFILE_IMAGE204 = 'autor/autor_victor-domingos_O_204.jpg'
 
 PLUGIN_PATHS = ['plugins/']
 PLUGINS = [
@@ -129,11 +118,6 @@ DEADLINK_OPTS = {
 
 RELATED_POSTS_MAX = 3
 
-"""
-if CURRENT_PLATFORM != "iOS":
-    # for instance if you have some plugin configurations not compatible with Pythonista
-    pass
-"""
 
 MARKDOWN = {
     'extension_configs': {
