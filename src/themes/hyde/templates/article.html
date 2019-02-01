@@ -23,9 +23,13 @@
 	</h2>
 	{% if article.cover %}
       <picture>
-        <source media="(min-width: 650px)" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("1300x_") }}" alt="{{ article.title |striptags }}">
-        <source media="(min-width: 465px)" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("650x_") }}" alt="{{ article.title |striptags }}">
-        <img class="article_list_img" src="{{ SITEURL }}/{{ article.cover }}" alt="{{ article.title |striptags }}">
+         <source media="(min-width: 542px) 1x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("648x_") }}" alt="{{ article.title |striptags }}">
+         <source media="(min-width: 542px) 2x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("1296x_") }}" alt="{{ article.title |striptags }}">
+         <source media="(min-width: 328px) 1x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("328x_") }}" alt="{{ article.title |striptags }}">
+         <source media="(min-width: 328px) 2x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("656x_") }}" alt="{{ article.title |striptags }}">
+         <source media="(max-width: 328px) 1x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("273x_") }}" alt="{{ article.title |striptags }}">
+         <source media="(max-width: 328px) 2x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("546x_") }}" alt="{{ article.title |striptags }}">
+         <img src="{{ SITEURL }}/{{ article.cover | thumbnail("648x_") }}" alt="{{ article.title |striptags }}" class="article_list_img" >
       </picture>
     {% endif %}
 
