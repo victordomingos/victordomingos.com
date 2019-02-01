@@ -1,0 +1,19 @@
+<div class="row page-footer" >
+
+<!--
+  <ul class="col-sm-6 list-inline">
+    <li class="list-inline-item"><a href="{{ SITEURL }}/index.html">Blog</a></li>
+    <li class="list-inline-item"><a href="{{ SITEURL }}/info/biografia.html">Biografia</a></li>
+    <li class="list-inline-item"><a href="{{ SITEURL }}/info/livros.html">Livros</a></li>
+    <li class="list-inline-item"><a href="{{ SITEURL }}/info/contactos.html">Contactos</a></li>
+
+    <li class="list-inline-item"><a href="{{ SITEURL }}/blog/arquivo.html">Arquivo</a></li>
+    <li class="list-inline-item"><a href="{{ SITEURL }}/blog/categorias.html">Categorias</a></li>
+    <li class="list-inline-item"><a href="{{ SITEURL }}/blog/tags.html">Tópicos</a></li>
+    <li class="list-inline-item"><a href="{{ SITEURL }}/{{FEED_ALL_RSS }}" target="_blank">RSS</a></li>
+  </ul>
+-->
+
+  <p class="col-sm-6 text-sm-right text-muted copy">
+  © {{dates|groupby('date.year')|sort(reverse=True)|last|first}}-{{dates|groupby('date.year')|sort(reverse=False)|last|first}} <a href="https://no-title.victordomingos.com">Victor Domingos</a>.</p>
+</div>

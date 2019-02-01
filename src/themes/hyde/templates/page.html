@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block head %}
+  {{ super() }}
+  <meta name="description" content="{{ page.summary|striptags }}">
+{% endblock %}
+
+{% block title %}
+  {{ page.title|striptags }} {{ super() }}
+{% endblock %}
+
+{% block page_header %}
+  {{ page.title }}
+{% endblock %}
+
+
+{% block content %}
+<article>
+    <div class="post">
+	<h2 class="page-title">
+		{{ page.title }}
+	</h2>
+	<p>
+	{% if output_file=='info/contactos.php' %}
+		{% include 'mailer_page_formtop.php' %}
+	{% endif %}
+	
+	{{ page.content }}
+
+	{% if output_file=='info/contactos.php' %}
+		{% include 'mailer_page_formfooter.php' %}
+	{% endif %}
+
+    </div><!--/post-->
+</article>
+
+{% include 'fragments/footer.html' %}
+
+{% endblock %}

@@ -1,0 +1,22 @@
+<div class="sidebar">
+	<div class="container sidebar-sticky">
+		<div class="sidebar-about">
+
+			<h1 class="site-title">
+				<a href="{{ SITEURL }}">
+					<img src="{{ SITEURL }}/images/{{ PROFILE_IMAGE }}"
+                         srcset="{{ SITEURL }}/images/{{ PROFILE_IMAGE76 }} 76w, {{ SITEURL }}/images/{{ PROFILE_IMAGE86 }} 86w, {{ SITEURL }}/images/{{ PROFILE_IMAGE120 }} 120w, {{ SITEURL }}/images/{{ PROFILE_IMAGE136 }} 136w, {{ SITEURL }}/images/{{ PROFILE_IMAGE138 }} 138w, {{ SITEURL }}/images/{{ PROFILE_IMAGE152 }} 152w, {{ SITEURL }}/images/{{ PROFILE_IMAGE172 }} 172w, {{ SITEURL }}/images/{{ PROFILE_IMAGE204 }} 204w"
+                         alt="Victor Domingos"
+                        class="profile-picture">
+					{{ SITENAME }}
+				</a>
+			</h1>
+			<p class="lead">{{ BIO }} </p>
+		</div>
+		<nav class="sidebar-nav">
+			{% for txt, url in SIDEBAR_LINKS %} 
+				<a class="sidebar-nav-item" href="{{ SITEURL }}/{{ url }}">{{ txt }}</a>
+			{% endfor %}
+		</nav>
+	</div>
+</div>

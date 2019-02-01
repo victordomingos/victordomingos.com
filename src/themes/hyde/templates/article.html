@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+
+{% block head %}
+  {{ super() }}
+  <meta name="description" content="{{ article.summary|striptags }}">
+{% endblock %}
+
+{% block title %}
+  {{ article.title|striptags }} {{ super() }}
+{% endblock %}
+
+{% block page_header %}
+  {{ article.title }}
+{% endblock %}
+
+
+{% block content %}
+<article>
+    <div class="post">
+	<a class="post-category" href="{{  SITEURL  }}/{{ category.url }}">{{ article.category | upper }}</a>, <span class="post-date">{{ article.locale_date }}</span>
+	<h2 class="post-title">
+		{{ article.title | striptags }}
+	</h2>
+	{% if article.cover %}
+      <picture>
+         <source media="(min-width: 542px) 1x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("648x_") }}" alt="{{ article.title |striptags }}">
+         <source media="(min-width: 542px) 2x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("1296x_") }}" alt="{{ article.title |striptags }}">
+         <source media="(min-width: 328px) 1x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("328x_") }}" alt="{{ article.title |striptags }}">
+         <source media="(min-width: 328px) 2x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("656x_") }}" alt="{{ article.title |striptags }}">
+         <source media="(max-width: 328px) 1x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("273x_") }}" alt="{{ article.title |striptags }}">
+         <source media="(max-width: 328px) 2x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("546x_") }}" alt="{{ article.title |striptags }}">
+         <img src="{{ SITEURL }}/{{ article.cover | thumbnail("648x_") }}" alt="{{ article.title |striptags }}" class="article_list_img" >
+      </picture>
+    {% endif %}
+
+	{% if article.summary %}
+		<p>{{article.summary}}
+	{% endif %}
+      
+	<p>{{ article.content }}
+    </div>
+</article>
+
+
+
+{% if article.related_posts %}
+    <div class="related_articles">
+    <h5 class="related_articles_header">Artigos relacionados:</h5>
+    <table>
+          {% for related_post in article.related_posts %}
+             <tr>
+                <td>
+                    {% if related_post.cover %}
+                    <a href="{{ SITEURL }}/{{ related_post.url }}">
+                        <img src="{{ SITEURL }}/{{related_post.cover | thumbnail("160x_") }}" alt="{{ related_post.title | striptags }}">
+                    </a>
+                    {% endif %}
+                </td>
+                <td>
+                    <a href="{{ SITEURL }}/{{ related_post.url }}">
+                        {{ related_post.title }}
+                    </a>
+                </td>
+            </tr>
+          {% endfor %}
+     </table>
+    </div>
+{% endif %}
+
+
+
+
+{% if article.prev_article or article.next_article %}
+    <hr>
+    <div class="article_footer">
+    <table width=100%><tr>
+        <td class="navigation_link" align="left">
+          {% if article.prev_article %}
+            <a href="{{ SITEURL }}/{{ article.prev_article.url}}">❮ {{ article.prev_article.title }}</a>
+          {% endif %}
+        </td>
+ 
+        <td>
+           <!-- Just a spacer in the middle -->
+        </td>
+        
+        <td  class="navigation_link" align="right">
+          {% if article.next_article %}
+            <a href="{{ SITEURL }}/{{ article.next_article.url}}">{{ article.next_article.title }} ❯</a>
+          {% endif %}
+        </td>
+    </tr></table>
+    </div>
+    <hr>
+{% endif %}
+
+{% include 'fragments/footer.html' %}
+
+{% endblock %}

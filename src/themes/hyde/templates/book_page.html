@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block head %}
+  {{ super() }}
+  <meta name="description" content="{{ page.summary|striptags }}">
+{% endblock %}
+
+{% block title %}
+  Livros: {{ page.title }} {{ super() }}
+{% endblock %}
+
+{% block page_header %}
+  {{ page.title }}
+{% endblock %}
+
+
+{% block content %}
+<article>
+    <div class="post">
+	<h2 class="page-title"><a href="{{ SITEURL }}/info/livros.html">Livros</a></h2>
+	<h3>
+		{{ page.title }}
+	</h3>
+	{% if page.subtitle %}
+	  <p class="post-subtitle">{{ page.subtitle }}</p>
+	{% endif %}
+
+	{% if page.cover %}
+        <picture>
+            <source media="(min-width: 465px)" srcset="{{ SITEURL }}/{{ page.cover | thumbnail("420x_") }}" alt="{{ page.title |striptags }}">
+            <img class="book_page_cover book_cover" src="{{ SITEURL }}/{{ page.cover | thumbnail("580x_") }}" alt="{{ page.title |striptags }}">
+        </picture>
+	{% endif %}
+	
+	<p>{{ page.content }}
+    </div>
+</article>
+
+{% include 'fragments/footer.html' %}
+
+{% endblock %}

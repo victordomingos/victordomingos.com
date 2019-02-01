@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="post">
+	<h2 class="post-title">
+		{{ page.title }}
+	</h2>
+	<p>{{ page.content }}
+</div>
+
+
+
+
+
+{% include 'fragments/footer.html' %}
+
+{% endblock %}

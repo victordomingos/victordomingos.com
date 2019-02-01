@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block head %}
+  {{ super() }}
+  {% if DESCRIPTION %}
+    <meta name="description" content="{{ DESCRIPTION|striptags }}">
+  {% endif %}
+{% endblock %}
+
+{% block title %}
+  {{ SITENAME|striptags }} | {{ SITESUBTITLE|striptags }}
+{% endblock %}
+
+
+{% block content %}
+	<div class="posts">
+		{% for article in articles_page.object_list %}
+			<div class="post">
+                 		<a class="post-category" href="{{  SITEURL  }}/{{ article.category.url }}">{{ article.category | upper }}</a>
+				<h2 class="post-title">
+					<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+				</h2>
+		  
+			{% if article.cover %}
+                <a href="{{ article.url }}">
+                 <picture>
+                     <source media="(min-width: 542px) 1x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("648x_") }}" alt="{{ article.title |striptags }}">
+                     <source media="(min-width: 542px) 2x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("1296x_") }}" alt="{{ article.title |striptags }}">
+                     <source media="(min-width: 328px) 1x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("328x_") }}" alt="{{ article.title |striptags }}">
+                     <source media="(min-width: 328px) 2x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("656x_") }}" alt="{{ article.title |striptags }}">
+                     <source media="(max-width: 328px) 1x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("273x_") }}" alt="{{ article.title |striptags }}">
+                     <source media="(max-width: 328px) 2x" srcset="{{ SITEURL }}/{{ article.cover | thumbnail("546x_") }}" alt="{{ article.title |striptags }}">
+                     <img src="{{ SITEURL }}/{{ article.cover | thumbnail("648x_") }}" alt="{{ article.title |striptags }}" class="article_list_img" >
+                  </picture>
+				</a>
+			{% endif %}
+			{% if article.summary %}
+				<p>{{ article.summary }}</p>
+				<a class="read-more" href="{{ SITEURL }}/{{ article.url }}">Ler mais…</a>
+			{% else %}
+				<p>{{ article.content }}</p>
+			{% endif %}
+			</div>
+		{% endfor %}
+	</div>
+	
+	{% include 'fragments/pagination.html' %}
+
+	{% include 'fragments/footer.html' %}
+{% endblock %}
+
