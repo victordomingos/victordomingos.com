@@ -7,7 +7,7 @@ Summary: Há cerca de um ano, decidi pegar nos [meus livros]({filename}/paginas/
 
 A primeira grande curiosidade que eu tinha, no início, era qual dos meus livros teria mais procura. Ao fim de um ano, o balanço de vendas (que não inclui nenhum dos livros oferecidos gratuitamente no Natal ou noutras campanhas) permite-nos observar a seguinte proporção:
 
-![Proporção de vendas de ebooks em 2012]({filename}/images/2012/vendas_livros_2012.png)
+![Proporção de vendas de ebooks em 2012]({static}/images/2012/vendas_livros_2012.png)
 ￼
 É fácil perceber que estes três livros de narrativa têm cativado muito mais leitores do que a minha única obra de poesia publicada até ao momento. Algo que não é particularmente surpreendente, já que mesmo no mercado tradicional dos livros em papel, a poesia sempre tem sido uma espécie parente pobre, em termos de vendas. Como não esperava fazer fortuna e me interessa muito mais que os meus poemas sejam lidos por quem goste de poesia, decidi há dias tornar definitivamente grátis o livro [É preciso calar o monólogo]({filename}/paginas/livros/e_preciso_calar_o_monologo.md). 
 
@@ -15,7 +15,7 @@ Entretanto, a observação da evolução nas vendas tem sido uma constante apren
 
 A outra grande curiosidade que eu tinha era sobre qual a plataforma onde as vendas de ebooks seriam mais significativas. Confesso que tinha uma grande expectativa relativamente à Kindle store, que acabou por sair frustrada, como se pode avaliar pelo gráfico abaixo, que retrata a distribuição de vendas por plataforma durante estes 12 meses.
 ￼
-![Vendas de livros por plataforma em 2012]({filename}/images/2012/vendas_livros_plataformas_2012.png)
+![Vendas de livros por plataforma em 2012]({static}/images/2012/vendas_livros_plataformas_2012.png)
 
 Para contextualizar, convém lembrar que o mercado de ebooks ainda está a começar em Portugal, no Brasil e em muitos outros países. A iBookstore abriu em Portugal em finais de [setembro de 2011](https://promais.com/blog/2011/09/29/ibookstore-ja-esta-disponivel-em-portugal/), tornando-se assim a Apple o primeiro gigante mundial da área dos ebooks a iniciar operações no mercado português. Já no Brasil, a sua atividade começou apenas em [outubro deste ano]({filename}/artigos/2012/2012-10-22_ibookstore-brasil.md). Mais recentemente, [há cerca de um mês]({filename}/artigos/2012/2012-10-06_kobo_chega_a_portugal.md), a Kobo começou a distribuir os seus dispositivos em Portugal, através da Fnac, estando neste momento a ser feita também a sua introdução no Brasil, através da Livraria Cultura. Há também algumas lojas de âmbito nacional, como a Wook (Portugal) ou a Saraiva (Brasil) que vendem ebooks on-line, sem contudo os promoverem no contexto de um e-reader próprio. Não conheço os números, mas tudo parece indicar que a quota de mercado da iBookstore e dos seus concorrentes internacionais deverá ser substancialmente superior. 
 
