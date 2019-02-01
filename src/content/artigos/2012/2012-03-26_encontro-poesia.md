@@ -3,7 +3,7 @@ Date: 2012-03-26 23:16
 Tags: Eventos, Poesia, Notícias
 Slug: encontro-poesia
 Category: Notícias
-Cover: images/2012/pacodagloria-2.png
+Cover: images/2012/pacodagloria-2.jpg
 Summary: No próximo sábado, dia 31 de março, irei estar presente no 1º Encontro de Poesia Galega e Minhota, que terá lugar no belíssimo [Paço da Glória](http://www.pacodagloria.com/), em Jolda,  Arcos de Valdevez. O evento, promovido pelo Grupo de Estudos do Património Arcuense (GEPA) decorrerá durante a tarde, a partir das 16h30, com o programa abaixo reproduzido.
 
 Para além de ter interesse em assistir às conferências dos vários oradores portugueses e galegos, que irão versar sobre temas que me são particularmente caros, tive a honra de ser convidado a dizer poesia juntamente com outros participantes. Um convite que aceitei com muito gosto, sabendo de antemão que me encontraria em excelente companhia “tertuliana”. Adicionalmente, dois poemas meus serão incluídos numa recolha antológica que será distribuída aos participantes.
