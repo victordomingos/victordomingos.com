@@ -23,7 +23,7 @@ PATH = 'content'
 STATIC_PATHS = ['images', 'biblioteca']
 PAGE_PATHS = ['paginas']
 ARTICLE_PATHS = ['artigos']
-DEFAULT_PAGINATION = 9
+DEFAULT_PAGINATION = 6
 DEFAULT_ORPHANS = 2
 
 TIMEZONE = 'Europe/Lisbon'
@@ -90,11 +90,7 @@ SIDEBAR_LINKS = (
 
 PROFILE_IMAGE = 'autor/autor_victor-domingos_O_172.jpg'
 PROFILE_IMAGE76 = 'autor/autor_victor-domingos_O_76.jpg'
-PROFILE_IMAGE86 = 'autor/autor_victor-domingos_O_86.jpg'
-PROFILE_IMAGE120 = 'autor/autor_victor-domingos_O_120.jpg'
-PROFILE_IMAGE136 = 'autor/autor_victor-domingos_O_136.jpg'
 PROFILE_IMAGE138 = 'autor/autor_victor-domingos_O_138.jpg'
-PROFILE_IMAGE152 = 'autor/autor_victor-domingos_O_152.jpg'
 PROFILE_IMAGE172 = 'autor/autor_victor-domingos_O_172.jpg'
 PROFILE_IMAGE204 = 'autor/autor_victor-domingos_O_204.jpg'
 

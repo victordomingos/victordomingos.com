@@ -72,7 +72,6 @@ html { font-family: "PT Sans", Helvetica, Arial, sans-serif; }
 {
 	color: #fff;
 	margin-top: 0;
-	/* font-family: "Abril Fatface", serif;*/
 	font-family: "PT Sans",Helvetica,Arial,sans-serif;
 	font-size: 1.5rem;
 }
@@ -325,11 +324,20 @@ a.sidebar-nav-item.active:focus { color: #fff; }
 	font-size: .5em;
 }
 
+.text-muted .external-link-margin
+{
+	margin-left: 3px;
+	vertical-align: super;
+	font-size: .5em;
+}
+
+
 article .post p {
 	line-height: 1.8;
 }
 
 .post .fa { font-size: 0.5em; }
+.text-muted .fa { font-size: 0.3em; }
 .post-date { display: inline; }
 
 .article_list_img {
