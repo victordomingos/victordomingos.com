@@ -15,7 +15,7 @@ A História costuma relatar os feitos dos grandes reis e guerreiros, mas raramen
 > *"A narrativa em primeira pessoa traz a "voz" de uma mulher manipuladora mas honesta nos seus afetos, uma mulher com visão aguda sobre os bajuladores que orbitam seu esposo e futuro rei de Portugal. Nas reflexões de Dulce há o histórico de intrigas familiares, a paspalhice do marido, o despotismo do sogro, o carinho e fidelidade concentrados na tristeza pela decrepitude de um animal querido. O conto é como um retrato da personagem presa na história."*  
 > --- (Maurem Kaina) 
 
-[Leia aqui o comentário da escritora brasileira Maurem Kayna]({filename}/artigos/2011/2011-11-11_no_confessionario_com_dulce.md)
+- [Leia aqui o comentário da escritora brasileira Maurem Kayna]({filename}/artigos/2011/2011-11-11_no_confessionario_com_dulce.md)
 
 
 #### Obter este livro:

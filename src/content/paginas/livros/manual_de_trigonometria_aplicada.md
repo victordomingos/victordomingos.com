@@ -15,7 +15,7 @@ Difícil de definir e de enquadrar nos géneros literários mais convencionais, 
 > *"Misto de gênero epistolar, (...) expõe, pelo vigor da prosa inquieta, um criador para cuja trajetória vale ficar atento."*  
 > --- (Antônio Mariano) 
 
-[Leia aqui o comentário do escritor brasileiro Antônio Mariano de Lima]({filename}/artigos/2011/2011-11-03_um_novo_escritor.md)
+- [Leia aqui o comentário do escritor brasileiro Antônio Mariano de Lima]({filename}/artigos/2011/2011-11-03_um_novo_escritor.md)
 
 
 

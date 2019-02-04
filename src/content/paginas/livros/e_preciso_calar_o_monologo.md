@@ -10,8 +10,8 @@ Cover: images/capas/capa-calar-o-monologo.jpg
 Para o autor deste livro, existem demasiadas situações em que a comunicação humana se reduz a um interminável monólogo. Desde as relações pessoais de caráter mais íntimo ou familiar às grandes questões políticas da atualidade, Victor Domingos mostra-se convencido de que «tudo seria bem mais simples se a comunicação não fosse tendencialmente unidirecional». De acordo com o autor, «em vez de um falar e outro se limitar a ouvir de uma forma muito pouco criativa», é necessário dar voz a ambas as partes, promovendo uma comunicação mais efetiva. 
 
 
-[Leia aqui um excerto deste livro]({filename}/artigos/2012/2012-03-09_excerto-poema-calar-o-monologo.md)  
-[As respostas dos leitores-autores]({filename}/paginas/livros/respostas.md)
+- [Leia aqui um excerto deste livro]({filename}/artigos/2012/2012-03-09_excerto-poema-calar-o-monologo.md)  
+- [As respostas dos leitores-autores]({filename}/paginas/livros/respostas.md)
 
 
 #### Obter este livro:

@@ -13,7 +13,7 @@ Template: books_page
 </div>
 
 
-### Poesia
+### <a name="poesia"></a>Poesia
 
 <div class="book_list">
   <a href="../livros/e_preciso_calar_o_monologo.html"><img class="book_list book_cover" src="../images/capas/capa-calar-o-monologo-360.jpg" alt="É Preciso Calar o Monólogo (poesia)"></a>
@@ -21,7 +21,7 @@ Template: books_page
 
 
 
-### Como editor/organizador
+### <a name="editor_organizador"></a>Como editor/organizador
 
 <div class="book_list">
   <a href="../livros/o_salustio_nogueira_teixeira_de_queiros.html"><img class="book_cover" src="../images/capas/outros/o-salustio-nogueira_capa.jpg" alt="O Salústio Nogueira (romance de Teixeira de Queirós, com introdução de Victor Domingos e posfácio de David Mourão-Ferreira)"></a>
@@ -29,7 +29,7 @@ Template: books_page
 </div>
 
 
-### Participação em revistas e antologias
+### <a name="revistas_antologias"></a>Participação em revistas e antologias
 
 <table class="small_book_list">
   <tr>
@@ -87,7 +87,7 @@ Template: books_page
     
 
 
-### Outras edições
+### <a name="outras_edicoes"></a>Outras edições
 
 <table class="small_book_list">
   <tr>
