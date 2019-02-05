@@ -15,7 +15,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 AUTHOR = u'Victor Domingos'
 SITENAME = u'Victor Domingos'
-SITEURL = u'https://victordomingos.com/testingvd'
+SITEURL = u'https://victordomingos.com'
 BIO = u'Escritor&nbsp;independente. Curioso. Aprendiz&nbsp;de&nbsp;tudo.'
 DESCRIPTION = u'Página oficial de Victor Domingos - escritor e poeta português, autor de livros de narrativa e poesia, em edição impressa e e-book.'
 
