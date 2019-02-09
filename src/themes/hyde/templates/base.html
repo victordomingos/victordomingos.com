@@ -57,6 +57,9 @@
         <meta property="og:site_name" content="{{ SITENAME }}">
     {% endif %}
     {% include 'fragments/google_analytics.html' %}
+    
+  {% include 'include/xml_feeds.html' %}
+  {% block head %}{% endblock %}
 </head>
 
 <body class="theme-base-0d">
