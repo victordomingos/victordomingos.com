@@ -4,6 +4,8 @@ Category: Livros
 Status: hidden
 Template: book_page
 Cover: images/capas/capa-calar-o-monologo.jpg
+Summary: "É Preciso Calar o Monólogo" é um pequeno livro de poemas em que Victor Domingos desafia o leitor a quebrar uma das últimas barreiras da leitura, isto é, a romper com a passividade. O poeta desafia o leitor a (re)criar a sua obra e a comunicar com ele, interrompendo assim o monólogo tradicional da literatura.
+
 
 *É Preciso Calar o Monólogo* é um pequeno livro de poemas em que Victor Domingos desafia o leitor a quebrar uma das últimas barreiras da leitura, isto é, a romper com a passividade. O poeta desafia o leitor a (re)criar a sua obra e a comunicar com ele, interrompendo assim o monólogo tradicional da literatura. 
 

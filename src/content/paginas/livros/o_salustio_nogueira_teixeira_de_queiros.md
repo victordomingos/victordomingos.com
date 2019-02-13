@@ -5,7 +5,7 @@ Status: hidden
 Subtitle: Romance do escritor português Teixeira de Queirós (1848-1919), com introdução de Victor Domingos e posfácio de David Mourão-Ferreira.
 Template: book_page
 Cover: images/capas/outros/o-salustio-nogueira_capa.jpg
- 
+Summary: O melhor romance de sempre do do escritor português Teixeira de Queirós (1848-1919), numa re-edição histórica, com introdução de Victor Domingos e posfácio de David Mourão-Ferreira. Disponível gratuitamente em PDF nesta página.
 
 #### Obter este livro:
 

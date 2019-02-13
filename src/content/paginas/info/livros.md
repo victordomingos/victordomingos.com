@@ -2,7 +2,7 @@ Title: Livros
 Slug: livros
 Category: Info
 Template: books_page
-
+Summary: Conheça os vários livros de narrativa e poesia publicados por Victor Domingos, bem como alguma bibliografia adicional, incluindo participação em revistas e antologias, e as obras mais notáveis com sua participação na qualidade de editor/organizador.
 
 ### Narrativa
 

@@ -5,7 +5,7 @@ Status: hidden
 Subtitle: Volume 1, September 2004 (revista digital publicada por ArcosOnline)
 Template: book_page
 Cover: images/capas/outros/ewpsychology.png
- 
+Summary: Esta obra traz até si um conjunto de textos sobre diversas temáticas da Psicologia, escritos por psicólogos e estudantes de psicologia de vários países da Europa. Inclui quatro artigos de investigação e quatro de revisão de literatura no sentido da sua aplicação prática. A abrir o volume, vem também um texto de Pedro Neves, antigo presidente da EFPSA, sobre "A Psicologia em Portugal e na Europa".
 
 
 #### Obter este livro:

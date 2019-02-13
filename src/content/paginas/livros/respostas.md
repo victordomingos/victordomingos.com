@@ -5,7 +5,7 @@ Category: Livros
 Template: book_page
 Status: hidden
 Cover: images/capas/capa-calar-o-monologo.jpg
-
+Summary: Este espaço reúne algumas das respostas enviadas pelos leitores, a propósito da obra de poesia "É preciso calar o monólogo". Ficou com curiosidade? 
 
 <p></p>
 

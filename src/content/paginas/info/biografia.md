@@ -1,6 +1,7 @@
 Title: Biografia
 Slug: biografia
 Category: info
+Summary: Biografia pessoal e profissional de Victor Domingos, inluindo um resumo do seu percurso profissional, publicações e prémios literários, iniciativas de ativismo cívico, trabalho editorial, e colaboração com comunicação social e blogues.
 
 Nasci em 1981 em Arcos de Valdevez e atualmente vivo em Braga. Completei uma licenciatura em Psicologia na Universidade do Minho em 2005 e, ao longo da minha vida, sempre estive interessado em aprender algo mais. Sou casado e especialmente apaixonado pela minha filha.
 

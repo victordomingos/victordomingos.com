@@ -5,8 +5,8 @@ Status: hidden
 Subtitle: Vencedor do 1º prémio no Concurso Literário Teixeira de Queiroz
 Template: book_page
 Cover: images/capas/capa-ode.jpg
- 
- 
+Summary: "Ode a Um Poeta Naturalista" é uma pequena novela que conseguiu o 1º lugar no Concurso Literário Teixeira de Queiroz, em 1999. O significado do amor, das relações, da vida e da própria morte são alguns dos temas privilegiados da literatura universal que são abordados neste livro. O enredo da narrativa, que assenta numa história de amor vivida de dentro e narrada, ora na 1ª, ora na 2ª pessoa, é-nos transmitido sob a forma de um conjunto de cenas ou quadros relativos à vida de um poeta "naturalista". 
+
 *Ode a Um Poeta Naturalista* é uma pequena novela que conseguiu o 1º lugar no Concurso Literário Teixeira de Queiroz, em 1999.
 
 O significado do amor, das relações, da vida e da própria morte são alguns dos temas privilegiados da literatura universal que são abordados neste livro. O enredo da narrativa, que assenta numa história de amor vivida de dentro e narrada, ora na 1ª, ora na 2ª pessoa, é-nos transmitido sob a forma de um conjunto de cenas ou quadros relativos à vida de um poeta "naturalista". 
