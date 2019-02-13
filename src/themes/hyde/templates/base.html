@@ -51,7 +51,11 @@
 		<meta property="og:type" content="page">
 		<meta property="og:image" content="{{ SITEURL }}/{{ page.cover }}">
 		<meta property="og:url" content="{{ SITEURL }}/{{ output_file }}">
-		<meta property="og:description" content="{{ page.summary|striptags }}">
+		{% if page.summary %}		
+			<meta property="og:description" content="{{ page.summary|striptags }}">
+		{% else %}
+			<meta property="og:description" content="{{ DESCRIPTION }}">
+		{% endif %}
 		<meta property="og:locale" content="pt_PT">
 		<meta property="og:site_name" content="{{ SITENAME }}">
 		<meta name="description" content="{{ page.summary|striptags }}">
