@@ -20,20 +20,16 @@
 				<h2 class="post-title">
 					<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
 				</h2>
-		  
 	{% if article.cover %}
-
     <img src="{{ SITEURL }}/{{ article.cover | thumbnail("1296x_")}}"
     	 alt="{{ article.title |striptags }}" 
          class="article_list_img" >
-
     {% endif %}
-
 			{% if article.summary %}
-				<p>{{ article.summary }}</p>
+				{{ article.summary }}
 				<a class="read-more" href="{{ SITEURL }}/{{ article.url }}">Ler mais…</a>
 			{% else %}
-				<p>{{ article.content }}</p>
+				{{ article.content }}
 			{% endif %}
 			</div>
 		{% endfor %}
