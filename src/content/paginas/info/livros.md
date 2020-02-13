@@ -97,7 +97,7 @@ Summary: Conheça os vários livros de narrativa e poesia publicados por Victor 
     <td>
       <p class="book_title">A Língua Portuguesa no Alto Minho</p>
       <p class="book_publisher">ArcosOnline, 2004</p>
-      <p class= "book_description">Ainda disponível para download grátis, em formato PDF, <a href="http://www.victordomingos.com/resources/livros/arcosonline/a-nossa-lingua.pdf">aqui</a>.</p>
+      <p class= "book_description">Ainda disponível para download grátis, em formato PDF, <a href="https://victordomingos.com/biblioteca/pdf/a-nossa-lingua.pdf">aqui</a>.</p>
     </td>
   </tr>
 </table>
