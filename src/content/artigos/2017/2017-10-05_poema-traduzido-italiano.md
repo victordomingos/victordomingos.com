@@ -44,11 +44,12 @@ Summary:<br><i>il sogno di un’empatia impossibile<br>discorso illeggibile come
 
 
 <audio controls>
-<source src="https://www.victordomingos.com/resources/blog/2017/silvia_panceri__o_sonho_de_uma_empatia_impossível_poema_traduzido_para_italiano_versao2a.mp3" type="audio/mpeg">O seu navegador da Web não suporta o elemento <tt>audio</tt>. Para ouvir esta gravação, por favor aceda a esta página utilizando uma aplicação compatível com HTML5.
+<source src="https://victordomingos.com/biblioteca/audio/silvia_panceri__o_sonho_de_uma_empatia_impossivel_poema_traduzido_para_italiano_versao2a.mp3" type="audio/mpeg">
+O seu navegador da Web não suporta o elemento <tt>audio</tt>. Para ouvir esta gravação, por favor aceda a esta página utilizando uma aplicação compatível com HTML5.
 </audio>
 
 
 ______
-Silvia Panceri frequenta o mestrado em línguas e literaturas estrangeiras na Universidade de Milão e nutre um gosto muito especial pela poesia. No âmbito de um trabalho académico, realizou esta belíssima tradução para italiano de [um meu poema que aqui partilhei]() há algum tempo. À jovem e promissora tradutora, agradeço a honra da escolha, bem como a gentileza de ter cedido a sua tradução e a respetiva gravação (na sua própria voz) para publicação neste espaço. 
+Silvia Panceri frequenta o mestrado em línguas e literaturas estrangeiras na Universidade de Milão e nutre um gosto muito especial pela poesia. No âmbito de um trabalho académico, realizou esta belíssima tradução para italiano de [um meu poema que aqui partilhei]({filename}/artigos/2015/2015-11-20_poema-inedito.md) há algum tempo. À jovem e promissora tradutora, agradeço a honra da escolha, bem como a gentileza de ter cedido a sua tradução e a respetiva gravação (na sua própria voz) para publicação neste espaço. 
 
 
