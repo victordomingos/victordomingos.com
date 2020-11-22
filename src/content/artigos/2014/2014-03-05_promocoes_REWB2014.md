@@ -13,7 +13,7 @@ Para usufruir destes descontos, introduza o código promocional correspondente (
 
 ### …e um livro grátis!
 
-“é preciso calar o monólogo", o livro de poemas que até [já circula nas redes de pirataria](), estará disponível gratuitamente durante toda a Semana do Livro Digital.
+“é preciso calar o monólogo", o livro de poemas que até já circula nas redes de pirataria, estará disponível gratuitamente durante toda a Semana do Livro Digital.
 
 
 

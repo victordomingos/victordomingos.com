@@ -70,7 +70,7 @@ Apesar de a presente obra resultar do cruzamento dos livros anteriores do autor,
 
 Não querendo fazer deste comentário um longo e entediante "spoiler", será preferível poupar o leitor à enumeração de todos os aspetos interessantes deste livro. Cada leitor, estou certo, encontrará motivos de sobra para considerar prazerosa e enriquecedora a leitura, tanto pela multiplicidade de interpretações que grande parte dos poemas permitem, como pela voz clara e despretensiosamente eloquente do sujeito poético, como pelo humor refinado que se encontra de página a página.
 
-Para já, creio que o livro está à venda apenas no Brasil, podendo por exemplo ser encomendado diretamente junto da [editora Patuá](http://www.editorapatua.com.br/index.php?option=com_content&view=article&id=155&Itemid=55). Ainda não existe versão digital do livro, o que é uma pena, já que seria uma forma simples de facilitar o acesso a leitores de outros pontos do globo. No entanto, de acordo com o autor, poderá estar para breve a publicação desta e outras obras suas em *e-book*. 
+Para já, creio que o livro está à venda apenas no Brasil, podendo por exemplo ser encomendado diretamente junto da [editora Patuá](https://www.editorapatua.com.br). Ainda não existe versão digital do livro, o que é uma pena, já que seria uma forma simples de facilitar o acesso a leitores de outros pontos do globo. No entanto, de acordo com o autor, poderá estar para breve a publicação desta e outras obras suas em *e-book*. 
 
 
 

@@ -9,7 +9,7 @@ Summary: Este espaço reúne algumas das respostas enviadas pelos leitores, a pr
 
 <p></p>
 
-### Leia o livro e participe!
+<h3> Leia o livro e participe!</h3>
 
 Este espaço reúne algumas das respostas enviadas pelos leitores, a propósito da obra de poesia [É preciso calar o monólogo]({filename}/paginas/livros/e_preciso_calar_o_monologo.md). Ficou com curiosidade? Esse livro pode ser obtido [aqui]({filename}/paginas/livros/e_preciso_calar_o_monologo.md). Por que espera? Leia também o livro e participe neste diálogo criativo.
 
@@ -18,7 +18,7 @@ Ajude-nos a calar o monólogo!
 <p></p>
 <hr width=100%>
 
-#### Yvette R. (Brasil)
+<h4>Yvette R. (Brasil)</h4>
 
 O pior monólogo é da nossa alma, onde gritamos continuamente, acreditando que quando amamos demais, conseguimos buscar a quem muito amamos, 
 
@@ -32,7 +32,7 @@ Yvette R.
 <hr width=100%>
 
 
-#### Concha Rousia (Galiza)
+<h4> Concha Rousia (Galiza)</h4>
 
 Tudo merece ser,  
 eu também mereço o meu existir,  
@@ -71,7 +71,7 @@ e um dia eu mesma serei esses cristais no teu monólogo,
 <hr width=100%>
 
 
-#### Antonelli (Brasil)
+<h4> Antonelli (Brasil)</h4>
 
 1  
 fale-me   
@@ -88,7 +88,7 @@ Antonelli
 <hr width=100%>
 
 
-#### R. (Brasil)
+<h4> R. (Brasil)</h4>
 
 E neste instante, tendo a certeza que o Cristo está em mim e me apodero dos cajados do senhor, da espada do ser Lancelot e Rei Artur e na luta incansável pela conecção ao arco e flechas pela luta e destruição ao vampirismo humano coloco-me a disposição da Divindade e o exemplo de Zacarias que guie essa alma no fortalecimento e reconstrução do Cristo que latente se apresenta ao coração que bate pulsante na experiência Universal. Anjo, rogo: nunca mais me abandone, sinto que meu corpo desfalece mas tu tens todas a ferramentas para o auxilio da reconstrução, me sustente no exemplo de Deus e que os grandes anjos sejam apresentados a mim nessa jornada solitária e graciosa para a montanha sagrada. O amor sempre prevalecerá. Solicito de ti 
 
