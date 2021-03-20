@@ -5,7 +5,7 @@ csscompressor==0.9.5
 entrypoints==0.2.3
 feedgenerator==1.9
 htmlmin==0.1.12
-Jinja2==2.10
+Jinja2==2.11.3
 joblib==0.12.5
 keyring==15.0.0
 MarkupSafe==1.0
