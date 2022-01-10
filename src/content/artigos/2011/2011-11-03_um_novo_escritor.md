@@ -30,8 +30,8 @@ No trecho a seguir (Pág. 18), Victor Domingos, a exemplo da obra anterior, lan�
 Que o leitor não me deixe mentir. Daí, é só aguardar por futuros e ousados projetos ficcionais desse escritor a que desejamos espaço garantido nas letras portuguesas e que se torne um nome familiar entre nós, irmãos que compartilham o mesmo idioma.
 
 
-<hr>
+_____
 
-O texto acima, da autoria do poeta e escritor Antônio Mariano Lima, foi publicado originalmente no suplemento “Cultura” do jornal brasileiro “A União”, na sua edição de 26 de junho de 2003. Trata-se de uma recensão ao livro *[Manual de Trigonometria Aplicada]({filename}/paginas/livros/manual_de_trigonometria_aplicada.md)*, cuja reedição em formato digital ficará disponível muito brevemente. O artigo é aqui reproduzido com a devida permissão do autor, a quem agradecemos a gentileza.
+O texto acima, da autoria do poeta e escritor Antônio Mariano Lima, foi publicado originalmente no suplemento “Cultura” do jornal brasileiro “A União”, na sua edição de 26 de junho de 2003. Trata-se de uma recensão ao livro [*Manual de Trigonometria Aplicada*]({filename}/paginas/livros/manual_de_trigonometria_aplicada.md), cuja reedição em formato digital ficará disponível muito brevemente. O artigo é aqui reproduzido com a devida permissão do autor, a quem agradecemos a gentileza.
 
 
