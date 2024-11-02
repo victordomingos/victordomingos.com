@@ -16,9 +16,10 @@ from pelicanconf import *
 RELATIVE_URLS = True
 
 
-PLUGINS = PLUGINS + ['sitemap',
-                     'minify',  # this should be the last plugin affecting html
-                     'minification', # idem...
+PLUGINS = PLUGINS + [
+                     #'sitemap',
+                     #'minify',  # this should be the last plugin affecting html
+                     #'minification', # idem...
                     ]
 
 SITEMAP = {
