@@ -16,7 +16,7 @@ idna==2.10
 importlib-metadata==2.0.0
 jeepney==0.4.3
 Jinja2==2.11.2
-joblib==0.17.0
+joblib==1.2.0
 keyring==21.4.0
 Markdown==3.3.2
 MarkupSafe==1.1.1
