@@ -18,7 +18,7 @@ pelican-minify==0.9
 pelican-neighbors==1.0.0
 pyembed-markdown==1.1.0
 pyftpsync==2.1.0
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.7.3
 pytz==2018.5
 six==1.11.0
