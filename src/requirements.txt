@@ -1,7 +1,7 @@
 beautifulsoup4==4.9.3
 blinker==1.4
 bs4==0.0.1
-certifi==2020.11.8
+certifi==2022.12.7
 cffi==1.14.3
 chardet==3.0.4
 colorama==0.4.4
